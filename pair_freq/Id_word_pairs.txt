@@ -1,0 +1,480 @@
+1. capital-common-countries			
+Tokyo	Japan	Tokyo	Jepang
+Helsinki	Finland	Helsinki	Finlandia
+Madrid	Spain	Madrid	Spanyol
+Paris	France	Paris	Perancis
+Havana	Cuba	Havana	Kuba
+Tehran	Iran	Tehran	Iran
+Cairo	Egypt	Kairo	Mesir
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Bern	Swiss
+Canberra	Australia	Canberra	Australia
+London	England	London	Inggris
+Berlin	Germany	Berlin	Jerman
+Kabul	Afghanistan	Kabul	Afghanistan
+Athens	Greece	Athena	Yunani
+Moscow	Russia	Moskowa	Rusia
+Stockholm	Sweden	Stockholm	Swedia
+Ottawa	Canada	Ottawa	Kanada
+Rome	Italy	Roma	Italia
+Hanoi	Vietnam	Hanoi	Vietnam
+Beijing	China	Beijing	China
+Bangkok	Thailand	Bangkok	Thailand
+Oslo	Norway	Oslo	Norwegia
+Baghdad	Iraq	Baghdad	Iraq
+2. capital-world			
+Funafuti	Tuvalu	Funafuti	Tuvalu
+Madrid	Spain	Madrid	Spanyol
+Paris	France	Paris	Perancis
+Nassau	Bahamas	Nassau	Bahamas
+Maputo	Mozambique	Maputo	Mozambique
+Tehran	Iran	Tehran	Iran
+Vientiane	Laos	Vientiane	Laos
+Bamako	Mali	Bamako	Mali
+Ankara	Turkey	Ankara	Turki
+Vaduz	Liechtenstein	Vaduz	Liechtenstein
+Asmara	Eritrea	Asmara	Eritrea
+Roseau	Dominica	Roseau	Dominika
+Dushanbe	Tajikistan	Dushanbe	Tajikistan
+Sofia	Bulgaria	Sofia	Bulgaria
+Bucharest	Romania	Bucharest	Romania
+Tunis	Tunisia	Tunis	Tunisia
+Lusaka	Zambia	Lusaka	Zambia
+Quito	Ecuador	Quito	Ekuador
+Khartoum	Sudan	Khartoum	Sudan
+Montevideo	Uruguay	Montevideo	Uruguay
+Antananarivo	Madagascar	Antananarivo	Madagaskar
+Kiev	Ukraine	Kiev	Ukraina
+Rome	Italy	Roma	Italia
+Hanoi	Vietnam	Hanoi	Vietnam
+Damascus	Syria	Damascus	Syria
+Oslo	Norway	Oslo	Norwegia
+Vilnius	Lithuania	Vilnius	Lithuania
+Algiers	Algeria	Algiers	Algeria
+Tashkent	Uzbekistan	Tashkent	Uzbekistan
+Tokyo	Japan	Tokyo	Jepang
+Helsinki	Finland	Helsinki	Finlandia
+Dublin	Ireland	Dublin	Irlandia
+Chisinau	Moldova	Chisinau	Moldova
+Managua	Nicaragua	Managua	Nicaragua
+Paramaribo	Suriname	Paramaribo	Suriname
+Bishkek	Kyrgyzstan	Bishkek	Kyrgyzstan
+Cairo	Egypt	Kairo	Mesir
+Amman	Jordan	Amman	Jordan
+Budapest	Hungary	Budapest	Hungaria
+Doha	Qatar	Doha	Qatar
+Astana	Kazakhstan	Astana	Kazakhstan
+Kabul	Afghanistan	Kabul	Afghanistan
+Monrovia	Liberia	Monrovia	Liberia
+Dhaka	Bangladesh	Dhaka	Bangladesh
+Mogadishu	Somalia	Mogadishu	Somalia
+Bujumbura	Burundi	Bujumbura	Burundi
+Valletta	Malta	Valletta	Malta
+Nouakchott	Mauritania	Nouakchott	Mauritania
+Kingston	Jamaica	Kingston	Jamaika
+Beirut	Lebanon	Beirut	Lebanon
+Beijing	China	Beijing	China
+Bangkok	Thailand	Bangkok	Thailand
+Harare	Zimbabwe	Harare	Zimbabwe
+Muscat	Oman	Muscat	Oman
+Baghdad	Iraq	Baghdad	Iraq
+Conakry	Guinea	Conakry	Guinea
+Tallinn	Estonia	Tallinn	Estonia
+Georgetown	Guyana	Georgetown	Guyana
+Taipei	Taiwan	Taipei	Taiwan
+Rabat	Morocco	Rabat	Moroko
+Yerevan	Armenia	Yerevan	Armenia
+Havana	Cuba	Havana	Kuba
+Thimphu	Bhutan	Thimphu	Bhutan
+Nuuk	Greenland	Nuuk	Greenland
+Baku	Azerbaijan	Baku	Azerbaijan
+Kigali	Rwanda	Kigali	Rwanda
+Dakar	Senegal	Dakar	Senegal
+Suva	Fiji	Suva	Fiji
+Belmopan	Belize	Belmopan	Belize
+Banjul	Gambia	Banjul	Gambia
+Athens	Greece	Athena	Yunani
+Riga	Latvia	Riga	Latvia
+Zagreb	Croatia	Zagreb	Kroasia
+Skopje	Macedonia	Skopje	Makedonia
+Ashgabat	Turkmenistan	Ashgabat	Turkmenistan
+Stockholm	Sweden	Stockholm	Swedia
+Manila	Philippines	Manila	Filipina
+Brussels	Belgium	Brussels	Belgium
+Luanda	Angola	Luanda	Angola
+Nicosia	Cyprus	Nicosia	Cyprus
+Santiago	Chile	Santiago	Chile
+Caracas	Venezuela	Caracas	Venezuela
+Minsk	Belarus	Minsk	Belarus
+Tbilisi	Georgia	Tbilisi	Georgia
+Libreville	Gabon	Libreville	Gabon
+Tegucigalpa	Honduras	Tegucigalpa	Honduras
+London	England	London	Inggris
+Vienna	Austria	Vienna	Austria
+Warsaw	Poland	Warsaw	Polandia
+Berlin	Germany	Berlin	Jerman
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Bern	Swiss
+Lima	Peru	Lima	Peru
+Accra	Ghana	Accra	Ghana
+Tripoli	Libya	Tripoli	Libya
+Gaborone	Botswana	Gaborone	Botswana
+Manama	Bahrain	Manama	Bahrain
+Bratislava	Slovakia	Bratislava	Slovakia
+Canberra	Australia	Canberra	Australia
+Kampala	Uganda	Kampala	Uganda
+Kathmandu	Nepal	Kathmandu	Nepal
+Lisbon	Portugal	Lisbon	Portugal
+Apia	Samoa	Apia	Samoa
+Belgrade	Serbia	Belgrade	Serbia
+Jakarta	Indonesia	Jakarta	Indonesia
+Lilongwe	Malawi	Lilongwe	Malawi
+Ljubljana	Slovenia	Ljubljana	Slovenia
+Moscow	Russia	Moskowa	Rusia
+Tirana	Albania	Tirana	Albania
+Ottawa	Canada	Ottawa	Kanada
+Nairobi	Kenya	Nairobi	Kenya
+Copenhagen	Denmark	Copenhagen	Denmark
+Niamey	Niger	Niamey	Niger
+Abuja	Nigeria	Abuja	Nigeria
+Windhoek	Namibia	Windhoek	Namibia
+Podgorica	Montenegro	Podgorica	Montenegro
+3. currency			
+Poland	zloty	Polandia	zloty
+Brazil	real	Brazil	real
+Vietnam	dong	Vietnam	dong
+Sweden	krona	Sweida	krona
+Angola	kwanza	Angola	kwanza
+Japan	yen	Jepang	yen
+Mexico	peso	Meksiko	peso
+Latvia	lats	Latvia	lats
+Lithuania	litas	Lithuania	litas
+Hungary	forint	Hungaria	forint
+USA	dollar	AS	dolar
+Denmark	krone	Denmark	krone
+Armenia	dram	Armenia	dram
+Thailand	baht	Thailand	baht
+Nigeria	naira	Nigeria	naira
+Romania	leu	Romania	leu
+Argentina	peso	Argentina	peso
+Russia	ruble	Rusia	ruble
+Algeria	dinar	Algeria	dinar
+Ukraine	hryvnia	Ukraina	hryvnia
+Croatia	kuna	Kroasia	kuna
+Cambodia	riel	Kambodia	riel
+Canada	dollar	Kanada	dolar
+Korea	won	Korea	won
+Europe	euro	Eropa	euro
+Malaysia	ringgit	Malaysia	ringgit
+Iran	rial	Iran	rial
+India	rupee	India	rupee
+Macedonia	denar	Makedonia	denar
+Bulgaria	lev	Bulgaria	lev
+4. city-in-state			
+Wichita	Kansas	Wichita	Kansas
+Akron	Ohio	Akron	Ohio
+Irvine	California	Irvine	California
+Toledo	Ohio	Toledo	Ohio
+Indianapolis	Indiana	Indianapolis	Indiana
+Denver	Colorado	Denver	Colorado
+Milwaukee	Wisconsin	Milwaukee	Wisconsin
+Reno	Nevada	Reno	Nevada
+Boston	Massachusetts	Boston	Massachusetts
+Minneapolis	Minnesota	Minneapolis	Minnesota
+Bakersfield	California	Bakersfield	California
+Henderson	Nevada	Henderson	Nevada
+Seattle	Washington	Seattle	Washington
+Atlanta	Georgia	Atlanta	Georgia
+Chandler	Arizona	Chandler	Arizona
+Dallas	Texas	Dallas	Texas
+Madison	Wisconsin	Madison	Wisconsin
+Tampa	Florida	Tampa	Florida
+Tallahassee	Florida	Tallahassee	Florida
+Irving	Texas	Irving	Texas
+Fontana	California	Fontana	California
+Anaheim	California	Anaheim	California
+Fresno	California	Fresno	California
+Amarillo	Texas	Amarillo	Texas
+Hialeah	Florida	Hialeah	Florida
+Pittsburgh	Pennsylvania	Pittsburgh	Pennsylvania
+Austin	Texas	Austin	Texas
+Sacramento	California	Sacramento	California
+Portland	Oregon	Portland	Oregon
+Glendale	California	Glendale	California
+Jacksonville	Florida	Jacksonville	Florida
+Shreveport	Louisiana	Shreveport	Louisiana
+Lexington	Kentucky	Lexington	Kentucky
+Tulsa	Oklahoma	Tulsa	Oklahoma
+Glendale	Arizona	Glendale	Arizona
+Tucson	Arizona	Tucson	Arizona
+Mesa	Arizona	Mesa	Arizona
+Spokane	Washington	Spokane	Washington
+Memphis	Tennessee	Memphis	Tennessee
+Oxnard	California	Oxnard	California
+Tacoma	Washington	Tacoma	Washington
+Lubbock	Texas	Lubbock	Texas
+Worcester	Massachusetts	Worcester	Massachusetts
+Miami	Florida	Miami	Florida
+Cleveland	Ohio	Cleveland	Ohio
+Scottsdale	Arizona	Scottsdale	Arizona
+Louisville	Kentucky	Louisville	Kentucky
+Stockton	California	Stockton	California
+Detroit	Michigan	Detroit	Michigan
+Phoenix	Arizona	Phoenix	Arizona
+Philadelphia	Pennsylvania	Philadelphia	Pennsylvania
+Huntsville	Alabama	Huntsville	Alabama
+Cincinnati	Ohio	Cincinnati	Ohio
+Honolulu	Hawaii	Honolulu	Hawaii
+Nashville	Tennessee	Nashville	Tennessee
+Oakland	California	Oakland	California
+Houston	Texas	Houston	Texas
+Fremont	California	Fremont	California
+Orlando	Florida	Orlando	Florida
+Arlington	Texas	Arlington	Texas
+Omaha	Nebraska	Omaha	Nebraska
+Laredo	Texas	Laredo	Texas
+Chicago	Illinois	Chicago	Illinois
+Baltimore	Maryland	Baltimore	Maryland
+Anchorage	Alaska	Anchorage	Alaska
+Plano	Texas	Plano	Texas
+Modesto	California	Modesto	California
+Garland	Texas	Garland	Texas
+5. family			
+brothers	sisters	kakak/adik	kakak/adik
+stepfather	stepmother	ayah tiri	ibu tiri
+his	her	dia	dia
+grandson	granddaughter	cucu	cucu
+man	woman	pria	wanita
+stepson	stepdaughter	anak tiri	anak tiri
+husband	wife	suami	istri
+grandfather	grandmother	kakek	nenek
+groom	bride	pengantin pria	pengantin wanita
+grandpa	grandma	kakek	nenek
+brother	sister	kakak/adik	kakak/adik
+king	queen	raja	ratu
+son	daughter	anak laki-laki	anak perempuan
+father	mother	ayah	ibu
+prince	princess	pangeran	putri
+boy	girl	laki-laki	perempuan
+nephew	niece	keponakan	keponakan
+stepbrother	stepsister	kakak/adik tiri	kakak/adik tiri
+he	she	dia	dia
+dad	mom	ayah	ibu
+uncle	aunt	paman	bibi
+sons	daughters	anak laki-laki	anak perempuan
+policeman	policewoman	polisi	polwan
+6. gram1-adjective-to-adverb			
+complete	completely	lengkap	sama sekali
+lucky	luckily	beruntung	beruntung
+quick	quickly	cepat	dengan cepat
+rare	rarely	jarang	jarang
+amazing	amazingly	luar biasa	luar biasa
+possible	possibly	mungkin	mungkin
+unfortunate	unfortunately	sayangnya	sayangnya
+cheerful	cheerfully	senang	senang
+most	mostly	kebanyakan	kebanyakan
+fortunate	fortunately	untung saja	untung saja
+free	freely	bebas	dengan bebas
+safe	safely	aman	dengan aman
+swift	swiftly	cepat	dengan cepat
+apparent	apparently	tampaknya	tampaknya
+efficient	efficiently	efisien	dengan efisien
+rapid	rapidly	cepat	dengan cepat
+precise	precisely	tepat	dengan tepat
+reluctant	reluctantly	enggan	enggan
+serious	seriously	serius	dengan serius
+calm	calmly	tenang	dengan tenang
+happy	happily	bahagia	dengan bahagia
+usual	usually	biasanya	biasanya
+furious	furiously	marah	dengan marah
+occasional	occasionally	kadang	kadang
+immediate	immediately	segera	dengan segera
+professional	professionally	profesional	dengan profesional
+obvious	obviously	jelas	jelas
+sudden	suddenly	tiba-tiba	tiba-tiba
+typical	typically	tipikal	khas
+quiet	quietly	diam-diam	diam-diam
+infrequent	infrequently	jarang	jarang
+slow	slowly	pelan-pelan	pelan-pelan
+7. gram2-opposite			
+clear	unclear	jelas	tidak jelas
+honest	dishonest	jujur	tidak jujur
+convincing	unconvincing	meyakinkan	tidak meyakinkan
+competitive	uncompetitive	kompetitif	tidak kompetitif
+known	unknown	diketahui	tidak diketahui
+impressive	unimpressive	impresif	tidak impresif
+possibly	impossibly	mungkin	tidak mungkin
+decided	undecided	diputuskan	tidak diputuskan
+consistent	inconsistent	konsisten	tidak konsisten
+ethical	unethical	etikal	tidak etikal
+informed	uninformed	diinformasikan	tidak diinformasikan
+comfortable	uncomfortable	nyaman	tidak nyaman
+possible	impossible	mungkin	tidak mungkin
+logical	illogical	logikal	tidak logikal
+efficient	inefficient	efisien	tidak efisien
+productive	unproductive	produktif	tidak produktif
+convenient	inconvenient	mudah	tidak mudah
+responsible	irresponsible	bertanggungjawab	tidak bertanggungjawab
+pleasant	unpleasant	menyenangkan	tidak menyenangkan
+tasteful	distasteful	enak	tidak enak
+fortunate	unfortunate	beruntung	tidak beruntung
+informative	uninformative	informatif	tidak informatif
+rational	irrational	rasional	tidak rasional
+acceptable	unacceptable	dapat diterima	tidak dapat diterima
+aware	unaware	sadar	tidak sadar
+reasonable	unreasonable	beralasan	tidak beralasan
+sure	unsure	yakin	tidak yakin
+certain	uncertain	yakin	tidak yakin
+likely	unlikely	seperti	tidak seperti
+8. gram3-comparative			
+low	lower	rendah	lebih rendah
+old	older	tua	lebih tua
+fast	faster	cepat	lebih cepat
+heavy	heavier	berat	lebih berat
+tight	tighter	kencang	lebih kencang
+simple	simpler	sederhana	lebih sederhana
+large	larger	besar	lebih besar
+hot	hotter	panas	lebih panas
+big	bigger	besar	lebih besar
+tough	tougher	kuat	lebih kuat
+high	higher	tinggi	lebih tinggi
+strong	stronger	kuat	lebih kuat
+bright	brighter	terang	lebih terang
+cheap	cheaper	murah	lebih murah
+warm	warmer	hangat	lebih hangat
+young	younger	muda	lebih muda
+quick	quicker	cepat	lebih cepat
+deep	deeper	dalam	lebih dalam
+loud	louder	keras	lebih keras
+new	newer	baru	lebih baru
+wide	wider	lebar	lebih lebar
+bad	worse	buruk	lebih buruk
+long	longer	panjang	lebih panjang
+slow	slower	lamban	lebih lamban
+easy	easier	mudah	lebih mudah
+short	shorter	pendek	lebih pendek
+small	smaller	kecil	lebih kecil
+sharp	sharper	tajam	lebih tajam
+safe	safer	aman	lebih aman
+cold	colder	dingin	lebih dingin
+good	better	baik	lebih baik
+tall	taller	tinggi	lebih tinggi
+weak	weaker	lemah	lebih lemah
+smart	smarter	pintar	lebih pintar
+cool	cooler	dingin	lebih dingin
+great	greater	hebat	lebih hebat
+hard	harder	sulit	lebih sulit
+9. gram4-superlative			
+easy	easiest	mudah	paling mudah
+weird	weirdest	aneh	paling aneh
+cold	coldest	dingin	paling dingin
+sharp	sharpest	tajam	paling tajam
+warm	warmest	hangat	paling hangat
+strong	strongest	kuat	paling kuat
+strange	strangest	aneh	paling aneh
+low	lowest	rendah	paling rendah
+wide	widest	lebar	paling lebar
+small	smallest	kecil	paling kecil
+cool	coolest	dingin	paling dingin
+great	greatest	hebat	paling hebat
+hot	hottest	panas	paling panas
+long	longest	panjang	paling panjang
+weak	weakest	lemah	paling lemah
+simple	simplest	sederhana	paling sederhana
+smart	smartest	pintar	paling pintar
+high	highest	tinggi	paling tinggi
+tall	tallest	tinggi	paling tinggi
+tasty	tastiest	enak	paling enak
+young	youngest	muda	paling muda
+bad	worst	buruk	paling buruk
+quick	quickest	cepat	paling cepat
+old	oldest	tua	paling tua
+fast	fastest	cepat	paling cepat
+bright	brightest	terang	paling terang
+big	biggest	besar	paling besar
+large	largest	besar	paling besar
+slow	slowest	lamban	paling lamban
+short	shortest	pendek	paling pendek
+good	best	baik	paling baik
+dark	darkest	gelap	paling gelap
+lucky	luckiest	beruntung	paling beruntung
+sweet	sweetest	manis	paling manis
+10. gram6-nationality-adjective			
+Thailand	Thai	Thailand	orang Thai
+India	Indian	India	orang India
+Portugal	Portuguese	Portugal	orang Portugis
+Belarus	Belorussian	Belarus	orang Belorussian
+Sweden	Swedish	Swedia	orang Swedia
+Spain	Spanish	Spanyol	orang Spanyol
+Mexico	Mexican	Meksiko	orang Meksiko
+Brazil	Brazilian	Brazil	orang Brazil
+China	Chinese	China	orang China
+Peru	Peruvian	Peru	orang Peru
+Argentina	Argentinean	Argentina	orang Argentina
+Korea	Korean	Korea	orang Korea
+Egypt	Egyptian	Mesir	orang Mesir
+Ukraine	Ukrainian	Ukraina	orang Ukraina
+Australia	Australian	Australia	orang Australia
+Russia	Russian	Rusia	orang Rusia
+Japan	Japanese	Jepang	orang Jepang
+Cambodia	Cambodian	Kambodia	orang Kambodia
+Greece	Greek	Yunani	orang Yunani
+Netherlands	Dutch	Belanda	orang Belanda
+England	English	Inggris	orang Inggris
+Poland	Polish	Polandia	orang Polandia
+Ireland	Irish	Irlandia	orang Irlandia
+Slovakia	Slovakian	Slovakia	orang Slovakia
+Albania	Albanian	Albania	orang Albania
+Chile	Chilean	Chile	orang Chile
+Germany	German	Jerman	orang Jerman
+Austria	Austrian	Austria	orang Austria
+Italy	Italian	Italia	orang Italia
+Norway	Norwegian	Norwegia	orang Norwegia
+Switzerland	Swiss	Swiss	orang Swiss
+Malta	Maltese	Malta	orang Malta
+Israel	Israeli	Israel	orang Israel
+Moldova	Moldovan	Moldova	orang Moldova
+Colombia	Colombian	Kolombia	orang Kolombia
+Bulgaria	Bulgarian	Bulgaria	orang Bulgaria
+Macedonia	Macedonian	Makedonia	orang Makedonia
+Croatia	Croatian	Kroasia	orang Kroasia
+Denmark	Danish	Denmark	orang Denmark
+Iceland	Icelandic	Islandia	orang Islandia
+France	French	Perancis	orang Perancis
+11. gram8-plural			
+color	colors	warna	warna
+dream	dreams	mimpi	mimpi
+mango	mangoes	mangga	mangga
+elephant	elephants	gajah	gajah
+monkey	monkeys	monyet	monyet
+eagle	eagles	elang	elang
+hand	hands	tangan	tangan
+bottle	bottles	botol	botol
+woman	women	wanita	wanita
+melon	melons	melon	melon
+cloud	clouds	awan	awan
+lion	lions	singa	singa
+mouse	mice	tikus	tikus
+pig	pigs	babi	babi
+donkey	donkeys	keledai	keledai
+machine	machines	mesin	mesin
+road	roads	jalan	jalan
+rat	rats	tikus	tikus
+onion	onions	bawang	bawang
+snake	snakes	ular	ular
+car	cars	mobil	mobil
+building	buildings	bangunan	bangunan
+man	men	pria	pria
+pineapple	pineapples	nanas	nanas
+cat	cats	kucing	kucing
+bird	birds	burung	burung
+cow	cows	sapi	sapi
+goat	goats	kambing	kambing
+horse	horses	kuda	kuda
+child	children	anak	anak-anak
+computer	computers	komputer	komputer
+dollar	dollars	dolar	dolar
+banana	bananas	pisang	pisang
+finger	fingers	tangan	tangan
+dog	dogs	anjing	anjing
+pear	pears	pir	pir

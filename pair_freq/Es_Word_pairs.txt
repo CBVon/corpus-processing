@@ -1,0 +1,483 @@
+1. capital-common-countries				
+Tokyo	Japan	Tokio	Japòn	
+Helsinki	Finland	Helsinki	Finlandia	
+Madrid	Spain	Madrid	España	
+Paris	France	París	Francia	
+Havana	Cuba	La Habana	Cuba	
+Tehran	Iran	Teherán	Irán	
+Cairo	Egypt	El Cairo	Egipto	
+Islamabad	Pakistan	Islamabad	Pakistán	
+Bern	Switzerland	Berna	Suiza	
+Canberra	Australia	Canberra	Australia	
+London	England	Londres	Inglaterra	
+Berlin	Germany	Berlín	Alemania	
+Kabul	Afghanistan	Kabul 	Afganistán	
+Athens	Greece	Atenas	Grecia	
+Moscow	Russia	Moscú	Rusia	
+Stockholm	Sweden	Estocolmo	Suecia	
+Ottawa	Canada	Ottawa	Canadá	
+Rome	Italy	Roma	Italia	
+Hanoi	Vietnam	Hanòi	Vietnam	
+Beijing	China	Pekín	China	
+Bangkok	Thailand	Bangkok	Tailandia	
+Oslo	Norway	Oslo	Noruega	
+Baghdad	Iraq	Bagdad	Irak	
+2. capital-world				
+Funafuti	Tuvalu	Funafuti	Tuvalu	
+Madrid	Spain	Madrid	España	
+Paris	France	París	Francia	
+Nassau	Bahamas	Nasáu	Bahamas	
+Maputo	Mozambique	Maputo	Mozambique	
+Tehran	Iran	Teherán	Irán	
+Vientiane	Laos	Vientián	Laos	
+Bamako	Mali	Bamako	Malí	
+Ankara	Turkey	Anakara	Turquía	
+Vaduz	Liechtenstein	Vaduz	Liechtenstien	
+Asmara	Eritrea	Asmara	Eritrea	
+Roseau	Dominica	Roseau	Dominica	
+Dushanbe	Tajikistan	Dusambé	Tayikistán	
+Sofia	Bulgaria	Sofía	Bulgaria	
+Bucharest	Romania	Bucarest	Rumania	
+Tunis	Tunisia	Túnez	Túnez	
+Lusaka	Zambia	Lusaka	Zambia	
+Quito	Ecuador	Quito	Ecuador	
+Khartoum	Sudan	Jartum	Sudán	
+Montevideo	Uruguay	Montevideo	Uruguay	
+Antananarivo	Madagascar	Antananarivo	Madagascar	
+Kiev	Ukraine	Kiev	Ucrania	
+Rome	Italy	Roma	Italia	
+Hanoi	Vietnam	Hanòi	Vietnam	
+Damascus	Syria	Damasco	Siria	
+Oslo	Norway	Oslo	Noruega	
+Vilnius	Lithuania	Vilna	Lituania	
+Algiers	Algeria	Argel	Aregelia	
+Tashkent	Uzbekistan	Taskent	Uzbekistán	
+Tokyo	Japan	Tokio	Japòn	
+Helsinki	Finland	Helsinki	Finlandia	
+Dublin	Ireland	Dublín	Irlanda	
+Chisinau	Moldova	Chisináu	Moldavia	
+Managua	Nicaragua	Managua	Nicaragua	
+Paramaribo	Suriname	Paramaribo	Surinam	
+Bishkek	Kyrgyzstan	Biskek	Kirguistán	
+Cairo	Egypt	El Cairo	Egipto	
+Amman	Jordan	Amán	Jordania	
+Budapest	Hungary	Budapest	Hungría	
+Doha	Qatar	Doha	Catar	
+Astana	Kazakhstan	Astaná	Kazajistán	
+Kabul	Afghanistan	Kabul	Afganistán	
+Monrovia	Liberia	Monrovia	Liberia	
+Dhaka	Bangladesh	Daca	Bangladés	
+Mogadishu	Somalia	Mogadiscio	Somalia	
+Bujumbura	Burundi	Buyumbura	Burundi	
+Valletta	Malta	La Valeta	Malta	
+Nouakchott	Mauritania	Nuakchot	Mauritania	
+Kingston	Jamaica	Kingston	Jamaica	
+Beirut	Lebanon	Beirut	Líbano	
+Beijing	China	Pekín	China	
+Bangkok	Thailand	Bangkok	Tailandia	
+Harare	Zimbabwe	Harare	Zimbabue	
+Muscat	Oman	Mascate	Omán	
+Baghdad	Iraq	Bagdad	Irak	
+Conakry	Guinea	Conakri	Guinea	
+Tallinn	Estonia	Tallin	Estonia	
+Georgetown	Guyana	Georgetown	Guyana	
+Taipei	Taiwan	Taipéi	Taiwán	
+Rabat	Morocco	Rabat	Marruecos	
+Yerevan	Armenia	Ereván	Armenia	
+Havana	Cuba	La Habana	Cuba	
+Thimphu	Bhutan	Timbu	Bután	
+Nuuk	Greenland	Nuuk	Groenlandia	
+Baku	Azerbaijan	Bakú	Azerbaiyán	
+Kigali	Rwanda	Kigali	Ruanda	
+Dakar	Senegal	Dakar	Senegal	
+Suva	Fiji	Suva	Fiyi	
+Belmopan	Belize	Belmopán	Belice	
+Banjul	Gambia	Banjul	Gambia	
+Athens	Greece	Atenas	Grecia	
+Riga	Latvia	Riga	Letonia	
+Zagreb	Croatia	Zagreb	Croacia	
+Skopje	Macedonia	Skopie	Macedonia	
+Ashgabat	Turkmenistan	Asjabad	Turkmenistán	
+Stockholm	Sweden	Estocolmo	Suecia	
+Manila	Philippines	Manila	Filipinas	
+Brussels	Belgium	Bruselas	Bélgica	
+Luanda	Angola	Uanda	Angola	
+Nicosia	Cyprus	Nicosia	Chipre	
+Santiago	Chile	Santiago	Chile	
+Caracas	Venezuela	Caracas	Venezuela	
+Minsk	Belarus	Minsk	Bielorrusia	
+Tbilisi	Georgia	Tiflis	Georgia	
+Libreville	Gabon	Libreville	Gabòn	
+Tegucigalpa	Honduras	Tegucigalpa	Honduras	
+London	England	Londres	Inglaterra	
+Vienna	Austria	Viena	Austria	
+Warsaw	Poland	Varsovia	Polonia	
+Berlin	Germany	Berlín	Alemania	
+Islamabad	Pakistan	Islamabad	Pakistán	
+Bern	Switzerland	Berna	Suiza	
+Lima	Peru	Lima	Perú	
+Accra	Ghana	Acra	Ghana	
+Tripoli	Libya	Trípoli	Libia	
+Gaborone	Botswana	Gaborone	Botsuana	
+Manama	Bahrain	Manama	Baréin	
+Bratislava	Slovakia	Bratislava	Eslovaquia	
+Canberra	Australia	Canberra	Australia	
+Kampala	Uganda	Kampala	Uganda	
+Kathmandu	Nepal	Katmandú	Nepal	
+Lisbon	Portugal	Lisboa	Portugal	
+Apia	Samoa	Apia	Samoa	
+Belgrade	Serbia	Belgrado	Serbia	
+Jakarta	Indonesia	Yakarta	Indonesia	
+Lilongwe	Malawi	Lilongüe	Malaui	
+Ljubljana	Slovenia	Liubliana	Eslovenia	
+Moscow	Russia	Moscú	Rusia	
+Tirana	Tirana	Tirana	Tirana	
+Ottawa	Canada	Ottawa	Canadá	
+Nairobi	Kenya	Nairobi	Kenia	
+Copenhagen	Denmark	Copenhague	Dinamarca	
+Niamey	Niger	Niamey	Níger	
+Abuja	Nigeria	Abuya	Nigeria	
+Windhoek	Namibia	Windhoek	Namibia	
+Podgorica	Montenegro	Podgorica	Montenegro	
+3. currency				
+Poland	zloty	Polania	esloti	
+Brazil	real	Brasil	real	
+Vietnam	dong	Vietnam	dong	
+Sweden	krona	Suecia	corona sueca	
+Angola	kwanza	Angola	kwanza	
+Japan	yen	Japòn	yen	
+Mexico	peso	México	peso	
+Latvia	lats	Letonia	lats	
+Lithuania	litas	Lituania	litas	
+Hungary	forint	Hungría	forinto	
+USA	dollar	Estados Unidos	dòlar	
+Denmark	krone	Dinamarca	corona danesa	
+Armenia	dram	Aremenia	dram	
+Thailand	baht	Tailandia	baht	
+Nigeria	naira	Nigeria	naira	
+Romania	leu	Romania	leu	
+Argentina	peso	Argentina	peso	
+Russia	ruble	Rusia	rublo	
+Algeria	dinar	Argelia	dinar	
+Ukraine	hryvnia	Ucrania	grivna	
+Croatia	kuna	Croacia	kuna	
+Cambodia	riel	Camboya	riel	
+Canada	dollar	Canadá	dòlar	
+Korea	won	Corea	won	
+Europe	euro	Europa	euro	
+Malaysia	ringgit	Malasia	ringgit	
+Iran	rial	Irán	rial	
+India	rupee	India	rupia	
+Macedonia	denar	Macedonia	denar	
+Bulgaria	lev	Bulgaria	lev	
+4. city-in-state				
+Wichita	Kansas	Wichita	Kansas	
+Akron	Ohio	Akron	Ohio	
+Irvine	California	Irvine	California	
+Toledo	Ohio	Toledo	Ohio	
+Indianapolis	Indiana	Indianápolis	Indiana	
+Denver	Colorado	Denver	Colorado	
+Milwaukee	Wisconsin	Milwaukee	Wisconsin	
+Reno	Nevada	Reno	Nevada	
+Boston	Massachusetts	Boston	Massachusetts	
+Minneapolis	Minnesota	Mineápolis	Minnesota	
+Bakersfield	California	Bakersfield	California	
+Henderson	Nevada	Henderson	Nevada	
+Seattle	Washington	Seattle	Washington	
+Atlanta	Georgia	Atlanta	Georgia	
+Chandler	Arizona	Chandler	Arizona	
+Dallas	Texas	Dallas	Texas	
+Madison	Wisconsin	Madison	Wisconsin	
+Tampa	Florida	Tampa	Florida	
+Tallahassee	Florida	Tallahassee	Florida	
+Irving	Texas	Irving	Texas	
+Fontana	California	Fontana	California	
+Anaheim	California	Anaheim	California	
+Fresno	California	Fresno	California	
+Amarillo	Texas	Amarillo	Texas	
+Hialeah	Florida	Hialeah	Florida	
+Pittsburgh	Pennsylvania	Pittsburgh	Pensilvania	
+Austin	Texas	Austin	Texas	
+Sacramento	California	Sacramento	California	
+Portland	Oregon	Portland	Oregòn	
+Glendale	California	Glendale	California	
+Jacksonville	Florida	Jacksonville	Florida	
+Shreveport	Louisiana	Shreveport	Luisiana	
+Lexington	Kentucky	Lexington	Kentucky	
+Tulsa	Oklahoma	Tulsa	Oklahoma	
+Glendale	Arizona	Glendale	Arizona	
+Tucson	Arizona	Tucson	Arizona	
+Mesa	Arizona	Mesa	Arizona	
+Spokane	Washington	Spokane	Washington	
+Memphis	Tennessee	Memphis	Tennessee	
+Oxnard	California	Oxnard	California	
+Tacoma	Washington	Tacoma	Washington	
+Lubbock	Texas	Lubbock	Texas	
+Worcester	Massachusetts	Worcester	Massachusetts	
+Miami	Florida	Miami	Florida	
+Cleveland	Ohio	Cleveland	Ohio	
+Scottsdale	Arizona	Scottsdale	Arizona	
+Louisville	Kentucky	Louisville	Kentucky	
+Stockton	California	Stockton	California	
+Detroit	Michigan	Detroit	Míchigan	
+Phoenix	Arizona	Phoenix	Arizona	
+Philadelphia	Pennsylvania	Filadelfia	Pensilvania	
+Huntsville	Alabama	Huntsville	Alabama	
+Cincinnati	Ohio	Cincinnati	Ohio	
+Honolulu	Hawaii	Honolulú	Hawái	
+Nashville	Tennessee	Nashville	Tennessee	
+Oakland	California	Oakland	California	
+Houston	Texas	Houston	Texas	
+Fremont	California	Fremont	California	
+Orlando	Florida	Orlando	Florida	
+Arlington	Texas	Arlington	Texas	
+Omaha	Nebraska	Omaha	Nebraska	
+Laredo	Texas	Laredo	Texas	
+Chicago	Illinois	Chicago	Illinois	
+Baltimore	Maryland	Baltimore	Maryland	
+Anchorage	Alaska	Anchorage	Alaska	
+Plano	Texas	Plano	Texas	
+Modesto	California	Modesto	California	
+Garland	Texas	Garland	Texas	
+5. family				
+brothers	sisters	hermanos	hermanas	
+stepfather	stepmother	padrastro	madrastra	
+his	her	su	su	
+grandson	granddaughter	nieto	nieta	
+man	woman	hombre	mujer	
+stepson	stepdaughter	hijastro	hijastra	
+husband	wife	esposo	esposa	
+grandfather	grandmother	abuelo	abuela	
+groom	bride	novio	novia	
+grandpa	grandma	abuelo	abuela	
+brother	sister	hermano	hermana	
+king	queen	rey	reina	
+son	daughter	hijo	hija	
+father	mother	padre	madre	
+prince	princess	príncipe	princesa	
+boy	girl	chico	chica	
+nephew	niece	sobrino	sobrina	
+stepbrother	stepsister	hermanastro	hermanastra	
+he	she	él	ella	
+dad	mom	papá	mamá	
+uncle	aunt	tío	tía	
+sons	daughters	hijos	hijas	
+policeman	policewoman	policía	policía	
+6. gram1-adjective-to-adverb				
+complete	completely	completo	completamente	
+lucky	luckily	afortunado	afortunadamente	
+quick	quickly	rápido	rápidamente	
+rare	rarely	raro	raramente	
+amazing	amazingly	increíble	increíblemente	
+possible	possibly	posible	posiblemente	
+unfortunate	unfortunately	desgraciado	desfraciadamente	
+cheerful	cheerfully	alegre	alegremente	
+most	mostly	general	generalmente	
+fortunate	fortunately	afortunado	afortunadamente	
+free	freely	libre	libremente	
+safe	safely	seguro	seguramente	
+swift	swiftly	rápido	rápidamente	
+apparent	apparently	aparente	aparentemente	
+efficient	efficiently	eficiente	eficientemente	
+rapid	rapidly	rápido	rápidamente	
+precise	precisely	preciso	precisamente	
+reluctant	reluctantly	reacio	reaciamente	
+serious	seriously	serio	seriamente	
+calm	calmly	sereno	serenamente	
+happy	happily	feliz	felizmente	
+usual	usually	general	generalmente	
+furious	furiously	furioso	furiosamente	
+occasional	occasionally	ocasional	ocasionalmente	
+immediate	immediately	inmediato	inmediatamente	
+professional	professionally	profesional	profesionalmente	
+obvious	obviously	obvio	obviamente	
+sudden	suddenly	repentino	repentinamente	
+typical	typically	típico	típicamente	
+quiet	quietly	tranquilo	tranquilamente	
+infrequent	infrequently	infrecuente	raramente	
+slow	slowly	lento	lentamente	
+7. gram2-opposite				
+clear	unclear	claro	impreciso	
+honest	dishonest	honesto	deshonesto	
+convincing	unconvincing	convincente	no convincente	
+competitive	uncompetitive	competitivo	no competitivo	
+known	unknown	conocido	desconocido	
+impressive	unimpressive	impresionante	no impresionante	
+possibly	impossibly	posiblemente	imposiblemente	
+decided	undecided	decidido	indeciso	
+consistent	inconsistent	consistente	inconsistente	
+ethical	unethical	ético	inmoral	
+informed	uninformed	informado	desinformado	
+comfortable	uncomfortable	còmodo	incòmodo	
+possible	impossible	posible	imposible	
+logical	illogical	lògico	ilògico	
+efficient	inefficient	eficiente	ineficiente	
+productive	unproductive	productivo	improductivo	
+convenient	inconvenient	conveniente	inconveniente	
+responsible	irresponsible	responsable	irresponsable	
+pleasant	unpleasant	agradable	desagradable	
+tasteful	distasteful	sabroso	desabrido	
+fortunate	unfortunate	afortunado	desgraciado	
+informative	uninformative	informativo	desinformativo	
+rational	irrational	racional	irracional	
+acceptable	unacceptable	aceptable	inaceptable	
+aware	unaware	consciente	inconsciente	
+reasonable	unreasonable	razonable	irrazonable	
+sure	unsure	seguro	inseguro	
+certain	uncertain	cierto	incierto	
+likely	unlikely	probable	improbable	
+8. gram3-comparative				
+		(只列出阳性单数形式)	(只列出阳性单数形式)	
+low	lower	bajo	más bajo	
+old	older	viejo	más viejo	
+fast	faster	rápido	más rápido	
+heavy	heavier	pesado	más pesado	
+tight	tighter	tenso	más tenso	
+simple	simpler	simple	más simple	
+large	larger	grande	más grande	
+hot	hotter	caliente	más caliente	
+big	bigger	grande	más grande	
+tough	tougher	duro	más duro	
+high	higher	alto	más alto	
+strong	stronger	fuerte	más fuerte	
+bright	brighter	brillante	más brillante	
+cheap	cheaper	barato	más barato	
+warm	warmer	caliente	más caliente	
+young	younger	joven	más joven	
+quick	quicker	rápido	más rápido	
+deep	deeper	profundo	más profundo	
+loud	louder	ruidoso	más ruidoso	
+new	newer	nuevo	más nuevo	
+wide	wider	amplio	más amplio	
+bad	worse	mal	peor	
+long	longer	largo	más largo	
+slow	slower	lento	más lento	
+easy	easier	fácil	más fácil	
+short	shorter	corto	más corto	
+small	smaller	pequeño	más pequeño	
+sharp	sharper	agudo	más agudo	
+safe	safer	seguro	más seguro	
+cold	colder	frío	más frío	
+good	better	bueno	mejor	
+tall	taller	alto	más alto	
+weak	weaker	débil	más débil	
+smart	smarter	inteligente	más inteligente	
+cool	cooler	fresco	más fresco	
+great	greater	excelente	más excelente	
+hard	harder	duro	más duro	
+9. gram4-superlative				
+			比较最高级(只列出阳性单数形式)	绝对最高级(只列出阳性单数形式)
+easy	easiest	fácil	más fácil	facilísimo
+weird	weirdest	raro	más raro	rarísimo
+cold	coldest	frío	más frío	agudísimo
+sharp	sharpest	agudo	más agudo	friísimo
+warm	warmest	caliente	más caliente	calientísimo
+strong	strongest	fuerte	más fuerte	fuertísimo
+strange	strangest	extraño	más extraño	extrañísimo
+low	lowest	bajo	más bajo	bajísimo
+wide	widest	amplio	más amplio	amplísimo
+small	smallest	pequeño	más pequeño	frescísimo
+cool	coolest	fresco	más fresco	friísimo
+great	greatest	excelente	más excelente	excelentísimo
+hot	hottest	caliente	más caliente	calientísimo
+long	longest	largo	más largo	larguísimo
+weak	weakest	débil	más débil	debilísimo
+simple	simplest	simple	más simple	simplísimo
+smart	smartest	inteligente	más inteligente	inteligentísimo
+high	highest	alto	más alto	altísimo
+tall	tallest	alto	más alto	altísimo
+tasty	tastiest	rico	más rico	riquísimo
+young	youngest	joven	más joven	jovenísimo
+bad	worst	mal	peor	malísimo/pésimo
+quick	quickest	rápido	más rápido	rapidísimo
+old	oldest	viejo	más viejo	viejísimo
+fast	fastest	rápido	más rápido	rapidísimo
+bright	brightest	brillante	más brillante	brillantísimo
+big	biggest	grande	más grande	grandísimo
+large	largest	grande	más grande	grandísimo
+slow	slowest	lento	más lento	lentísimo
+short	shortest	corto	más corto	cortísimo
+good	best	bueno	mejor	buenísimo/bonísimo
+dark	darkest	oscuro	más oscuro	oscurísimo
+lucky	luckiest	suerte	más suerte	suertísimo
+sweet	sweetest	dulce	más dulce	dulcísimo
+10. gram6-nationality-adjective				
+			阳性(西语中首字母不大写)	阴性(西语中首字母不大写)
+Thailand	Thai	Tailandia	tailandés	tailandesa
+India	Indian	India	indio	india
+Portugal	Portuguese	Portugal	portugués	portuguesa
+Belarus	Belorussian	Bielorrusia	bielorruso	bielorrusa
+Sweden	Swedish	Suecia	sueco	sueca
+Spain	Spanish	España	español	española
+Mexico	Mexican	México	mexicano	mexicana
+Brazil	Brazilian	Brasil	brasileño	brasileña
+China	Chinese	China	chino	china
+Peru	Peruvian	Perú	peruano	peruana
+Argentina	Argentinean	Argentina	argentino	argentina
+Korea	Korean	Corea	coreano	coreana
+Egypt	Egyptian	Egipto	egipcio	egipcia
+Ukraine	Ukrainian	Ucrania	ucraniano	ucraniana
+Australia	Australian	Australia	australiano	australiana
+Russia	Russian	Rusia	ruso	rusa
+Japan	Japanese	Japòn	japonés	japonesa
+Cambodia	Cambodian	Camboya	camboyano	camboyana
+Greece	Greek	Grecia	griego	griega
+Netherlands	Dutch	Países Bajos	neerlandés	neerlandesa
+England	English	Inglaterra(英格兰)	inglés	inglesa
+Poland	Polish	Polonia	polaco	polaca
+Ireland	Irish	Irlanda	irlandés	irlandesa
+Slovakia	Slovakian	Eslovaquia	eslovaco	eslovaca
+Albania	Albanian	Albania	albanés	albanesa
+Chile	Chilean	Chile	chileno	chilena
+Germany	German	Alemania	alemán	alemana
+Austria	Austrian	Austria	austriaco	austriaca
+Italy	Italian	Italia	italiano	italiana
+Norway	Norwegian	Noruega	noruego	noruega
+Switzerland	Swiss	Suiza	suizo	suiza
+Malta	Maltese	Malta	maltés	maltesa
+Israel	Israeli	Israel	israelí	israelí
+Moldova	Moldovan	Moldavia	moldavo	moldava
+Colombia	Colombian	Colombia	colombiano	colombiana
+Bulgaria	Bulgarian	Bulgaria	búlgaro	búlgara
+Macedonia	Macedonian	Macedonia	macedonio	macedonia
+Croatia	Croatian	Croacia	croata	croata
+Denmark	Danish	Dinamarca	danés	danesa
+Iceland	Icelandic	Islandia	islandés	islandesa
+France	French	Francia	francés	francesa
+11. gram8-plural				
+color	colors	color	colores	
+dream	dreams	sueño	sueños	
+mango	mangoes	mango	mangos	
+elephant	elephants	elefante	elefantes	
+monkey	monkeys	mono	monos	
+eagle	eagles	águila	águilas	
+hand	hands	mano	manos	
+bottle	bottles	botella	botellas	
+woman	women	mujer	mujeres	
+melon	melons	melòn	melònes	
+cloud	clouds	nube	nubes	
+lion	lions	leòn	leones	
+mouse	mice	ratòn	ratones	
+pig	pigs	cerdo	cerdos	
+donkey	donkeys	asno/burro	asnos/burros	
+machine	machines	máquina	máquinas	
+road	roads	camino	caminos	
+rat	rats	rata	ratas	
+onion	onions	cebolla	cebollas	
+snake	snakes	serpiente	serpientes	
+car	cars	coche	coches	
+building	buildings	edificio	edificios	
+man	men	hombre	hombres	
+pineapple	pineapples	piña	piñas	
+cat	cats	gato	gatos	
+bird	birds	pájaro	pájaros	
+cow	cows	vaca	vacas	
+goat	goats	cabra	cabras	
+horse	horses	caballo	caballos	
+child	children	niño	niños	
+computer	computers	ordenador	ordenadores	
+dollar	dollars	dòlar	dòlares	
+banana	bananas	plátano	plátanos	
+finger	fingers	dedo	dedos	
+dog	dogs	perro	perros	
+pear	pears	pera	peras	
