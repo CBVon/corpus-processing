@@ -1,2 +1,2 @@
-# corpus_processing
+# corpus-processing
 corpus processing in Sogou
