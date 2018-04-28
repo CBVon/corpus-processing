@@ -40,9 +40,10 @@ for line in sys.stdin:
 
     sent = linelist[0].strip()
     sf = linelist[1]
-
+    
+    origin_list = sent.split(' ') #原始串 的list
     sub_sent = re.sub(reg, "", sent).strip()
-    sent_list = sub_sent.split(' ')
+    sent_list = sub_sent.split(' ') #sub后 的list
     while "" in sent_list:
         sent_list.remove("")
 
@@ -50,25 +51,24 @@ for line in sys.stdin:
     sent_list[1] = ""
 
     for word in sent_list:
-        if word in verb_dict:
+        if word in verb_dict and word in origin_list: #同时确保， 当前word 在原始串是一个 “确切”的词
 
             is_remove = False
             #相似度去重
             for s in verb_dict[word]:
-                sent_list = sent.split(' ')
                 s_list = s.strip().split(' ')
-                ll = lcs_len(sent_list, s_list)
-                appro = float(ll) / min(len(sent_list), len(s_list))
-                if appro > 0.6 or (appro > 0.4 and abs(len(sent_list) - len(s_list)) <= 2 and min(len(sent_list), len(s_list)) > 8): #您的个人资料在过去2小时内已被6人查看#追求s之间的差异化
+                ll = lcs_len(origin_list, s_list)
+                appro = float(ll) / min(len(origin_list), len(s_list))
+                if appro > 0.6 or (appro > 0.4 and abs(len(origin_list) - len(s_list)) <= 2 and min(len(origin_list), len(s_list)) > 8): #您的个人资料在过去2小时内已被6人查看#追求s之间的差异化
                     is_remove = True
                     break
             if is_remove:
                 continue
 
             #add #verb0 #verb1...
-            print_set = set([])
-            for word1 in sent_list:
-                if word1 in verb_set and word1 not in print_set:
+            print_set = set([]) #控制 每个verb 只打印一次
+            for word1 in origin_list:
+                if word1 in verb_set and (word1 not in print_set): 
                     print "#" + word1,
                     print_set.add(word1)
 
