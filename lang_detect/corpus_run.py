@@ -23,7 +23,7 @@ def get_lang(lang_detect):
 
 if __name__=="__main__":
     langdict = dict()
-    '''
+    """
     langdict["es"] = set(["esLAT", "esUS", "es"])
     langdict["pt"] = set(["pt", "ptBR"])
     langdict["ru"] = set(["ru"])
@@ -31,13 +31,16 @@ if __name__=="__main__":
     langdict["frfr"] = set(["frFR", "frCA", "fr"])
     #langdict["en"] = set(["en"])
     langdict["de"] = set(["de"])
-    '''
-    """
-    #vk
-    langdict["ru"] = set(["ru"])
-    """
+    
     langdict["it"] = set(["it"])
     langdict["tl"] = set(["tl"])
+    """
+    #只针对 vk 
+    langdict["ru"] = set(["ru"])
+    
+    
+    
+    #langdict["de"] = set(["de"]) # 20180530 de-debug
 
     for line in sys.stdin:
         line = line.strip()

@@ -1,1000 +1,1000 @@
-.	29078	
-Oui	9677	
-Moi	1780	
-Quoi	1748	
-Je t'aime	1600	
-Bonjour	1420	
-Bonne	1349	
-Rien	1330	
-Bonne nuit	1267	
-Mais	1267	
-C'est	1232	
-Pourquoi	1136	
-Oui et	1127	
-Oui et toi	1112	
-Bon	1035	
-Je sais	1025	
-Moi aussi	1009	
-oui	976	
-Comme	800	
-Comment	781	
-Bisous	740	
-le	714	
-De rien	687	
-Tu fais quoi	678	
-Pour	656	
-mais	635	
-Je suis	629	
-Qui	540	
-Bonsoir	504	
-moi	483	
-Nous	465	
-Je sais pas	455	
-Oui oui	425	
-Je t'en prie	415	
-pour	398	
-Ils	396	
-c'est	380	
-Rien et	371	
-Toi aussi	369	
-Merci beaucoup	363	
-Joyeux anniversaire	355	
-Rien et toi	355	
-De quoi	344	
-ou	338	
-Chez	334	
-Désolé	329	
-comme	319	
-Voilà	314	
-Bien et toi	291	
-Bonne journée	286	
-Sérieux	278	
-Tout	276	
-Fait	273	
-des gros gros bisous	265	
-Pardon	261	
-bon	260	
-Attention	257	
-Vous	256	
-Vraiment	251	
-ont	251	
-Oui je	241	
-Je vais	239	
-À demain	238	
-Merci toi aussi	231	
-Après	229	
-Dont	229	
-Même	227	
-Aussi	226	
-Jsuis	220	
-Comment ça va	216	
-bonne nuit	215	
-quoi	214	
-rien	210	
-Sur	209	
-bonne	207	
--ce que	203	
-Dans	200	
-fait	200	
-Comment ça	195	
+.	32100	
+Oui	10804	
+Moi	1967	
+Quoi	1931	
+Je t'aime	1702	
+Bonjour	1566	
+Bonne	1489	
+Rien	1463	
+Mais	1445	
+Bonne nuit	1401	
+C'est	1382	
+Oui et	1234	
+Pourquoi	1220	
+Oui et toi	1205	
+Bien	1162	
+Moi aussi	1147	
+Bon	1128	
+Je sais	1120	
+oui	1016	
+Comment	856	
+Comme	849	
+Bisous	825	
+le	780	
+De rien	728	
+Pour	727	
+Tu fais quoi	720	
+Je suis	715	
+mais	683	
+Qui	571	
+Bonsoir	563	
+Je sais pas	510	
+moi	507	
+Nous	496	
+Oui oui	455	
+Je t'en prie	438	
+Merci beaucoup	437	
+pour	425	
+Toi aussi	424	
+Ils	419	
+c'est	405	
+Rien et	392	
+Rien et toi	384	
+Joyeux anniversaire	377	
+Chez	372	
+De quoi	369	
+ou	361	
+Désolé	357	
+Fait	333	
+comme	329	
+Voilà	323	
+Bonne journée	320	
+Bien et toi	315	
+Sérieux	309	
+Tout	304	
+bon	283	
+Donc	282	
+Attention	281	
+Vous	277	
+Pardon	274	
+Vraiment	271	
+Je vais	268	
+Oui je	267	
+des gros gros bisous	267	
+Quand	266	
+ont	266	
+Jsuis	258	
+Merci toi aussi	258	
+Comment ça	257	
+Après	256	
+À demain	249	
+Dont	241	
+Même	239	
+Aussi	238	
+Sur	234	
+Exactement	231	
+bien	231	
+Parfait	229	
+bonne	227	
+Dans	224	
+Comment ça va	220	
+bonne nuit	220	
+quoi	218	
+Laisse	215	
+fait	214	
+rien	214	
+-ce que	212	
+Comment sa	208	
+Oui je sais	208	
+Il est	207	
+qui	206	
+Bonne soirée	197	
+J'espère	195	
 Mlle Tempête	195	
-Laisse	189	
-qui	188	
-Oui je sais	184	
-Il est	183	
-J'espère	182	
-Bonne soirée	179	
-Parfait	178	
-vous	178	
-Faut	174	
-Comment sa	173	
-Exactement	173	
-R et	171	
-pourquoi	171	
-Oui tfq	169	
-Je t'aime aussi	168	
-Plus	164	
-Viens	162	
-aussi	160	
-Bien et	158	
-Tu fais	157	
-C'est bien	155	
-C'est bon	155	
-Très	150	
-Moi aussi je t'aime	148	
-Bon appétit	145	
-Pas de	144	
-Un peu	144	
-bisous	143	
-plus	143	
-Grâce	141	
-Sans	134	
-Merci à toi aussi	133	
-Oui toi	133	
-Bon dîner	132	
-Tu fait quoi	132	
-Très bien	131	
-toi des gros bisous	131	
-Bonne fête	130	
-J'aime	130	
-Oui chéri	129	
-Suis	129	
-Déjà	128	
-C qui	127	
-Cet	127	
-Et chez toi	127	
-Comment vas tu	126	
-Peut-être	126	
-Tu me manque	125	
-Je taime	124	
-même	124	
-Tu fait	123	
-Tu veux	123	
-Je ne sais pas	121	
-On dit quoi	121	
-Cc oui et toi	120	
-Réponse	120	
-chérie	120	
-sur	120	
-C'est quoi	119	
-Ont	118	
-Si tu veux	118	
-aussi des gros bisous	118	
-bonjour	118	
-dans	117	
-C'est comment	116	
-Elle est	116	
-de Lafine pour toi	116	
-Dis	115	
-Sont	115	
-comment	114	
-Oui  .	113	
-tout	113	
-Aujourd'hui	112	
-Oui merci et toi	112	
-Peut	112	
-Magnifique	111	
-Mon coeur	111	
-Non pas	110	
-Je comprends	109	
-Ok  .	109	
-Laisse tomber	108	
-je t'aime	108	
-Je veux	106	
-Répondre	106	
-Faire	105	
-Je suis la	105	
-Comme tu veux	104	
-Comment tu vas	104	
-Je t aime	104	
-Notre	104	
-Bonne avant midi chéri	103	
-C'est vrai	103	
-S  .	103	
-Parce que	102	
-Jeux	101	
-Oui c'est	101	
-faire	101	
-Est  !	100	
-Je peux	98	
-Jtaime	98	
-Moi je	98	
-Tranquille	97	
-nous	97	
-Comme tu	96	
-Mouais	96	
-Oui merci	96	
-Merci mon amour	95	
-Cette	94	
-Gros bisous	94	
-Moi non plus	94	
-Question	94	
-Soit	94	
-Bonne année	93	
-Bonne après midi chéri	92	
-Franchement	92	
-aime	92	
-voilà	92	
-Oui bb	91	
-fais	91	
-je sais	91	
-C bon	90	
-J'avoue	90	
-Pas de problème	90	
-Petit	90	
+Animation	194	
+Bien et	191	
+Faut	189	
+C'est bon	187	
+vous	187	
+Plus	182	
+Je t'aime aussi	181	
+R et	179	
+pourquoi	176	
+Oui tfq	171	
+C'est bien	170	
+bisous	168	
+Tu fais	167	
+Pas de	166	
+aussi	163	
+Comment vas tu	160	
+Très	160	
+Moi aussi je t'aime	157	
+Bon appétit	153	
+Grâce	153	
+Oui toi	153	
+Un peu	152	
+Bon dîner	151	
+Oui chéri	150	
+plus	149	
+Peut-être	148	
+Merci à toi aussi	146	
+J'aime	145	
+sur	145	
+Bonne fête	143	
+Sans	143	
+Déjà	142	
+On dit quoi	141	
+Tu fait quoi	138	
+toi des gros bisous	137	
+C qui	135	
+Suis	135	
+Et chez toi	134	
+Très bien	134	
+Je ne sais pas	132	
+C'est quoi	131	
+On dit	131	
+Tu me manque	131	
+comment	131	
+Je taime	130	
+Tu veux	130	
+Cet	129	
+Tu fait	129	
+Non pas	127	
+Ont	127	
+Sont	127	
+même	127	
+Cc oui et toi	125	
+Réponse	125	
+C'est vrai	124	
+Elle est	124	
+Répondre	124	
+dans	123	
+tout	123	
+Laisse tomber	122	
+aussi des gros bisous	122	
+chérie	122	
+Aujourd'hui	121	
+bonjour	121	
+C'est comment	120	
+Comment tu vas	120	
+de Lafine pour toi	120	
+Bonne avant midi chéri	119	
+Dis	118	
+Oui  .	118	
+quand	118	
+Parce que	117	
+Je comprends	116	
+Magnifique	116	
+Oui merci et toi	116	
+je t'aime	115	
+Faire	114	
+Je t aime	114	
+Je veux	114	
+Jeux	114	
+Comme tu veux	113	
+Je le	113	
+Mon coeur	113	
+Peut	113	
+Notre	112	
+Je suis la	111	
+Son	110	
+Oui c'est	109	
+Tranquille	109	
+Ok  .	107	
+Bientôt	106	
+Moi je	106	
+Comme tu	105	
+Je peux	105	
+Moi non plus	105	
+donc	105	
+faire	105	
+Est  !	104	
+Mouais	104	
+S  .	104	
+Oui merci	103	
+Question	103	
+nous	103	
+J'avoue	102	
+Bonne après midi chéri	101	
+Franchement	101	
+aime	101	
+Gros bisous	100	
+Jtaime	100	
+Oui bb	100	
+Soit	100	
+C'est pas	99	
+Cette	99	
+Merci mon amour	99	
+Ouais et toi	99	
+Pas de problème	99	
+Aime	98	
+Depuis	97	
+Oui mais	97	
+Vient	97	
+On est	96	
+je sais	96	
+C bon	95	
+fais	95	
+Bonne année	94	
+Je pense	94	
+C bien	93	
+C'est qui	93	
+voilà	93	
+C est	91	
+Cv et	91	
+Quelle	91	
+moi aussi	91	
+Je suis là	90	
+Tellement	90	
 oui toi	90	
-Aime	89	
-C bien	89	
-Cv et	89	
-Ouais et toi	89	
-Oui mais	89	
-Je pense	88	
-Quelle	88	
-moi aussi	88	
-C est	86	
-Oui mon amour	85	
-Tu peux	85	
-Bonne appétit	84	
-Je suis là	84	
-C'est pas	83	
-Bonne chance	82	
-Depuis	82	
-Mais non	82	
+Ah  .	89	
+T'aime	89	
+Tu peux	89	
+Bonne appétit	88	
+Personne	88	
+Répond	88	
+Maison	87	
+À plus	87	
+Oui mon amour	86	
+Peut être	85	
+Toujours	85	
+Bonne chance	84	
+Cordialement	84	
+Mais non	84	
+Aux	83	
+Français	83	
+Pas pire	83	
+s	83	
+C quoi	82	
+Je taine	82	
+Oui tfk	82	
+est  !	82	
 je sais pas	82	
-Personne	81	
-Répond	81	
-C'est qui	80	
-C quoi	79	
+D'accès	81	
+Fais	81	
+Peut etre	81	
+Bien sûr	80	
+Qu'est-ce	80	
+après	80	
+t'aime	80	
+Comme sa	79	
 Mlle	79	
-Qu'est-ce	79	
-Son	79	
-Vient	79	
-Maison	78	
-Tellement	78	
-Toujours	78	
-Aux	77	
-Français	77	
+France	78	
+Julien	78	
+Princesse	78	
+Bon courage	77	
+Bonne nuit à toi	77	
+Je peux pas	77	
+Je vois	77	
 Jsui	77	
-est  !	77	
-À plus	77	
-Bon courage	76	
-Princesse	76	
-T'aime	76	
-après	76	
-t'aime	76	
-Bonne anniversaire	75	
-D'accès	75	
-Et l'école	75	
-Fais	75	
-je suis	75	
-Et la	74	
-France	74	
-Oui tfk	74	
-Peut etre	74	
-Au revoir	73	
-Comme sa	73	
-Je c	73	
-ils	73	
-C'est pas grave	72	
-Julien	72	
-Bonne nuit à toi	71	
-Désolés	71	
-Et oui	71	
-Peut être	71	
-français	70	
+ils	77	
+je suis	77	
+Bonne anniversaire	76	
+Et l'école	76	
+Je c	76	
+Je viens	76	
+Pense	76	
+C'est pas grave	75	
+Et la	75	
+Je suis en	75	
+désolé	75	
+français	75	
+suis	75	
+Au revoir	74	
+Bien et chez toi	74	
+Bien merci et toi	74	
+Désolés	74	
+Et oui	74	
+Je crois	74	
+Jle	74	
+Lol  .	74	
+-ce que tu	73	
+Ouais et	73	
+À bon	73	
+faut	72	
+Jsais	71	
+sais	71	
+J'ai pas	70	
+Ok bisous	70	
+Ok bonne nuit	70	
+Puis	70	
 julien	70	
-sais	70	
-À bon	70	
--ce que tu	69	
-Bien et chez toi	69	
-Je crois	69	
-Je viens	69	
+Née	69	
 chez	69	
-s	69	
+sans	69	
+Comme ça	68	
+J'ai une question	68	
 Jai une question	68	
-Je peux pas	68	
-Je vois	68	
-Née	68	
+Je ne sais	68	
+Je regarde la télé	68	
+Tant mieux	68	
 Bne soirée	67	
-Comme ça	67	
-Je suis en	67	
+C pas	67	
+Et alors	67	
+Ok pas de soucis	67	
+Oui c	67	
+Pas vraiment	67	
+Pour le	67	
+Sava aussi merci	67	
 ouais toi	67	
-suis	67	
-Jle	66	
-Ouais et	66	
-désolé	66	
-souris	66	
-J'ai une question	65	
-Jsais	65	
-Ok bonne nuit	65	
-Pas vraiment	65	
+pense	67	
+C'était	66	
+Emmanuelle	66	
+Même pas	66	
+Oui bien	66	
+tu fais quoi	66	
+Comment vas-tu	65	
+Et ta journée	65	
+Vous êtes	65	
+es	65	
+DE MA PART DES GROS BISOUS DU COEUR AMITIÉS	64	
+Et la famille	64	
+François	64	
 Mme	64	
-Oui c	64	
-Pour le	64	
-DE MA PART DES GROS BISOUS DU COEUR AMITIÉS	63	
-Ok pas de soucis	63	
-tu fais quoi	63	
-Ais	62	
-Et alors	62	
-J'ai pas	62	
-Je ne sais	62	
-Position	62	
-Puis	62	
-Et la famille	61	
-Et ta journée	61	
-François	61	
+Oui pk	64	
+Ais	63	
+Avant	63	
+Comment tu	63	
+Iui	63	
+Je suis au	63	
+Oui cv	63	
+Parce	63	
+True	63	
+peut  !	63	
+Crissement	62	
+Dire	62	
+Désolée	62	
+Jetais	62	
+MAIS	62	
+Montre	62	
+Pas moi	62	
+Tes sur	62	
+Yeux	62	
+oui et	62	
+À la maison	62	
+A plus	61	
+Courage	61	
+Dans le	61	
+Et moi	61	
 Frère	61	
-Je regarde la télé	61	
-MAIS	61	
 Nour 1	61	
-Oui bien	61	
-Oui cv	61	
-faut	61	
-oui et	61	
-peut  !	61	
+Oui tkt	61	
 rentre	61	
-sans	61	
-C pas	60	
-Emmanuelle	60	
-Tant mieux	60	
-Comment tu	59	
-Comment vas-tu	59	
-Jetais	59	
-Même pas	59	
-Parce	59	
-Sava aussi merci	59	
-À la maison	59	
+Avec qui	60	
+Oui c'est vrai	60	
+Sais	60	
+frère	60	
+très	60	
+Bonne nuit bisous	59	
+C pas grave	59	
+C'est-à-dire	59	
+Comment vous allez	59	
+Deux	59	
+Excellent	59	
+Noir	59	
 , je suis	58	
-Bien merci et toi	58	
-C'est-à-dire	58	
-Noir	58	
-Sais	58	
+Camille	58	
+Dors bien	58	
+Désoler	58	
+Je suis pas	58	
+Laisse faire	58	
+Meme	58	
+Merci bisous	58	
+Ok bonne	58	
+Voir	58	
 gros gros bisous amitié	58	
+j'espère	58	
 Bonne appétit chéri	57	
-C pas grave	57	
-Dire	57	
 Et vous	57	
-Meme	57	
-Montre	57	
-Ok bonne	57	
-Oui pk	57	
-Oui tkt	57	
-Pas moi	57	
-Vous êtes	57	
-Avec qui	56	
-C'était	56	
-Courage	56	
-Désoler	56	
-Merci bisous	56	
-Yeux	56	
-frère	56	
-très	56	
-Camille	55	
-Deux	55	
-Excellent	55	
-Je suis au	55	
-Tes sur	55	
-pars	55	
-A plus	54	
-Avant	54	
+Explique	57	
+J'ai pas compris	57	
+Je suis rentré	57	
+Joyeux	55	
+Les deux	55	
+Non pas encore	55	
+Sait	55	
+sont	55	
 Bonjour vous allez bien	54	
-J'ai pas compris	54	
-Je suis pas	54	
-Pas pire	54	
-j'espère	54	
-Désolée	53	
-Explique	53	
-Je suis rentré	53	
-Sait	53	
+Ce soir	54	
+Ou bien	54	
+france	54	
+Bien aussi	53	
+Chez moi	53	
+Dit moi	53	
+Et le	53	
+Laquelle	53	
+Sa fait	53	
 Voilà voilà	53	
-sont	53	
-Bien aussi	52	
+oui et toi	53	
 Bon anniversaire	52	
-Et le	52	
-Et moi	52	
-Joyeux	52	
-Les deux	52	
-Oui c'est vrai	52	
-Voir	52	
-oui et toi	52	
-Dans le	51	
-Ou bien	51	
+Euh  .	52	
+Heureusement	52	
+Je comprends pas	52	
+Vois	52	
+peut-être	52	
+Aucune idée	51	
+Bne journée	51	
+J'ai sommeil	51	
+Je vous	51	
+Jeu	51	
+Ma soeur	51	
+Pas compris	51	
+Rien de	51	
+Sûrement	51	
+Toute	51	
+Tu connais	51	
 de Lafine pour vous	51	
-Bne journée	50	
-Comment vous allez	50	
-Dors bien	50	
-Je vous	50	
-Laquelle	50	
-True	50	
+être	51	
+Avoir	50	
+C'est ça	50	
+Chien	50	
+Ouest	50	
+Testez	50	
 à vous des bisous	50	
+Abonne	49	
+Appelle	49	
 Cc oui	49	
-Je comprends pas	49	
-Laisse faire	49	
-Non pas encore	49	
+Comment ca	49	
+Est-ce que	49	
+Je te laisse	49	
+Mais bon	49	
+Merci à toi	49	
+Moi aussi jtm	49	
+Noble	49	
 Suite	49	
-Vois	49	
-france	49	
+T sur	49	
 passe	49	
-peut-être	49	
-être	49	
-Abonne	48	
-Dit moi	48	
+Bien sur	48	
+Bon  .	48	
 Du coup	48	
-Est-ce que	48	
-Jeu	48	
-Aucune idée	47	
-Bon  .	47	
-Bonne nuit bisous	47	
-Comment ca	47	
-J'ai sommeil	47	
-Noble	47	
+Je le sais	48	
+Je rentre	48	
+Je suis arrivé	48	
+Pour rien	48	
+Serieux	48	
+Chez pas	47	
+Jle sais	47	
+Mieux	47	
+Non  .	47	
+Que fait tu	47	
+Retour	47	
 Soyez	47	
-Tu connais	47	
+Trop beau	47	
+Très bien et toi	47	
+aujourd'hui	47	
 je t'aime mon amour	47	
 ma ptit chérie d'amour	47	
-Ce soir	46	
-Chez moi	46	
-Lol  .	46	
-Ma soeur	46	
-Mais bon	46	
-Moi aussi jtm	46	
-Retour	46	
-Sa fait	46	
-Sure	46	
-Testez	46	
+vraiment	47	
+C'est fait	46	
+Dis moi	46	
+Envoie	46	
+J'ai compris	46	
+Je vais bien	46	
+La chance	46	
+Non mais	46	
+Oui mon coeur	46	
+Oui pourquoi	46	
+dis	46	
+jtaime	46	
 qu'est  !	46	
 -ce qui	45	
 -être que	45	
-Avoir	45	
-Chanson	45	
-Envoi	45	
-Euh  .	45	
+Comme quoi	45	
+Dessin	45	
+Excuse moi	45	
 G sais pas	45	
-Heureusement	45	
+Je suis dans le	45	
 Je t'aime mon coeur	45	
-Je te laisse	45	
-Pas compris	45	
-Très bien et toi	45	
-Vien	45	
-jtaime	45	
-vraiment	45	
+Jtm aussi	45	
+OUI	45	
+Rien toi	45	
+Vous êtes ou	45	
+laisse	45	
 Ah je vois	44	
-Appelle	44	
-Bien sur	44	
-Chien	44	
-Envoie	44	
-J'ai compris	44	
+C'est sur	44	
+Inès	44	
+Je suis rentrée	44	
 Je t'aime mon amour	44	
-Non mais	44	
-Oui pourquoi	44	
+Louis	44	
+Non et	44	
+Ouais je sais	44	
+Oubien	44	
 Pou	44	
+Si tu le dis	44	
 deux	44	
-dis	44	
+personne	44	
+veux	44	
+Être	44	
+Bien merci	43	
 C'est quoi tu fais	43	
-Elle va bien	43	
-Jtm aussi	43	
-Merci à toi	43	
-Non  .	43	
-Pour rien	43	
-Rien de	43	
-Rien toi	43	
+Clavier	43	
+Et chez	43	
+Et puis	43	
+Je m'en	43	
+Merci pour	43	
+Moi aussi je	43	
+Ok pas de problème	43	
+Passer	43	
 Rn et	43	
-Sûrement	43	
-Toute	43	
+Veux	43	
 ce qui	43	
-veux	43	
-Comme quoi	42	
-Dis moi	42	
-Excuse moi	42	
-Je rentre	42	
-Oui mon coeur	42	
-T sur	42	
-aujourd'hui	42	
-de rien	42	
-laisse	42	
-C'est ça	41	
-Dessin	41	
-Et chez	41	
-Je suis arrivé	41	
-Jle sais	41	
+comment ça va	43	
+de rien	43	
+entre	43	
+grâce	43	
+À bientôt	43	
+C'est tout	42	
+C'est un	42	
+Je t'aime aussi chéri	42	
+Non pourquoi	42	
+Ok pas de	42	
+Oublie	42	
+Oui j'ai	42	
+Oui moi aussi	42	
+Poisson	42	
+Qu'est  !	42	
+Réalisé	42	
+toutes les deux bisous	42	
+Bonne fête passe une belle	41	
+C'est quoi ça	41	
+Dans mon	41	
+Je part	41	
+Je suis chez	41	
 Mais pourquoi	41	
-Non pourquoi	41	
-Ok pas de problème	41	
-Poisson	41	
-Qu'est  !	41	
-Que fait tu	41	
-Trop beau	41	
-Vous êtes ou	41	
-entre	41	
+Monsieur	41	
+Moui	41	
+Ouais  .	41	
+Oui très bien	41	
 gros bisous du coeur	41	
-Être	41	
-C'est tout	40	
-C'est un	40	
+j'aime	41	
+voir	41	
+À toi	41	
+Bonne après midi mon amour	40	
+Comme d'habitude	40	
+Comment va tu	40	
+Connais	40	
 Jai pas compris	40	
+Je les	40	
 Je pense pas	40	
-Moui	40	
-Non et	40	
-Ok pas de	40	
-Oui j'ai	40	
-j'aime	40	
-personne	40	
+Je travaille	40	
+Non pas du tout	40	
+Non rien	40	
+Ok c'est bien	40	
+Oyais	40	
+Passe	40	
+Qui est	40	
+moi  !	40	
+notre	40	
 sourit	40	
-voir	40	
-C'est fait	39	
-Comme d'habitude	39	
-Comn tu	39	
-Inès	39	
-Mieux	39	
-Moi aussi je	39	
-Ok c'est bien	39	
-Oubien	39	
-Oublie	39	
-Veux	39	
+sérieux	40	
+À d'accord	40	
+Été	40	
+Bonjours	39	
+Coeur	39	
+J'avais	39	
+J'en	39	
+Je sais pas encore	39	
+Je viens de	39	
+Jeux de	39	
+Joyeux anniversaire ma chérie	39	
+Moii aussi	39	
+Mon frère	39	
+Non c'est	39	
+Repose toi	39	
+Tout va bien	39	
+avant	39	
 bonsoir	39	
-comment ça va	39	
-À bientôt	39	
-À d'accord	39	
+coeur	39	
+jsuis	39	
+peut	39	
+toute	39	
+BONNE	38	
+C rien	38	
+C un	38	
+Chez toi	38	
 Cité	38	
-Comment va tu	38	
-Je travaille	38	
-La chance	38	
-Merci pour	38	
-Mon frère	38	
-Ouais je sais	38	
-Ouest	38	
-Oui très bien	38	
-coeur	38	
+Comme toi	38	
+Entre	38	
+Il faut	38	
+Je suis fatigué	38	
+Laisse tomber bye	38	
+Quesqui	38	
 déjà	38	
-grâce	38	
-moi  !	38	
-notre	38	
-petit	38	
-sérieux	38	
-Bien merci	37	
-C un	37	
-Clavier	37	
-Entre	37	
+À la	38	
+À toi aussi	38	
+Antique	37	
+Au ok	37	
+Bien la	37	
 Et pourquoi	37	
-Et puis	37	
+Je comprend	37	
 Je suis au collège	37	
-Je t'aime aussi chéri	37	
-Je viens de	37	
-OUI	37	
-Ouais  .	37	
-Passe	37	
-Passer	37	
-Tout va bien	37	
+Merci ma soeur	37	
+Mois	37	
 Trkl et toi	37	
 apparait	37	
-etc	37	
-toute	37	
-À la	37	
-Été	37	
+À tout à l'heure	37	
 , bonne nuit	36	
-A toi aussi	36	
-Bonjours	36	
-C rien	36	
-C'est quoi ça	36	
-J'avais	36	
-Je le sais	36	
-Je suis chez	36	
-Je suis dans le	36	
-Jeux de	36	
+Depuis quand	36	
+Je t'écoute	36	
 Marseille	36	
-Mois	36	
-Non pas du tout	36	
-Oyais	36	
-avant	36	
-peut	36	
+Message	36	
+Pas de soucis	36	
+Pas du tout	36	
+Peux	36	
+Pour toi	36	
+Quand tu veux	36	
+Tous	36	
+Très belle	36	
+je vais	36	
+son	36	
 Au-revoir	35	
-BONNE	35	
-C'est sur	35	
 Cest bien	35	
-Chez toi	35	
-Coeur	35	
-Connais	35	
-Joyeux anniversaire ma chérie	35	
-Monsieur	35	
-Non rien	35	
-Oui moi aussi	35	
+Cest quoi	35	
+Chaque	35	
+Comment va	35	
+Et je	35	
+Gâteau	35	
+Il est trop	35	
+Je confirme	35	
+Je ne sais pas encore	35	
+Jmen	35	
+L'amour	35	
+Laisse moi	35	
+On verra bien	35	
+Onéreux	35	
+Oui Oui	35	
+Oui on	35	
+Pas trop	35	
+Pour savoir	35	
+Quand tu	35	
+Quoi de neuf	35	
+Tet chaje	35	
 je ne sais pas	35	
-jsuis	35	
 oui  .	35	
 pleure	35	
-viens	35	
-Ah  .	34	
-Bonne après midi mon amour	34	
-Comme toi	34	
-Depuis quand	34	
-Il faut	34	
-J'en	34	
+Bonne fin de soirée	34	
+Connais pas	34	
+Double	34	
+Faux	34	
 Je m'appelle	34	
-Laisse moi	34	
-Oui on	34	
-Pour savoir	34	
-Pour toi	34	
-Qui est	34	
-Tet chaje	34	
-Tous	34	
+Je sais bien	34	
+Je vais te	34	
+Jour	34	
+Mais je	34	
+Mais oui	34	
+Mais quoi	34	
+N'opère	34	
+Oui je suis	34	
 Voui	34	
-Antique	33	
-Bonne fin de soirée	33	
-Connais pas	33	
-Double	33	
-Et je	33	
-Faux	33	
+mère	34	
+Bonne journée à toi	33	
+Bonne nuit à demain	33	
+Cest pas	33	
+Et les	33	
 H  .	33	
-Il est trop	33	
-Je confirme	33	
-Je part	33	
-Je suis rentrée	33	
-Je vais bien	33	
+J'aimerais	33	
 Jeune	33	
-Jmen	33	
 Joyeux anniversaire mon	33	
-Mais quoi	33	
-N'opère	33	
-Pas de soucis	33	
-Pas du tout	33	
-Peux	33	
+Ok mais	33	
+On dirait	33	
+Ouai  .	33	
+Oui mon	33	
+Possible	33	
 Pour la	33	
-Quoi de neuf	33	
+Pour vous	33	
+Quand même	33	
+Quesqui passe	33	
+Toi aussi chéri	33	
+Toii aussi	33	
+Trop bien	33	
+Tu crois	33	
 Vous faites quoi	33	
-je vais	33	
+bonne journée	33	
 mois	33	
-mère	33	
-À toi	33	
-Bonne fête passe une belle	32	
+où	33	
+A quel heure	32	
+Bonjour mon bébé	32	
 C trop	32	
-Cest pas	32	
-Comment va	32	
-Dans mon	32	
-J'aimerais	32	
-Je les	32	
-Je sais pas encore	32	
-Je suis fatigué	32	
-Non c'est	32	
-Onéreux	32	
-Ouai  .	32	
-Pas trop	32	
-Pour vous	32	
-Quand même	32	
-Quand tu	32	
-Quesqui	32	
+C'est clair	32	
+Heu  .	32	
+Il fait	32	
+Je vais essayer	32	
+Je vais voir	32	
+Merci à toi de même	32	
+Moi plus	32	
+Moiii aussi	32	
+Mère	32	
+Oue et	32	
 Quoi de	32	
-Trop bien	32	
-Tu crois	32	
+Tour	32	
+Tu manque	32	
+Tu pense	32	
 vois	32	
-À toi aussi	32	
+Écoute	32	
+, j'espère que	31	
+A  .	31	
+Aucun	31	
+Bien oui	31	
+Bien reçu	31	
 Bjr mn coeur jtm	31	
-C'est clair	31	
+Bleu	31	
+Compris	31	
+Coucoi	31	
+Dans la	31	
+En plus	31	
 Enchanté	31	
-Je vais te	31	
+Faut pas	31	
+J'ai rien	31	
+Javoue	31	
+Je fais	31	
+Je t'aime bébé	31	
 Joyeux anniversaire à	31	
 Jte jure	31	
-Mais je	31	
-Oue et	31	
-Oui je suis	31	
-Rien e	31	
+La même	31	
+Laurent	31	
+Merci à vous aussi	31	
+Nouvelle	31	
+Ouais toi	31	
+Oui super	31	
+Pour vrai	31	
+Très jolie	31	
+courage	31	
+eu	31	
 gros calins pour Piffo	31	
+j'en	31	
 pardon	31	
-, j'espère que	30	
-A  .	30	
-A quel heure	30	
-Cest quoi	30	
+Action	30	
+C'est trop	30	
+Cavaliers	30	
+Claire des gros bisous	30	
 Dur	30	
-Heu  .	30	
-Il fait	30	
 Il à	30	
-Je ne sais pas encore	30	
-Je t'écoute	30	
+Illusion	30	
+Je suis avec	30	
+Je suis chez moi	30	
+Je suis à	30	
 L'inconnu	30	
-Nouvelle	30	
-Ok mais	30	
-On dirait	30	
-Quand tu veux	30	
-Toi aussi chéri	30	
-bonne journée	30	
-couple	30	
-où	30	
-Aucun	29	
-B son	29	
-Bleu	29	
-Bonne nuit à demain	29	
-Claire des gros bisous	29	
-Et les	29	
+Ma princesse	30	
+Moi je suis	30	
+Ok compris	30	
+Ouin  .	30	
+Quoi tu fait	30	
+Rentre	30	
+Tu dors pas	30	
+Tu étais où	30	
+toi aussi	30	
+viens de me réveiller	30	
+à toi des bisous	30	
+Ajoute	29	
+Bien-sûr	29	
+Bonne journée bisous	29	
+Bonne nuit à	29	
+C'est le	29	
+Crise	29	
+D'acc	29	
+Dance	29	
+Gros bisous je t'aime	29	
+Je dormais	29	
+Je l'aime	29	
+Je la	29	
+Je me suis	29	
+Je peut	29	
+Je savais	29	
+Je taime aussi	29	
 Je te aime	29	
-Je vais essayer	29	
-Je vais voir	29	
-Mais oui	29	
-Merci à vous aussi	29	
-Mère	29	
-Ok compris	29	
+Jusqu'à	29	
+Meilleur	29	
 Ou la	29	
-Oui mon	29	
-Tour	29	
-Tu manque	29	
-Tu étais où	29	
-j'en	29	
+Oui ce	29	
+Oui ou non	29	
+Oui oui et toi	29	
+Sourire	29	
+Tu es sur	29	
+cette	29	
+depuis	29	
+jveux	29	
 qu'est-ce	29	
-toi aussi	29	
-viens de me réveiller	29	
-Ajoute	28	
-Bonjour mon bébé	28	
-Bonne journée à toi	28	
-Cavaliers	28	
-Compris	28	
-Dance	28	
-Dans la	28	
+tellement	29	
+toujours	29	
+Appel moi	28	
+Cest bon	28	
 Elle à	28	
-Gros bisous je t'aime	28	
-Javoue	28	
-Je peut	28	
-Je suis chez moi	28	
-Je taime aussi	28	
+Je l'ai	28	
+Je regarde la	28	
+Je te comprends	28	
 Je viens de rentrer	28	
-Jour	28	
 Joyeux Noël	28	
-La famille	28	
 MOI	28	
+Mais pas	28	
+Non plus	28	
 Nour	28	
-Oui ou non	28	
-Oui oui et toi	28	
+Oui pas	28	
+Oui si tu veux	28	
 Passe une Bne soirée	28	
-Possible	28	
-Pour vrai	28	
+Pour moi	28	
+Pourtant	28	
 Poutine	28	
-Sourire	28	
-Très belle	28	
-Tu dors pas	28	
+Tentez	28	
+Tes sérieux	28	
+Tu trouve	28	
+Vous allez bien	28	
 bois	28	
-cette	28	
 chérie d'amour je t'aime	28	
-courage	28	
+commence	28	
+jeux	28	
 jsais	28	
 monte	28	
-son	28	
-toujours	28	
-À tout à l'heure	28	
-Bonne nuit à	27	
-Chez pas	27	
-D'acc	27	
-Faut pas	27	
-Illusion	27	
+parce	28	
+À quelle heure	28	
+A toute bisous	27	
+Aucune	27	
+Bonjour madame	27	
+C'est mieux	27	
+Château	27	
+Chérie	27	
+Comme tu veut	27	
+G sais	27	
 Ils sont	27	
-Je comprend	27	
-Je fais	27	
-Je la	27	
-Je sais bien	27	
-Je suis avec	27	
-Je te comprends	27	
-La même	27	
-Mais pas	27	
+Jacqueline des gros bisous	27	
+Je c pas	27	
+Je joue	27	
+Je vais bien et toi	27	
+Jveux	27	
 Merci bien	27	
-Message	27	
-Moi je suis	27	
-Nn rien	27	
+Merci mon frère	27	
+Ouai et	27	
+Oui aussi	27	
+Oui bien sûr	27	
 Oui est	27	
-Oui si tu veux	27	
-Pauvre toi	27	
+Oui un	27	
+Pas de quoi	27	
 Physique	27	
-Pour moi	27	
-Serieux	27	
-Tentez	27	
-Tu as raison	27	
-Tu pense	27	
-commence	27	
-depuis	27	
-eu	27	
-jeux	27	
-jveux	27	
+Tu as bien fait	27	
+Voiture	27	
+attention	27	
+bien merci et toi	27	
+bientôt	27	
+cour	27	
+jour	27	
+lol  .	27	
 loulous des gros bisous	27	
 sursaute	27	
-toutes les deux bisous	27	
-Écoute	27	
 Aok  .	26	
-Bonjour madame	26	
-Cest bon	26	
-Chérie	26	
-Crise	26	
-De ouf	26	
-En plus	26	
-J'ai rien	26	
-Jacqueline des gros bisous	26	
-Je c pas	26	
-Je joue	26	
-Je l'aime	26	
-Je regarde la	26	
-Je t'aime bébé	26	
-Jetaime	26	
-Ma princesse	26	
+Bien bien	26	
+Bien et vous	26	
+Bonne après midi	26	
+C une	26	
+Cest qui	26	
+Cours	26	
+Dans mon lit	26	
+Danse	26	
+De la	26	
+Envie	26	
+Fai	26	
+Je sais plus	26	
+Je suis dans le bus	26	
+Je suis désolé	26	
+Je t'aime mon	26	
+Mais  .	26	
+Mais c'est	26	
+Malheureusement	26	
 Mdr c	26	
+Merci  .	26	
+Merci à	26	
+Musique de	26	
 Nn et	26	
-Non plus	26	
-Ouai et	26	
+Nouveau	26	
+Oh  .	26	
+Ok c'est bon	26	
+Ouais je	26	
+Oui je comprends	26	
 Poir	26	
+Pourquoi pas	26	
 Qui valide	26	
-Rentre	26	
-Tu as bien fait	26	
-Tu trouve	26	
+Recette	26	
+Toi vraiment	26	
+Toutes	26	
+Trois	26	
 ce que tu	26	
-cour	26	
+celle	26	
+cet	26	
+chaque	26	
+dire	26	
+magnifique	26	
 mieux	26	
-à toi des bisous	26	
-Appel moi	25	
 Bon voyage	25	
-Bonne après midi	25	
-Bonne fête de ramadan	25	
-Bonne journée bisous	25	
 Bonne matinée	25	
-C'est trop	25	
-Cest qui	25	
+C cmnt	25	
+C'est la	25	
+Cc oui et	25	
+Certains	25	
 Cest quoi tu fais	25	
-Crissement	25	
-Fai	25	
-G sais	25	
+Cetais	25	
+Comment tu va	25	
+Et de ton côté	25	
+Heureux	25	
+Hmd et	25	
+Il pleut	25	
 J aime	25	
-Je l'ai	25	
+J'aime pas	25	
+J'en sais rien	25	
+Je crois pas	25	
+Je m'en fou	25	
 Je me doute bien	25	
-Je savais	25	
-Je suis dans le bus	25	
-Je suis à	25	
+Je reviens	25	
+Je suis a la maison	25	
 Je t'en pris	25	
 Je vais dormir	25	
-Jusqu'à	25	
-Jveux	25	
-Mais c'est	25	
-Merci  .	25	
-Merci mon frère	25	
+Je vous aime	25	
+Lisant	25	
 Notre Dame de toute Grâce priez pour	25	
 Ok mon coeur	25	
-Oui Oui	25	
-Oui ce	25	
-Oui super	25	
-Pourquoi pas	25	
-Pourtant	25	
+Par contre	25	
+Pas du	25	
+Pas faut	25	
+Peut  !	25	
+Soirée	25	
+Tou	25	
+Tu sais quoi	25	
 Ui et toi	25	
-Waitrose	25	
-jour	25	
-magnifique	25	
+donne	25	
+etre	25	
+il est	25	
 merci et chez toi	25	
-À quelle heure	25	
+puis	25	
+surtout	25	
+tous	25	
+Ça va mieux	25	
 Ah oui quand même	24	
-Aucune	24	
-C une	24	
-C'est le	24	
-Cc oui et	24	
+Avec plaisir	24	
+Bisous bonne nuit	24	
+C'EST	24	
+C'est toi	24	
 Ces bon	24	
 Cest tout	24	
-Comme tu veut	24	
-Coucoi	24	
-Danse	24	
-Envie	24	
-Hmd et	24	
-J'en sais rien	24	
-Je ai	24	
-Je dormais	24	
-Je m'en fou	24	
-Je me suis	24	
-Je suis a la maison	24	
+Cheveux	24	
+Crois	24	
+Eau	24	
+J'essaie	24	
+Je au	24	
+Je me suis trompé	24	
+Je partage et signé	24	
+Je peux t'appeler	24	
 Je te jure	24	
-Je vous aime	24	
+Je veux pas	24	
+Je vois ça	24	
 Joyeux noël	24	
-Koi tu fait	24	
 Mais la	24	
-Merci a toi aussi	24	
+Mais pk	24	
 Moi j'ai	24	
-Nouveau	24	
+Moi oui	24	
+Moins	24	
+Oh que oui	24	
+Ok je t'aime	24	
 On peut	24	
 Ouais c'est	24	
-Oui bien sûr	24	
-Pas de quoi	24	
-Quoi tu fait	24	
-Recette	24	
-attention	24	
+Oui en	24	
+Oui lol	24	
+Pour faire	24	
+Pour l'instant	24	
+Que tu	24	
+Sa veut dire quoi	24	
+Soeur	24	
+Sous	24	
+Tu es chez toi	24	
+Tu me manque aussi	24	
+Tu regarde quoi	24	
 c est	24	
-celle	24	
-cet	24	
-etre	24	
-il est	24	
+com	24	
 moi aussi je t'aime	24	
-puis	24	
+pou	24	
 suis dans le bus	24	
-tellement	24	
-tous	24	
 yeux	24	
-Bien et vous	23	
+A toute	23	
+Avec la	23	
+Bisous je t'aime	23	
+Bne chance	23	
+Bon je	23	
 Bonjour chérie	23	
-Cheveux	23	
-Crois	23	
-Devoir	23	
-Découvrez	23	
-Eau	23	
-Et de ton côté	23	
-Heureux	23	
-Je au	23	
-Je crois pas	23	
-Je me suis trompé	23	
-Je reviens	23	
-Je suis désolé	23	
-Je vais bien et toi	23	
-Mais  .	23	
-Malheureusement	23	
-Moi aussi mon	23	
-Moi oui	23	
-Ouais je	23	
-Oui Sva et	23	
-Oui un	23	
-Pour faire	23	
-Pour quoi	23	
-Que tu	23	
-Sa veut dire quoi	23	
-Trois	23	
-Très jolie	23	
-Tu me manque aussi	23	
-Tu regarde quoi	23	
-Tu sais quoi	23	
-Tu veux quoi	23	
-Vous allez bien	23	
-bien merci et toi	23	
-dire	23	
-et heureuse année 2018	23	
-façon	23	
-oui oui	23	
-répondre	23	
-Ça va mieux	23	
-A la maison	22	
-Bien oui	22	
-Cetais	22	
-Comment vas	22	
-Cours	22	
-De quoi tu parle	22	
-De rien chéri	22	
-Hhh le	22	
-Il sont	22	
-J'aime pas	22	
-Je peux t'appeler	22	
-Je te parle	22	
-Je vais me coucher	22	
-Je vais me laver	22	
-Laisser	22	
-Lisant	22	
-Meilleur	22	
-Mes amours	22	
-Moi si	22	
-Musique de	22	
-Oh que oui	22	
-Ok c'est bon	22	
-On fait	22	
-Oui aussi	22	
-Oui je c	22	
-Oui à	22	
-Pas du	22	
-Passe une Bne journée	22	
-Peut  !	22	
-Pourquoi tu	22	
-Soeur	22	
-Squeezie	22	
-T qui	22	
-Tu es chez toi	22	
-Tu me manques tellement	22	
-Vous faites	22	
-ais	22	
-com	22	
-ok  .	22	
-passe une bonne journée	22	
-pou	22	
-soit	22	
-été	22	
-Abonne toi	21	
-Amoureux	21	
-Avec la	21	
-Avec plaisir	21	
-Avec un	21	
-Bisous je t'aime	21	
-Bne chance	21	
-Boire	21	
-Bon je	21	
-Bonne idée	21	
-C clair	21	
-C'EST	21	
-C'est la	21	
-C'est mieux	21	
-Comment allez vous	21	
-Couleur	21	
-Dit le	21	
-Dès	21	
-ILS	21	
-Il pleut	21	
-J'espère que tu vas bien	21	
-Je sais plus	21	
-Je t'ai	21	
-Je t'aime mon	21	
-Je te crois	21	
-Je veux pas	21	
-La je	21	
-Merci à toi pareillement	21	
-Moi aussi chéri	21	
-Moi c'est	21	
-Moi plus	21	
-Moins	21	
+Bonne idée	23	
+Bonne nuit mon coeur	23	

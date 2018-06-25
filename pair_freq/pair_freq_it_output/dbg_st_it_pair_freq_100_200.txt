@@ -1,0 +1,91 @@
+#Stoccolma,	Svezia
+#Manila,	Filippine
+#Bruxell,	Belgio
+#Luanda,	Angola
+#Nicosia ,	Cipro
+#Santiago,	Cile
+#Caracas,	Venezuela
+#Minsk,	Bielorussia
+#Tbilisi,	Georgia
+#Libreville ,	Gabon
+#Tegucigalpa,	Honduras
+#Londra,	Ighilterra
+#Vienna,	Austria 
+#Varsavia,	Polonia
+#Berlino,	Germania 
+#Islamabad,	Pakistan
+#Berna,	Svizzera
+#Lima,	Per®¥ 
+#Accra,	Ghana
+#Tripoli,	Libia
+#Gaborone,	Botswana 
+#Manama,	Bahrain
+#Bratislava ,	Slovacchia
+#Canberra,	Australia
+#Kampala ,	Uganda
+#Katmandu,	Nepal
+#Lisbona,	Portogallo
+#Apia,	Samoa
+#Belgrado,	Serbia
+#Giacarta,	Indonesia
+#Lilongwe,	Malawi
+#Lubiana,	Slovenia
+#Mosca,	Russia
+#Tirana,	Albania
+#Ottawa,	Canada
+#Nairobi,	Kenia
+#Copenaghen ,	Danimarca
+#Niamey,	Niger
+#Abuja,	Nigeria
+#Windhoek ,	Namibia
+#Podgorica,	Montenegro
+#Polonia,	Zloty
+#Brasile ,	Real
+#Vietnam,	Dong
+#Angola,	Kwanza
+#Giappone ,	Yen
+#Lettonia,	Last
+#Lituania,	Litas
+#USA,	Dollaro
+#Armenia,	Dram
+#Tailandia,	Baht
+#Nigeria,	Anita
+#Romania,	Leu 
+#Russia,	Rublo
+#Ucraina,	Gravina
+#Croazia,	Kuna
+#Cambogia,	Riel
+#Corea,	Won
+#Europa,	Euro
+#Malesia,	Ringgit
+#Iran,	Rial
+#India,	Rupia 
+#Bulgaria,	Lev
+#Wichita ,	Kansas
+#Akron,	Ohio
+#Irvine,	California 
+#Toledo,	Ohio
+#Indianapolis,	Indiana 
+#Denver,	Colorado
+#Milwaukee,	Wisconsin
+cMa mi chiedevo , perch√© hai scelto proprio il Wisconsin e perch√© proprio Milwaukee  ?	1	
+#Reno,	Nevada
+#Boston,	Massachusetts 
+#Minneapolis,	Minnesota
+#Bakersfield,	California
+#Henderson,	Nevada
+#Seattle,	Washington
+#Atlanta,	Georgia
+#Chandler,	Arizona
+#Dallas ,	Texas
+#Madison ,	Wisconsin
+#Tampa ,	Florida
+#Tallahassee,	Florida
+#Irving,	Txs
+#Fontana,	California
+#Anaheim,	California
+#Fresno,	California 
+#Amarillo,	Teas
+#Hialeah,	Florida
+#Pittsburgh,	Pennsylvania 
+#Austin,	Texas

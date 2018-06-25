@@ -5,6 +5,7 @@
 import sys
 import re
 
+lang = sys.argv[1][: 2]
 
 def lcs_len(s1,s2):
     m=[[0 for i in range(len(s2)+1)]  for j in range(len(s1)+1)]
@@ -49,9 +50,13 @@ for line in sys.stdin:
 
     sent_list[0] = ""
     sent_list[1] = ""
+    #20180509: 对于ru, 动词最起码在第五个位置 因为俄语表达比较随意
+    if lang == "ru":
+        sent_list[2] = ""
+        sent_list[3] = ""
 
     for word in sent_list:
-        if word in verb_dict and word in origin_list: #同时确保， 当前word 在原始串是一个 “确切”的词
+        if word in verb_dict and word in origin_list: #and同时确保， 当前word 在原始串是一个 “确切”的词
 
             is_remove = False
             #相似度去重

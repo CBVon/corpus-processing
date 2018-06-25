@@ -1,3 +1,5 @@
+#ugc_classify_hadoop.sh: filter_map.py: path_pre = ?
+
 #datatype="facebook"
 #datatype="instagram"
 datatype="twitter"
@@ -5,6 +7,7 @@ datatype="twitter"
 
 #lang="es"
 #lang="ru"
-lang="pt"
+#lang="pt"
+lang="fr"
 
 sh ugc_classify_hadoop.sh ${datatype} ${lang}

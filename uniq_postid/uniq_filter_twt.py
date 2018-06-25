@@ -3,7 +3,8 @@ import sys
 
 #langs = ["id", "es", "ru", "pt", "fr", "en", "de"]
 #langs = ["id", "es", "ru", "pt", "fr", "de"]
-langs = ["it", "tl"]
+#langs = ["it", "tl"]
+langs = ["id", "es", "ru", "pt", "fr", "de", "it", "tl"] #20180531
 
 last_postid = ""
 last_lang = ""

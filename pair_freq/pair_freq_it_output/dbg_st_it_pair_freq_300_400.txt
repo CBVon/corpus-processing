@@ -1,0 +1,36 @@
+#Onesto,	Disonesto
+#Convincente,	Inconvincente
+#Conosciuto,	Sconosciuto
+#Impressionante,	Insignificante
+#Possibilmente,	Impossibile
+#Deciso,	Indeciso
+#Consistente,	Inconsistente
+#Etico,	Immorale
+#Informato,	Dsinformato
+#Comodo,	Scomodo
+#Possibile,	Impossibile
+#Logico,	Illogico
+#Efficiente,	Inefficiente
+#Produttivo,	Improduttivo
+#Conveniente,	Sconveniente 
+#Reponsabile,	Irresponsabile
+#Piacevole,	Spiacevole
+#Gradevole ,	Sgradevole
+#Fortuito,	Sfortunato
+#Informativo,	Disinformativo
+#Razionale,	Irrazionale
+#Accettabile,	Inaccettabile
+#Consapevole,	Inconsapevole
+#Ragionevole,	Irragionevole
+#Sicuro,	Insicuro 
+#Certo,	Incerto 
+#Probabile,	Improbabile 
+#Largo,	Pi¨´ largo 
+#Caldo,	Pi¨´ caldo 
+#Male,	Peggio
+#Lungo,	Pi¨´ lungo 
+#Bene,	Meglio
+#Grande,	Il pi¨´ grande 
+#Gustoso,	Il pi¨´ gustoso 
+#Vecchio,	Il pi¨´ vecchio 
+#Lento,	Il pi¨´ lento 

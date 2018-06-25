@@ -21,6 +21,15 @@ then
 elif [[ ${lang} == "ru" ]]
 then
     pairtxt="Ru_word_pairs.txt"
+elif [[ ${lang} == "fr" ]]
+then
+    pairtxt="Fr_word_pairs.txt"
+elif [[ ${lang} == "de" ]]
+then
+    pairtxt="De_word_pairs.txt"
+elif [[ ${lang} == "it" ]]
+then
+    pairtxt="It_word_pairs.txt"
 fi
 
 pairfreqfile="./pair_freq_${lang}_output/${datatype}_${lang}_pair_freq_${3}_${4}.txt"
@@ -31,6 +40,12 @@ input="/user/ime/fengchaobing/dl_corpus/$1/lang_divide/$2/part-*"
 #input="/user/gime/fengchaobing/dl_corpus/$1/lang_divide/$2/part-*"
 output="/user/ime/fengchaobing/dl_corpus/$1/pair_freq/$2/$3"
 #output="/user/gime/fengchaobing/dl_corpus/$1/pair_freq/$2/$3"
+
+if [[ ${lang} == "fr" ]]
+then
+input="/user/ime/fengchaobing/dl_corpus/$1/lang_divide/frFR/part-*"
+fi
+
 fi
 
 rm -rf ${pairfreqfile}
@@ -42,7 +57,7 @@ c3=`awk -F'\t' 'NR=="'"$[$i+1]"'"{print $3}' ${pairtxt}`
 c4_=`awk -F'\t' 'NR=="'"$[$i+1]"'"{print $4}' ${pairtxt}`
 c4=${c4_:0:-1}
 
-if [[ ${#c1} == "0" || ${#c2} == "0" || ${#c3} == "0" || ${#c4} == "0"  ]]
+if [[ ${#c1} == "0" || ${#c2} == "0" || ${#c3} == "0" || ${#c4} == "0" || `echo ${c3} | grep -e ' ' -e '"'` == ${c3} || `echo ${c4} | grep -e ' ' -e '"'` == ${c4} ]]
 then
 #    echo "continue----- -----4" >> ${pairfreqfile}
     continue

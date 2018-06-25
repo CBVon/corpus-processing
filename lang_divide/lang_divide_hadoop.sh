@@ -5,12 +5,16 @@ source ~/.bash_profile
 datatype=$1
 
 #ugc_langs=("id" "es" "ru" "pt" "fr" "en" "de")
-#ugc_langs=("id" "es" "ru" "pt" "fr" "de")
-ugc_langs=("it" "tl")
+ugc_langs=("id" "es" "ru" "pt" "fr" "de" "it" "tl")
+#ugc_langs=("it" "tl")
+
 vk_langs=("ru")
+
 #dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "en" "de")
-#dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "de")
-dbg_langs=("it" "tl")
+#dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "de" "it" "tl")
+#dbg_langs=("it" "tl")
+#dbg_langs=("de")
+dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "it" "tl")
 
 langs=()
 input="/user/ime/fengchaobing/dl_corpus/${datatype}/split_freq/part-*"

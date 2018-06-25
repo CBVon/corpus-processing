@@ -15,7 +15,9 @@ elif datatype == "twitter":
 elif datatype == "vk":
     short_d = "vk"
 
-full_f = open(datatype + "_" + lang + "_top_freq_1000.txt", "r")
+#full_f = open(datatype + "_" + lang + "_top_freq_1000.txt", "r")
+#full_f = open(lang + "_" + short_d + "_2000.txt")
+full_f = open(lang + "_" + short_d + "_2000_marked.txt")
 
 ugc_f = open(lang + "_" + short_d + "_ugc.txt", "w")
 no_ugc_f = open(lang + "_" + short_d + "_no_ugc.txt", "w")
@@ -23,9 +25,13 @@ no_ugc_f = open(lang + "_" + short_d + "_no_ugc.txt", "w")
 for line in full_f:
     
     line_l = line.strip().split('\t')
-    if line_l[2] == "1":
-        ugc_f.write(line_l[0] + "\t" + line_l[1] + "\n")
-    elif line_l[2] == "0":
-        no_ugc_f.write(line_l[0] + "\t" + line_l[1] + "\n")
+
+#    if len(line_l) == 2:
+#        ugc_f.write(line_l[0] + "\t" + line_l[1] + "\n")
+    if len(line_l) == 3:
+        if line_l[2] == "1":
+            ugc_f.write(line_l[0] + "\t" + line_l[1] + "\n")
+        elif line_l[2] == "0":
+            no_ugc_f.write(line_l[0] + "\t" + line_l[1] + "\n")
 
 

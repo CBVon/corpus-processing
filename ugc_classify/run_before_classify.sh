@@ -11,42 +11,53 @@
 
 if false
 then
-#proccessing ru :
+#processing ru :
 
 lang="ru"
-
+echo "processing ${lang} !"
 datatype="facebook"
+echo "processing ${lang} - ${datatype} !"
 cd freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 
 datatype="instagram"
+echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 
 datatype="twitter"
+echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 
 datatype="vk"
+echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 fi
 
-#proccessing pt :
+if true
+then
+#processing pt :
+#processing fr :
 
-lang="pt"
-
+lang="fr"
+echo "processing ${lang} !"
 datatype="facebook"
+echo "processing ${lang} - ${datatype} !"
 cd freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 
 datatype="instagram"
+echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 
 datatype="twitter"
+echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
+fi
 
 cd ..
 sh tar_update.sh 

@@ -13,6 +13,9 @@ then
 elif [[ ${datatype} == "vk" ]]
 then
     short_d="vk"
+elif [[ ${datatype} == "ugc" ]]
+then
+    short_d="ugc"
 fi
 
 #python markov_2gram_vob.py ../origin_corpus/es_fb_no_ugc.txt es_fb_no_ugc_trans_vob.pkl

@@ -1,19 +1,19 @@
-& , KAPRALOS GLASS 22940 75976	1200989	
-.	1060333	
+& , KAPRALOS GLASS 22940 75976	1199950	
+.	1059968	
 Lit	40526	
 Magic	30733	
-p	29378	
+p	29243	
 Magical	29170	
 Sunday	24372	
 Gato	20063	
-Swag	18669	
+Swag	18668	
 Slay	15815	
 lit	14039	
 Magic  !	13586	
 Gay	13536	
-Magical  !	12402	
+Magical  !	12403	
 Saturday	11577	
-Gunaydin	11333	
+Gunaydin	11332	
 Pink	10694	
 Luv it	10634	
 Lit  !	10280	
@@ -30,37 +30,37 @@ Guapas  !	5487
 aw	5462	
 Milano	5371	
 magic	5335	
-Hahaha	5181	
+Hahaha	5182	
 LIT	5059	
 Gatinha	4995	
-Ihana	4975	
+Ihana	4974	
 Guapas	4967	
 Lazy Sunday	4839	
 Slay  !	4565	
 Feliz Natal	4537	
 Natural	4413	
 @TagramApp	4399	
-g	4356	
 slay	4350	
+g	4329	
 Hahaha  .	4297	
-tags	4240	
+tags	4241	
 Gato  !	4126	
 gm	4124	
-Man	4118	
-Haha  .	3996	
+Man	4117	
+Haha  .	3994	
 Gatas	3957	
-Saturday  .	3848	
+Saturday  .	3847	
 Luna	3783	
 join @atalantaworld	3770	
-Haha  !	3753	
+Haha  !	3749	
 pink	3742	
 Lips	3718	
 Magic  .	3597	
 Tuesday	3577	
 SLAY	3574	
-3	3530	
-,  .	3487	
-Hahaha  !	3467	
+3	3525	
+,  .	3486	
+Hahaha  !	3466	
 magical	3435	
 @tags4likesandroidapp	3392	
 sunday	3387	
@@ -68,9 +68,9 @@ Mad	3385
 Magical  .	3312	
 Thanks  !	3302	
 @champagnepapi	3146	
-Swag  !	3114	
+Swag  !	3115	
 gay	3088	
-@m  .	3027	
+@m  .	3029	
 Diggin it  !	2974	
 Hay	2939	
 Banana	2859	
@@ -79,19 +79,19 @@ Sunday  !	2770
 lit  !	2768	
 @kassychan0121	2757	
 Papi	2741	
-Pink  !	2680	
-tag	2680	
+Pink  !	2681	
+tag	2681	
 1	2645	
 Baby girl	2560	
-1  .	2520	
+1  .	2522	
 al	2504	
 Hay rl Cumalar	2438	
 Lol	2392	
 Lawd	2369	
-haha	2353	
+haha	2352	
 @tagramapp	2330	
 Feliz natal	2282	
-Ihana  !	2247	
+Ihana  !	2244	
 @t  .	2215	
 Mahalo  !	2197	
 Tulips	2196	
@@ -100,28 +100,28 @@ Playa	2177
 LIT  !	2139	
 Bangkok	2132	
 Diggin it	2086	
-hahaha	2080	
-@linuxfan	2079	
+hahaha	2081	
+@linuxfan	2077	
+com	2066	
 luv it	2062	
 @ladygaga	2047	
-com	2034	
 Guapisimo	2033	
 Nay	2026	
 2  .	2010	
 Halo	2010	
-www  .	2010	
+www  .	2008	
 k	2003	
 Jwana	1997	
 Saturday  !	1992	
 Ziba	1990	
 Iran  .	1989	
 p  .	1971	
-@s  .	1944	
+@s  .	1945	
 SWAG	1914	
 Isfahan  .	1900	
 @kansainak	1874	
-m  .	1871	
-@k  .	1866	
+m  .	1870	
+@k  .	1865	
 2016  .	1858	
 Sin palabras	1851	
 My photography	1834	
@@ -134,19 +134,19 @@ luv see m 0del @NATASHAGALKINA	1732
 @ipojman	1700	
 Tuesday  .	1689	
 @mr  .	1683	
-m	1677	
+m	1678	
 Nina	1653	
 Feliz natal  !	1650	
 Man  .	1650	
 saturday	1643	
-D	1633	
-@may  .	1631	
+@may  .	1632	
 Hahahaha	1630	
 Pink  .	1628	
+D	1625	
 gato	1620	
 @katumi50	1613	
 Divinas	1609	
-b  .	1606	
+b  .	1607	
 bag	1603	
 Mad  !	1594	
 @maanan01	1590	
@@ -154,26 +154,26 @@ Illuminati	1580
 ID kyeongin 20	1576	
 Mahalo	1575	
 Paparazzi	1574	
-3  .	1570	
+3  .	1569	
 @bigbaldhead	1565	
 5  .	1561	
-Gunaydin  .	1561	
+Gunaydin  .	1560	
 San Diego	1559	
 Gatao	1546	
 @InstaTagIos	1542	
 @  .	1541	
 diggin it	1535	
-@nana  .	1521	
+@nana  .	1520	
 Gatas  !	1518	
 Man  !	1518	
 @baba  .	1517	
 Bag	1508	
 SUNDAY	1488	
-Magisk	1487	
+Magisk	1486	
 Salad	1479	
 5	1478	
 @singtoe78	1466	
-Hay rl cumalar  .	1460	
+Hay rl cumalar  .	1459	
 Lazy sunday	1453	
 @mayumi  .	1438	
 luv it  !	1433	
@@ -201,7 +201,7 @@ Magia	1318
 Big  !	1313	
 Bangin	1310	
 Papa	1310	
-10  .	1302	
+10  .	1300	
 Ay  !	1286	
 @awa1964	1284	
 2017  .	1283	
@@ -213,10 +213,10 @@ Hahahaha  .	1263
 Ulala	1263	
 Lucky guy	1262	
 Pagi	1260	
-s	1257	
+s	1256	
 Lyon	1245	
 @angelbabypink	1233	
-@yukina0500	1231	
+@yukina0500	1230	
 natural	1226	
 Mr  .	1224	
 4  .	1223	
@@ -238,35 +238,36 @@ gunaydin	1174
 @malumo	1169	
 0709	1168	
 Lazy Saturday	1161	
-12  .	1160	
 Amigas	1160	
 @aya  .	1158	
 Poppin	1156	
-lol	1136	
+12  .	1154	
+lol	1137	
 Pimpin	1132	
 Babygirl	1129	
 Taiwan	1121	
-0	1120	
 Nanit	1118	
+0	1115	
 @ohpawana943	1115	
-s  .	1114	
+s  .	1110	
 @hina  .	1105	
 @ftgigin	1104	
 @top  .	1094	
 Sunday walk	1088	
 Ohana	1085	
 @ohanamanapua	1083	
-Hahahaha  !	1080	
+Hahahaha  !	1079	
+Hay rl Cumalar  .	1075	
 PINK	1074	
-Hay rl Cumalar  .	1073	
 papa	1073	
-2	1069	
 @h  .	1069	
+2	1068	
 Divinas  !	1066	
 11  .	1059	
 @naghmeh  .	1057	
 Mito	1035	
 Natural  .	1030	
+sihirliayakkabilar  .	1028	
 @prilaga	1021	
 @sakichanta	1021	
 Pinky	1013	
@@ -275,7 +276,6 @@ Lulu	1008
 Buongiornooooo	1000	
 @asaayo	999	
 taiwan	998	
-sihirliayakkabilar  .	996	
 Bangin  !	995	
 Pumpkin	987	
 Günayd n hay rl cumalar	982	
@@ -286,7 +286,7 @@ May  .	975
 @matthewalan	966	
 nana	964	
 Mamacita	959	
-@marina  .	954	
+@marina  .	955	
 h	950	
 nkr	938	
 @luna  .	932	
@@ -295,10 +295,10 @@ hahaha  .	929
 @voulakafkas	927	
 b	927	
 9  .	924	
-8  .	923	
+8  .	922	
 Bananas	922	
 Swan	922	
-ay	922	
+ay	921	
 f	919	
 Yay  !	918	
 @j  .	912	
@@ -309,28 +309,28 @@ Babyyy	901
 @tag  .	900	
 Luv it  .	900	
 Sin palabras  !	900	
+Milano  .	899	
 Lol  .	898	
-Milano  .	898	
 haha  .	898	
 @makimomoo	897	
 Kakaotalk ID renae 21  .	892	
 @chihanana717	891	
 @mayupannnnn	888	
-Naww	888	
 7  .	887	
+Naww	887	
 Flamingo	884	
 x	879	
 Babyyyy	875	
 Magico	875	
-it	874	
+it	873	
 @katsuhiro  .	871	
 Nana	867	
 Gay  .	866	
 @panguizzo	862	
 Hit	857	
-Wow  !	856	
 @makiko  .	855	
 Tulum	855	
+Wow  !	855	
 @fumipapa	852	
 Matchy matchy	846	
 jp	842	
@@ -366,9 +366,9 @@ t  .	797
 10	791	
 Parabéns amiga  !	789	
 @pattykl	786	
+@p  .	785	
 Gaga	785	
 , - 6 10- 3 & kakao ID bbabakong  .	784	
-@p  .	784	
 Guapisimo  !	784	
 @mizumayu2002	782	
 6 10  .	778	
@@ -395,13 +395,13 @@ ma	749
 Daw	745	
 k  .	745	
 pic	742	
-Magiskt  !	741	
 c	740	
+Magiskt  !	738	
 lips	737	
 C NGRATULATI NS  !	736	
 Gato  .	729	
 Slayin	729	
-f  .	728	
+f  .	727	
 Pantheon	725	
 Xula	722	
 SLAY  !	721	
@@ -409,10 +409,9 @@ Bay	719
 Lol  !	718	
 nakabayashi	718	
 @nina  .	712	
-Ohlala  !	712	
 Philippines	712	
-@magdamayday	711	
 Gay  !	711	
+Ohlala  !	711	
 2 & kakao ID lightkong  .	710	
 Oh lala	710	
 @kalin  .	707	
@@ -421,7 +420,8 @@ Buongiornoo	707
 MAGIC	707	
 Taco Tuesday  !	706	
 @kyonosin	705	
-n  .	705	
+@magdamayday	704	
+n  .	704	
 mama  .	702	
 @dr  .	699	
 Gigante	697	
@@ -433,13 +433,13 @@ okinawa	689
 Ay  .	687	
 @luansantana	682	
 @r  .	682	
-2016	681	
 Ryan	681	
 617	680	
-Han	679	
+2016	679	
 @mcap01	677	
 Mana	677	
 ASAP	676	
+Han	676	
 Bay ld m buna  .	675	
 0910	674	
 kakao ID lightkong  .	673	
@@ -452,7 +452,7 @@ Lalala	666
 Lucky man  !	665	
 @tatsuya  .	663	
 @pangdingx	661	
-6  .	659	
+6  .	658	
 Tan linda	657	
 16	656	
 Flamingos	655	
@@ -465,10 +465,10 @@ Join @atalantaworld	646
 3 @akabistro	645	
 @mrs  .	645	
 banana	645	
-lala	645	
 lugano	645	
 @copainbaba	643	
 TAGS	643	
+lala	643	
 @karin  .	640	
 polin	637	
 165	635	
@@ -483,7 +483,7 @@ mayu  .	631
 @gulaygurbuz	625	
 c  .	625	
 @lilianapamammo	624	
-h  .	622	
+h  .	620	
 t	619	
 @gila3g	616	
 Cool  !	616	
@@ -502,15 +502,15 @@ Luna  .	605
 @jeabapitchaya	604	
 Ayo	604	
 bay	604	
-P	603	
 @n  .	602	
 Babyyyyy	602	
+P	602	
 jwana	602	
 Crap	600	
 Laguna	599	
-Hehe  .	598	
 Lips  !	598	
 Buongiornoooooo	597	
+Hehe  .	597	
 @masami  .	594	
 @natalie  .	594	
 Tags  .	594	
@@ -534,8 +534,8 @@ papi	580
 @massimoluongo	579	
 Feliz Natal  .	579	
 magic  .	579	
-@mango825	577	
 Insanity	577	
+@mango825	576	
 Nala	574	
 Balayage	573	
 jpg	572	
@@ -607,13 +607,13 @@ Buongiorno  !	512
 lit  .	510	
 Dynamic	509	
 away	509	
-03  .	508	
 @boxsghala @boxsghala @boxsghala  .	508	
 @pipi987654321	508	
 @tapoon	508	
 Like dan tag teman kalian @doktawa	508	
 luna	508	
 Gatito	507	
+03  .	506	
 @3jsbhiroomitosakak	505	
 @fxkito2	504	
 @kirakiranoumi	504	
@@ -621,8 +621,8 @@ Makas Pünhan	502
 hehe	502	
 @tamamiya  .	501	
 Natural habitat	501	
+r  .	501	
 Mantaap	500	
-r  .	500	
 @kanako  .	499	
 @sina  .	498	
 @nankaiboy	496	
@@ -635,10 +635,10 @@ Hay  .	493
 18	492	
 @tamayo1209	492	
 @x  .	492	
-Magisk  !	492	
 @yindeetanakit	491	
 Luna  !	491	
 MAN	491	
+Magisk  !	491	
 Big man	490	
 @pattyi	489	
 pan	489	
@@ -652,10 +652,10 @@ Magia  !	486
 Lazy Saturday  .	484	
 babygirl	484	
 mango	483	
-Saw	482	
 @alphagalaxy	481	
 @ayamama7	481	
 Lips  .	481	
+Saw	481	
 @balon21910	480	
 @mana  .	480	
 Satan	480	
@@ -663,9 +663,9 @@ Stay Natural  !	480
 @igersmanila	479	
 @joymamagunlove	479	
 hahaha  !	479	
-/	478	
 Malaga	478	
 a  .	477	
+/	476	
 @miiiiiwap	476	
 Kat	476	
 @masahiko  .	475	
@@ -711,11 +711,11 @@ Tulips  .	458
 01  .	457	
 o  .	457	
 Tuesday  !	456	
-Tack  !	455	
 Bananas  !	454	
 Galata	454	
 @belginatilkan	453	
 @usaginoniwa	453	
+Tack  !	453	
 r 7	453	
 u	452	
 1106	451	
@@ -724,9 +724,9 @@ u	452
 09	447	
 Günayd n  .	446	
 @karina  .	445	
-@tofupansa	444	
 gyan @xawalu  .	444	
 tan	444	
+@tofupansa	443	
 bangkok	443	
 Lady Gaga	442	
 @ufukaltunkas	441	
@@ -743,9 +743,9 @@ pink  .	436
 22	435	
 @ryan  .	435	
 @sadafffbanoo	434	
-Big  .	434	
 @laninina	433	
 @masaminanjo	433	
+Big  .	433	
 Lazy sunday  .	433	
 Mito  !	433	
 Oulala	433	
@@ -754,13 +754,13 @@ slay  !	433
 Papaya	432	
 @milanobnw	431	
 Basquiat	431	
-Hahahahaha	431	
 @masahiro  .	430	
+Hahahahaha	430	
 555	429	
+@ms  .	429	
 Aw man	429	
 Sleepy Sunday	429	
 @kabutoganijon	428	
-@ms  .	428	
 Mala	428	
 hay rl cumalar	428	
 Away	427	
@@ -771,10 +771,9 @@ katsu  .	426
 @okeihan7  .	425	
 Aw yay  !	425	
 ID kyeongin 20 &	425	
-Bagusss	424	
 gilsongallphotos	424	
 pino	424	
-ihana	423	
+Bagusss	423	
 taga	423	
 @qmorinaga	422	
 Flag	422	
@@ -786,31 +785,32 @@ In my natural habitat	421
 SUNday	421	
 Singing	421	
 05  .	420	
+08  .	420	
 @masa  .	420	
-Omg  !	420	
 SWAG  !	420	
-d	420	
 @kay  .	419	
 @lunalucchino	419	
 @tetsuyanagaoka	419	
+Omg  !	419	
 San Marino	419	
-08  .	418	
+d	419	
 04  .	417	
 @kawa00513	417	
+ihana	417	
 @kat  .	416	
 @kumin0213	416	
 @nabana522	416	
 Mamãe	416	
-lu	415	
 @kulumiko	414	
 Baby girl  !	414	
 lazy sunday	414	
 @tamigon	413	
 Kali	413	
 Papito	413	
+lu	413	
 02  .	412	
-12	412	
 @Babymiumiuuu	412	
+12	411	
 2015	411	
 @pinarmaro	411	
 Yes  !	411	
@@ -818,8 +818,8 @@ Yes  !	411
 Pigeon	410	
 @tahakabulantok	409	
 Oh hay	409	
-Salamat  !	409	
 jpssantiago	409	
+Salamat  !	408	
 Te pasas	408	
 gatinha	408	
 @juaninlb	407	
@@ -834,7 +834,6 @@ GAP	405
 Magia  .	405	
 @kaewsuriya	404	
 Lilac	404	
-Malm	404	
 @anpan1818	403	
 @chigasakimino	403	
 Lindisimo  !	403	
@@ -855,7 +854,6 @@ photography	398
 @malak  .	397	
 @sudawan01	397	
 @ungkarnayok	397	
-gd	397	
 Pagi say	396	
 Sail away  .	396	
 @joshykahala	395	
@@ -879,15 +877,16 @@ Natural  !	390
 X	390	
 agtas	390	
 mag	390	
+@TagsForLikes	389	
 @axtukidayo	389	
 @maha  .	389	
 @npbanana	389	
 Guapisimas  !	389	
-@TagsForLikes	388	
+gd	389	
 @mahabjo	388	
+Buongiorno  .	388	
 MAGIC  !	388	
 @ruyamsimsat	387	
-Buongiorno  .	387	
 playa	387	
 talk	387	
 @yokohamag	386	
@@ -895,9 +894,9 @@ Hay rl Cuma'lar	385
 @9gag	384	
 @kotetsumammy	384	
 @masayo  .	384	
+@panisna	384	
 @puppotato	384	
 @yumisan2525	384	
-@panisna	383	
 @pthanitapom	383	
 Aww man	383	
 man  !	383	
@@ -927,10 +926,10 @@ nak	378
 salon	378	
 @juliya  .	377	
 @navagalon	377	
-@yonagocci	377	
 Kaka	377	
 Patagonia	377	
 @kamila  .	376	
+@yonagocci	376	
 Cool pics man	376	
 hinata 1100	376	
 @haya7	375	
@@ -939,11 +938,11 @@ hinata 1100	376
 @yumikoooooooon	375	
 Amigas  !	375	
 ru	375	
+00	374	
 @charlie0928  .	374	
 @patummaw	374	
 Ay ay ay	374	
 Sunday walk  .	374	
-00	373	
 @browsingitaly	373	
 @lunoxmoon	373	
 @sayulin704	373	
@@ -951,7 +950,6 @@ Sunday walk  .	374
 Nancy	373	
 San Juan	373	
 @tumamikako	372	
-Kiitos  !	372	
 @sumikaino	371	
 Hay  !	371	
 @c  .	370	
@@ -967,6 +965,7 @@ Lila	368
 @kazmiyata	367	
 @mspuhalo	367	
 @taanamama	367	
+Kiitos  !	367	
 Natal  !	367	
 @mamiphon	366	
 @tanaka  .	366	
@@ -987,14 +986,15 @@ Tunaydin	364
 YAY OR NAY  ?	364	
 @sagantokoya	363	
 Hehehe	363	
-Ihanat  !	363	
 Tag BFFs	363	
 Magico  !	362	
+Malmö	362	
 Parabéns  !	362	
 kay	362	
 @d  .	361	
 @humansofjoy	361	
-Nice  !	361	
 Bay l r m	360	
+Ihanat  !	360	
+Nice  !	360	
 Lago	359	
 MAD	359	

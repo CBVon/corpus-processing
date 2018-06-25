@@ -29,6 +29,8 @@ elif sys.argv[2] == "twitter":
     datatype = "twt"
 elif sys.argv[2] == "vk":
     datatype = "vk"
+elif sys.argv[2] == "ugc":
+    datatype = "ugc"
 
 nfilter_str = "pega esto en|pega en|Ver más|pide un deseo|ya estoy muerto y no tenia amigos|di tu nombre|si no pones esto en|si no pegas esto en" #fb-es-no_ugc
 nfilter_str = "HASTA LA PRÓXIMA MENCIÓN|Gracias por compartir tus fotos|Fotos antiguas|Old pics|FOTO DEL DÍA|PHOTO OF THE DAY|Whatsapp|whatsapp|WHATSAPP|Más detalles en|www.|Sigue a @" \
@@ -209,6 +211,11 @@ normalizer = preprocessing.Normalizer().fit(train_x)
 train_x = normalizer.transform(train_x)
 #RF
 rf = RandomForestClassifier(n_estimators=100, oob_score=True, random_state=0)
+#20180516: ru,ugc_classify正例过多，即筛选掉的过少。
+#原因大概率是，ru编辑第一次标注 正例只由200~300条（过少），第二次标注 对正例扩充过多，导致正负失衡。
+#解决方案：进一步标注（编辑 人工）or 减少训练集中 弱正例，使得正负样例相当；模型采用“权重均衡”(正能让，更关注负例的预测准确度，不能从 量上解决 output偏移问题)
+if lang == "ru":
+    rf = RandomForestClassifier(n_estimators=100, oob_score=True, random_state=0, class_weight="balanced")
 rf.fit(train_x, train_y)
 
 for line in sys.stdin:
@@ -216,22 +223,20 @@ for line in sys.stdin:
         line_list = line.strip().split('\t')
         if len(line_list) != 2:
             continue
-
+        
         sent = line_list[0].strip()
         sent = re.sub(reg, "", sent).strip()
         
         if sent == "" or len(sent.split(' ')) <= 0:
             continue
-        
         line_feat = get_feat(line)
         line_feat = np.array(line_feat)
         line_feat = line_feat.reshape(1, -1)
         line_x = standard_scaler.transform(line_feat)
         line_x = min_max_scaler.transform(line_x)
         line_x = normalizer.transform(line_x)
-
+        
         line_y = rf.predict(line_x)
-
         if int(line_y[0]) == 1:
             print line.strip()
     except Exception, e:

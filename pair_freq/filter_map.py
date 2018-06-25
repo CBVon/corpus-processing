@@ -1,7 +1,7 @@
 #coding: utf-8
 #process : id, pt
 #python filer_map.py pairtxt_file pairtxt_line C_pair_a C_pair_b  
-
+#注：这个map可以解决：词对词中包含多个词的情况。比如：very good
 
 import sys
 

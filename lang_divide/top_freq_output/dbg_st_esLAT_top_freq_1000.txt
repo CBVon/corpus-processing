@@ -1,1000 +1,1000 @@
-&  .	5797373	
-.	5500142	
-Bueno	294740	
-Si amor	153102	
-Esta bien	106333	
-Que haces	101113	
-Bien	93322	
-A bueno	79425	
-Pues si	74465	
-Que	70581	
-Que bueno	65834	
-Bueno amor	63954	
-Que  ?	59170	
-Mi amor	57321	
-Que haces  ?	55809	
-Y eso	55626	
-Ah bueno	51475	
-Que bien	51159	
-Buenos días	46013	
-Q haces	45212	
-Buen dia	43173	
-Buenos dias	42342	
-Yo mas	42054	
-Hola amor	41943	
-Por que	41879	
-Y si	40390	
-Buenas noches	40190	
-Por  ?	40105	
-Donde estas	39402	
-Bien y tu	39196	
-Bueno dale	36713	
-Si  .	35180	
-Te quiero	34679	
-Pero	34442	
-Porque  ?	34368	
-Por eso	33950	
-Mi vida	33947	
-Lo se	33231	
-Porque	33151	
-Bueno  .	32798	
-Ya llegue	32333	
-Muy bien	32303	
-Si mi amor	31496	
-Pues	31450	
-Y que haces	31242	
-Perdón	30881	
-v	30323	
-Muchas gracias	30145	
-Yo también	30097	
-Jaja	30084	
-Eso	30050	
-No creo	29501	
-Por que  ?	28810	
-Pero bueno	28473	
-Todo bien	28070	
-Te extraño	26107	
-Por	25036	
-No  .	24985	
-Si esta bien	23854	
-No puedo	23757	
-Eso si	23706	
-Jajaja	23662	
-Hay amor	23207	
-Gracias amor	22138	
-Yo no	21969	
-Y eso  ?	21888	
-Voy	21694	
-Bien bien	21292	
-Buen día	21225	
-Te amo mucho	20247	
-Buenas tardes	19957	
-No lo se	19673	
-En mi casa	19581	
-Te pasas	19542	
-Q bueno	19296	
-Espera	18791	
-Claro que si	18044	
-Perdon	18044	
-Mejor	18018	
-Ay amor	17423	
-Hoy	17222	
-Y bueno	17202	
-Lo siento	17079	
-Todo bien  ?	16652	
-Cuando	16270	
-Yo tambien	16153	
-Y que haces  ?	15700	
-Esta bien amor	15353	
-Donde estas  ?	15210	
-Hola mi amor	15194	
-Cual  ?	15189	
-Me encantas	15166	
-Que pasa	15146	
-Cual	15098	
-Bien y tu  ?	15074	
-Si lo se	14996	
-Siempre	14922	
-1  .	14803	
-Vamos	14552	
-Que hace	14457	
-No entiendo	14229	
-Verdad	14118	
-Q bien	14116	
-Hola  .	14065	
-Todo	13983	
-Si mi vida	13906	
-Te amo mi amor	13882	
-Bien gracias	13740	
-Con cuidado	13604	
-Te quiero mucho	13548	
-Bueno mi amor	13516	
-Por q	13450	
-bueno	13195	
-Yo si	12987	
-3	12961	
-La verdad	12956	
-En la casa	12902	
+&  .	5351679	
+.	5202247	
+Bueno	293496	
+Si amor	152725	
+Esta bien	106115	
+Que haces	100587	
+Pues si	74330	
+Que	70376	
+Que bueno	65869	
+Bueno amor	63660	
+Que  ?	57705	
+Mi amor	57154	
+Que haces  ?	55589	
+Y eso	55415	
+Buenos días	45829	
+Q haces	45137	
+Buenos dias	42133	
+Por que	41828	
+Y si	40325	
+Buenas noches	40002	
+Por  ?	39936	
+Te quiero	34696	
+Pero	34311	
+Por eso	33910	
+Mi vida	33797	
+Lo se	33284	
+Porque	33146	
+Porque  ?	33100	
+Muy bien	32212	
+Ya llegue	32167	
+Si mi amor	31591	
+Pues	31435	
+Si  .	31385	
+Y que haces	31153	
+Bueno  .	30786	
+Perdón	30785	
+Muchas gracias	30032	
+No creo	29402	
+Pero bueno	28394	
+v	28361	
+Por que  ?	28167	
+Todo bien	28028	
+Te extraño	26093	
+Por	25039	
+Si esta bien	23898	
+No puedo	23703	
+Eso si	23647	
+No  .	23069	
+Gracias amor	22008	
+Y eso  ?	21539	
+Buen día	21328	
+Buenas tardes	19925	
+No lo se	19647	
+Q bueno	19223	
+Espera	18725	
+Perdon	18033	
+Claro que si	17964	
+Mejor	17864	
+Jaja	17657	
+Hoy	17202	
+Y bueno	17168	
+Lo siento	17019	
+Todo bien  ?	16459	
+Cuando	16227	
+Yo tambien	16050	
+Y que haces  ?	15736	
+Esta bien amor	15304	
+Hola mi amor	15164	
+Me encantas	15163	
+Que pasa	15120	
+Cual	15058	
+Cual  ?	15017	
+Si lo se	14939	
+Siempre	14838	
+1  .	14688	
+Que hace	14325	
+No entiendo	14225	
+Verdad	14053	
+Todo	13971	
+Si mi vida	13831	
+Jajaja	13718	
+Bien gracias	13659	
+Hola  .	13592	
+Con cuidado	13552	
+Bueno mi amor	13503	
+Te quiero mucho	13499	
+Por q	13397	
+La verdad	12939	
+En la casa	12806	
 Puede ser	12764	
-Creo que si	12762	
-Me  .	12540	
-Que tal	12489	
-En casa	12352	
-Ok  .	12264	
-Como quieras	12234	
-Y vos	12116	
-Trabajando	12038	
-Adios	12034	
-No tengo	12011	
-Pues no se	12008	
-Que no	11961	
-Si gracias	11951	
-Bue	11785	
-Hola  !	11748	
-Claro que no	11725	
-Bueno esta bien	11724	
-No es cierto	11522	
-Pues  .	11334	
-Pero  .	11318	
-Bien amor	11280	
-Si o no	11203	
-Cuando  ?	11076	
-Ahh bueno	11044	
-Quien  ?	10740	
-Estoy	10673	
-Bueno bb	10633	
-Q haces  ?	10592	
-Me encanta	10576	
-Que si	10511	
-Sii amor	10454	
-Es verdad	10416	
-Quien	10320	
-Te espero	10310	
-Jajaja bueno	10279	
-Y vos  ?	10062	
-Nos vemos	10049	
-Bien  .	10037	
-Me alegra	10021	
-jaja	9972	
-Bien gracias a Dios	9908	
-Yo tampoco	9701	
-u	9674	
-Que sad	9672	
-Simón	9664	
-Si verdad	9581	
-Eso espero	9558	
-Si pues	9486	
-Q hace	9430	
-Jajaja  .	9372	
-Buenas	9340	
-Tengo hambre	9306	
-Buenoo	9285	
-Buenos días amor	9274	
-Ahí voy	8985	
-jajaja	8978	
-Jaja bueno	8868	
-Que bueno amor	8829	
-Porq	8708	
-No entendi	8670	
-Otra vez	8654	
-Como te fue	8638	
-Hola buenos días	8594	
-Que cosa	8573	
-X eso	8529	
-Y  .	8482	
-Juan	8410	
-Pues no	8408	
-Mmm  .	8406	
-No quiero	8362	
-Donde esta	8307	
-Hola buenos dias	8294	
-Y yo	8269	
-Gracias mi amor	8224	
-K haces	8220	
-Te amo mi vida	8184	
-Yo también te amo	8163	
-Gracias	8158	
-Jajajaja	8135	
-si amor	8081	
-A bueno amor	8066	
-Que haces amor	8047	
-Y tu que haces	7812	
-Bien y vos	7806	
-esta bien	7801	
-El  .	7796	
-Que pasa  ?	7788	
-No me acuerdo	7674	
-Gracias  .	7643	
-Tengo sueño	7614	
-Pos si	7577	
-Si quieres	7562	
-Tranquilo	7537	
+Creo que si	12731	
+Que tal	12528	
+bueno	12431	
+En casa	12264	
+Como quieras	12258	
+Trabajando	12110	
+Y vos	12064	
+Adios	12022	
+Pues no se	12020	
+Que no	11920	
+Si gracias	11914	
+3	11816	
+Bue	11810	
+Claro que no	11677	
+Bueno esta bien	11667	
+Me  .	11635	
+No es cierto	11496	
+Hola  !	11317	
+Bien amor	11262	
+Ok  .	11168	
+Pues  .	11159	
+Cuando  ?	11017	
+Ahh bueno	11012	
+Pero  .	10929	
+Quien  ?	10764	
+Bueno bb	10641	
+Estoy	10636	
+Me encanta	10580	
+Que si	10513	
+Q haces  ?	10478	
+Es verdad	10391	
+Te espero	10275	
+Quien	10211	
+Nos vemos	10045	
+Y vos  ?	9930	
+Bien gracias a Dios	9814	
+Tranquila	9763	
+Simón	9659	
+Si verdad	9597	
+Que sad	9555	
+Eso espero	9547	
+Si pues	9535	
+Q hace	9423	
+Buenas	9338	
+Buenoo	9304	
+Buenos días amor	9279	
+u	8896	
+Que bueno amor	8824	
+Amen	8811	
+Otra vez	8646	
+Hola buenos días	8599	
+Que cosa	8547	
+Pues no	8386	
+Juan	8354	
+No quiero	8335	
+Hola buenos dias	8282	
+K haces	8264	
+Gracias mi amor	8202	
+Yo también te amo	8148	
+Te amo mi vida	8134	
+si amor	8041	
+Y  .	8031	
+A bueno amor	8021	
+Que haces amor	7991	
+Mmm  .	7814	
+Y tu que haces	7772	
+Bien y vos	7770	
+esta bien	7721	
+Que pasa  ?	7686	
+No me acuerdo	7680	
+Pos si	7567	
+Si quieres	7560	
 Que raro	7522	
-Sera	7520	
-Pero no	7458	
-Bueno gracias	7445	
-Ya estoy	7445	
-Bueno bueno	7436	
-Que cosa  ?	7427	
-A que bien	7389	
-Quien sabe	7380	
-No te enojes	7344	
-Xd	7317	
-No te creo	7202	
-Dios	7091	
-Dale amor	7077	
-Quiero	7076	
-Y no	7047	
-Pues sii	6970	
-Bien y vos  ?	6879	
-XD	6837	
-Vale amor	6762	
-Ya que	6739	
-Eso es bueno	6734	
-Y entonces	6722	
-Aaa bueno	6696	
-Que hacen	6610	
-Una pregunta	6608	
-Ha bueno	6596	
-Ta bien	6581	
-Te lo juro	6554	
-Me siento mal	6537	
-No me gusta	6536	
-Hola mi vida	6529	
-Yo mas amor	6448	
-Gracias a Dios	6446	
-Si señora	6369	
-Si mor	6366	
-Jaja  .	6327	
-Hola buenas tardes	6325	
-Bueno ma	6324	
-Gracias amiga	6311	
-Quiero verte	6304	
-Que feo	6288	
-Porque no	6283	
-Mmm bueno	6279	
-Con quien	6270	
-Ok esta bien	6260	
-Yo te amo mas	6255	
-Entiendo	6228	
-que haces	6223	
-Suerte	6220	
-Bueno mi vida	6187	
-Cuídate mucho	6181	
-Es la verdad	6146	
-Cuanto	6099	
-Bueno pues	6071	
-Quien es	6069	
-Ya llegue amor	6063	
-Yo quiero	6041	
-Estoy afuera	6019	
-n	5988	
-Esta bien  .	5987	
-Hay voy	5984	
-Bueno si	5975	
-Ah bueno amor	5974	
-Y si  .	5948	
-Sii  .	5947	
-Y que ases	5933	
-Yo  .	5929	
-El sabado	5891	
-No digas eso	5891	
-Tambien	5848	
-Por que no	5795	
-Por qué  ?	5771	
-Si amor  .	5741	
-Que es eso	5715	
-c	5705	
-Me voy	5671	
-Que te dijo	5661	
-Amor  .	5634	
-No mi amor	5633	
-Que hdp	5627	
-Y tú  ?	5618	
-Yo te aviso	5611	
-Lose	5543	
-Yo creo	5541	
-Es que	5540	
-Estas bien  ?	5510	
-Tengo	5500	
-Ya llegamos	5491	
-No inventes	5481	
-Todavía no	5477	
-Los dos	5444	
-Cuando quieras	5427	
-Gracias  !	5424	
-No entendí	5423	
-La  .	5411	
-Pues bien	5351	
-Ya vamos	5338	
-Los amo	5310	
+Gracias	7517	
+Tranquilo	7493	
+Sera	7477	
+Ya estoy	7453	
+Bueno gracias	7429	
+El  .	7414	
+Pero no	7398	
+Bueno bueno	7396	
+Quien sabe	7338	
+Que cosa  ?	7330	
+No te enojes	7308	
+No te creo	7165	
+Y no	7072	
+Dios	7048	
+Quiero	7030	
+Gracias  .	7022	
+Saludos	6998	
+Pues sii	6964	
+Xd	6903	
+Bien y vos  ?	6816	
+Eso es bueno	6750	
+Y entonces	6728	
+Ya que	6715	
+Aaa bueno	6704	
+Una pregunta	6602	
+Ta bien	6591	
+Bien  .	6588	
+Que hacen	6565	
+Ha bueno	6560	
+Te lo juro	6556	
+No me gusta	6527	
+Me siento mal	6521	
+Hola mi vida	6490	
+Gracias amiga	6314	
+Bueno ma	6309	
+Quiero verte	6300	
+Hola buenas tardes	6299	
+Porque no	6260	
+XD	6260	
+Ok esta bien	6259	
+Mmm bueno	6231	
+Con quien	6228	
+jaja	6215	
+que haces	6193	
+Bueno mi vida	6174	
+Suerte	6172	
+Entiendo	6157	
+Cuanto	6113	
+Bueno pues	6103	
+Es la verdad	6090	
+Ya llegue amor	6077	
+Quien es	6055	
+Jajaja  .	6045	
+Estoy afuera	6044	
+Yo quiero	5988	
+Ah bueno amor	5973	
+Bueno si	5963	
+El sabado	5957	
+Y que ases	5945	
+No digas eso	5884	
+Esta bien  .	5876	
+Tambien	5805	
+Por que no	5804	
+Que es eso	5722	
+Y si  .	5705	
+jajaja	5672	
+Me voy	5651	
+Que te dijo	5648	
+Por qué  ?	5629	
+No mi amor	5624	
+Que hdp	5623	
+Lose	5610	
+Y tú  ?	5578	
+Es que	5546	
+Ya vienes	5531	
+Yo creo	5528	
+Estas bien  ?	5474	
+Todavía no	5447	
+No entendí	5445	
+Ya llegamos	5445	
+Los dos	5432	
+Sii  .	5426	
+Cuando quieras	5401	
+Pues bien	5375	
+n	5315	
+Los amo	5308	
 Yo también amor	5271	
-Siii  .	5268	
-Jajaj	5263	
-Siii amor	5243	
-Que tienes	5236	
-Te juro	5236	
-Hola buen día	5235	
-K bien	5207	
-Y mucho	5201	
-Ay dios	5197	
-Y q haces	5189	
-Ya estoy en casa	5188	
-xd	5135	
-Dios mio	5110	
-Menos mal	5101	
-Te extraño mucho	5100	
-Me da gusto	5068	
-Hola buenas noches	5044	
-Yo te amo	5034	
-Quien es  ?	5030	
-Espero	5026	
-Que  .	5023	
-Hay si	5008	
-Buenos días mi amor	5002	
-Yo creo que si	4958	
-Pobre	4950	
-El lunes	4942	
-Creo que no	4865	
-Mm  .	4864	
-30	4854	
-A que bueno	4810	
-No es eso	4792	
-K bueno	4788	
-En la tarde	4775	
-Como te fue  ?	4774	
-Bien gracias y tu	4758	
-Hay mi amor	4744	
-Aa bueno	4738	
-Que tiene	4709	
-Para mi	4673	
-Bendiciones	4669	
+Te juro	5262	
+Hola buen día	5223	
+Si amor  .	5209	
+Y mucho	5208	
+Que tienes	5189	
+c	5163	
+Y q haces	5155	
+Ya estoy en casa	5153	
+Dios mio	5116	
+La  .	5073	
+Menos mal	5072	
+Me da gusto	5053	
+Te extraño mucho	5049	
+Hola buenas noches	5011	
+Yo te amo	5011	
+Quien es  ?	5009	
+Espero	5007	
+Pobre	4981	
+Buenos días mi amor	4960	
+El lunes	4951	
+Ya se fue	4943	
+Yo creo que si	4943	
+Jajajaja	4859	
+Amor  .	4856	
+Creo que no	4852	
+Gracias  !	4848	
+Hola hermosa	4827	
+A que bueno	4823	
+Siii  .	4812	
+K bueno	4790	
+Bien gracias y tu	4777	
+No es eso	4771	
+En la tarde	4755	
+xd	4732	
+Que  .	4706	
+Que tiene	4705	
+Aa bueno	4701	
+Bendiciones	4676	
 El viernes	4665	
-Que pena	4663	
-Sale pues	4638	
-2  .	4620	
-Bien gracias a dios	4619	
-Buen	4610	
-Bueno amor  .	4594	
-Todos	4592	
-Llegue	4555	
-que	4554	
-Donde estan	4552	
-Qué  ?	4524	
-Esperame	4497	
-Ja	4452	
-No se  .	4451	
-Cuanto  ?	4446	
-Viendo tv	4441	
-Ahhh bueno	4434	
-Buen día amor	4425	
-No yo mas	4423	
-No esta	4422	
-Ay mi amor	4418	
-Yo se	4409	
-Te amo	4401	
-Si voy	4381	
-Estoy bien	4379	
-Buenos	4353	
-Ah  .	4349	
-Gracias a dios	4346	
-Gracias mi vida	4346	
-Buenooo	4332	
-Feliz año nuevo	4330	
-Muy bien y tu	4318	
-Si es verdad	4318	
-Una	4313	
-Y que	4284	
-Esta bueno	4280	
-Esto	4277	
-Que bien amor	4257	
-Que te pasa	4249	
-Carlos	4245	
-Muchas gracias  !	4244	
-Ah que bien	4227	
-Pues nada	4216	
-Y que te dijo	4210	
-Y tu como estas	4206	
-Eso que	4193	
-Si te creo	4190	
-Porque si	4188	
-pues si	4172	
-Pues nose	4162	
-Bueno  !	4159	
-Si eso si	4147	
-Pero si	4120	
-Quien eres	4112	
-Perdón amor	4109	
-Me muero	4102	
-Como sigues	4088	
-Que es	4082	
-Bueno jaja	4079	
-Y que mas	4061	
-Gracias amigo	4026	
-Dale  .	4019	
-A quien	4002	
-Estas bien	3993	
-Y que me cuentas	3993	
-Estas en tu casa	3989	
-La verdad si	3973	
-Mierda	3968	
-Y bue	3961	
-Que crees	3937	
-Como estas  ?	3923	
-Buenísimo	3908	
-Te hablo	3881	
-No te entiendo	3871	
-Meno	3865	
-Si lose	3862	
-Que haces amor  ?	3860	
-Hola que tal	3838	
-Me encanto	3837	
-Que bueno  .	3828	
-Te entiendo	3827	
-Yo voy	3826	
-Sólo eso	3817	
-Loco	3816	
-Que bueno  !	3805	
-gracias	3804	
-Pues si  .	3799	
-Me gustas	3791	
-mi amor	3786	
-Y como estas	3777	
-Fue	3772	
-Ah bueno  .	3770	
-Amor	3769	
-Pendejo	3766	
-7u7	3756	
-No se puede	3749	
-Ponele	3746	
-Yo bien	3730	
-Abueno	3717	
-Pues si amor	3715	
-q	3703	
-000	3702	
-Que es eso  ?	3699	
-No sabes	3696	
-Aaaa bueno	3687	
-Queee	3662	
-Re bien	3644	
-Aah bueno	3641	
-En el trabajo	3640	
-Nos vemos mañana	3638	
-Que hacen  ?	3638	
-Mañana hablamos	3628	
-Si mejor	3626	
-Con quien  ?	3624	
-Q haces amor	3602	
-Comiendo	3584	
-Y ustedes	3575	
-También te amo	3558	
-Buen dia  !	3538	
-3  .	3536	
-Viendo tele	3531	
-Bueno eso si	3530	
-Lo amo	3518	
-y eso	3506	
-Oye  .	3497	
-La amo	3487	
-Bueno gorda	3481	
-Pero no se	3481	
-Si  ?	3477	
-bien	3472	
-Buen diaaa	3470	
-Estas en tu casa  ?	3461	
-Pero bien	3459	
-Que bn	3443	
-A que si	3433	
-Dulces sueños	3432	
-que bueno	3423	
-Ok mi amor	3416	
-Pero bueno  .	3404	
-Sobres	3400	
-Q hacen	3384	
-Bueno mami	3380	
-Ya estoy en mi casa	3377	
-Buen diaa	3376	
-Las dos	3376	
-Muy bien gracias	3374	
-Que haciendo	3371	
-Yo no se	3370	
-No yo	3369	
-a bueno	3368	
-En verdad	3356	
-Cosas	3350	
-e	3345	
-Buenos días  !	3330	
-No todavía no	3330	
-Mm bueno	3329	
-0	3313	
-Estoy trabajando	3302	
-que haces  ?	3300	
-Hay dios	3292	
-Gracias tia	3290	
-Si puedes	3285	
-Mmmm  .	3281	
-Si quiero	3278	
+Para mi	4633	
+Buen	4622	
+Sale pues	4616	
+2  .	4599	
+Bien gracias a dios	4589	
+Llegue	4583	
+Todos	4580	
+Donde estan	4515	
+Mm  .	4499	
+que	4486	
+Bueno amor  .	4469	
+Qué  ?	4460	
+Esperame	4457	
+Buen día amor	4454	
+Cuanto  ?	4419	
+No esta	4412	
+Ahhh bueno	4406	
+Viendo tv	4385	
+Estoy bien	4349	
+30	4343	
+Buenos	4329	
+Feliz año nuevo	4327	
+Gracias mi vida	4320	
+Buenooo	4319	
+Si es verdad	4313	
+Una	4299	
+Yo  .	4292	
+Que bien amor	4272	
+Y que	4271	
+Esta bueno	4262	
+Esto	4248	
+Que te pasa	4237	
+Carlos	4227	
+Pues nada	4224	
+Y que te dijo	4211	
+Y tu como estas	4177	
+Eso que	4166	
+Porque si	4161	
+Muchas gracias  !	4157	
+pues si	4153	
+Pues nose	4151	
+Si eso si	4135	
+Quien eres	4123	
+Me muero	4109	
+No se  .	4109	
+Jaja  .	4086	
+Perdón amor	4082	
+Como sigues	4061	
+Que es	4054	
+Y que mas	4041	
+Gracias amigo	4027	
+A quien	4001	
+Y que me cuentas	3989	
+La verdad si	3982	
+Estas bien	3980	
+Bueno  !	3973	
+Estas en tu casa	3961	
+Y bue	3951	
+Mierda	3938	
+Buenísimo	3922	
+Que crees	3913	
+Te hablo	3887	
+Loca	3876	
+Que bueno  .	3872	
+Si lose	3866	
+No te entiendo	3859	
+Me encanto	3827	
+Que haces amor  ?	3826	
+Loco	3821	
+Me gustas	3816	
+Hola que tal	3815	
+Sólo eso	3813	
+Te amo	3808	
+Te entiendo	3781	
+Ponele	3779	
+Que bueno  !	3778	
+Dale  .	3761	
+Fue	3761	
+Y como estas	3759	
+No se puede	3740	
+Pues si  .	3740	
+Abueno	3723	
+Pues si amor	3713	
+mi amor	3689	
+Jajaj	3663	
+Aaaa bueno	3659	
+Queee	3632	
+Si mejor	3631	
+En el trabajo	3626	
+Mañana hablamos	3612	
+Que hacen  ?	3612	
+Nos vemos mañana	3605	
+Con quien  ?	3602	
+Q haces amor	3599	
+Comiendo	3570	
+Y ustedes	3561	
+También te amo	3550	
+7u7	3538	
+Que es eso  ?	3527	
+Viendo tele	3527	
+Bueno eso si	3525	
+000	3521	
+Como estas  ?	3519	
+3  .	3515	
+y eso	3493	
+Ah  .	3486	
+Pero no se	3477	
+Lo amo	3472	
+Pero bien	3465	
+Que bn	3453	
+A que si	3434	
+que bueno	3434	
+En verdad	3430	
+Estas en tu casa  ?	3429	
+Dulces sueños	3415	
+gracias	3393	
+Las dos	3382	
+Bueno mami	3377	
+Sobres	3377	
+Q hacen	3370	
+Muy bien gracias	3366	
+Ja	3359	
+Oye  .	3358	
+Pero bueno  .	3357	
+Ya estoy en mi casa	3353	
+Que haciendo	3352	
+Cosas	3323	
+No todavía no	3318	
+que haces  ?	3301	
+Si quiero	3299	
+Buenos días  !	3297	
+Por que si	3288	
+Mm bueno	3286	
+Estoy trabajando	3282	
+Si puedes	3279	
 No lo creo	3276	
-Bien vos	3271	
-buenos dias	3269	
-En donde estas	3266	
+En donde estas	3274	
 Con el	3265	
-Por que si	3263	
-Que haces bb	3259	
-A  .	3258	
-Me perdonas  ?	3257	
-xD	3251	
-Todavía	3247	
-Bueno mor	3239	
-Pues siii	3230	
-Yo menos	3230	
-Tal cual	3225	
-Que hace  ?	3207	
-No mucho	3206	
-Responde	3206	
-Porq  ?	3205	
-Pregunto	3203	
-que bien	3200	
-Que hay	3196	
-Hoy  ?	3193	
-Lo  .	3193	
-Eso es todo	3186	
-No tanto	3182	
-Contestame	3162	
-Gracias a ti	3161	
-Cami	3151	
-Gracias por todo	3144	
-Y que hace	3144	
-Me quede dormida	3137	
-Enserio  ?	3133	
-Que tienes  ?	3132	
-Qué haces  ?	3131	
-Los	3122	
-Es lo mismo	3111	
-Gracias mami	3108	
-Si creo	3107	
-buen dia	3106	
-Jajajaja  .	3099	
-jajajaja	3098	
-Ah que bueno	3095	
-Lo que quieras	3095	
-Te gusta	3093	
-Habla	3088	
-Y lo sabes	3083	
-Que se yo	3073	
-Soy yo	3070	
-Qué	3068	
-Que hacias  ?	3066	
-Bueno pa	3058	
-Otra	3057	
-Hoy no	3055	
-Muy bien y tu  ?	3055	
-Ya quiero verte	3053	
-te amo  .	3051	
-Que hago	3049	
-Te cuidas	3049	
-Si mucho	3048	
-m	3048	
-Cuales	3045	
-Men	3043	
-Ya estoy en la casa	3040	
-Y tu amor	3039	
-Sera  ?	3035	
-Me equivoque	3030	
-Cómo estás  ?	3029	
-Un poquito	3020	
-te quiero	3018	
-Hace frio	3008	
-q haces	3007	
-Te llamo	3004	
-No que	2995	
-m  .	2995	
-No pues si	2991	
-Bien  !	2990	
-Porque no  ?	2986	
-Te amo mucho mi amor	2985	
-Estoy yendo	2981	
-Jeje	2970	
-si  .	2965	
-Lo que sea	2964	
-Que  !	2964	
-No pues	2960	
-Te amo mucho mas	2958	
-Si Amor	2955	
-Y todo	2945	
-Que dices	2936	
-Y tu que haces  ?	2933	
-Bueno no	2928	
-Tengo frio	2922	
-y si	2919	
-bueno amor	2916	
-Estaba	2912	
-Pero bue	2898	
-Menos	2890	
-Si vida	2886	
-Yo mas mi amor	2886	
-bueno  .	2882	
-Si así es	2866	
-A quien  ?	2864	
-Todo bn	2856	
-Bien vos  ?	2850	
-Haces	2850	
-Las amo	2850	
-Que we	2850	
-Pero igual	2849	
-pero	2846	
-Porque amor	2844	
-Con gusto	2843	
-Buen dia  .	2839	
-Si o no  ?	2839	
-Mi reina	2834	
-El jueves	2833	
-Jajajajaja	2824	
-Bien bien y tu	2823	
-Me parece bien	2823	
-Sii mi amor	2823	
-Estoy en mi casa	2817	
-No me contesta	2808	
-Entonces no	2806	
-Si  !	2805	
-No me importa	2800	
-4  .	2799	
-Otro	2792	
-Claro  .	2790	
-Estoy aburrida	2790	
-Claro amor	2786	
-El martes	2785	
-Y que cuentas	2781	
-Si se puede	2778	
-Soy	2774	
-No se que hacer	2769	
-En la escuela	2766	
-Que te dijo  ?	2766	
-Yo le digo	2760	
-Acostada y tu	2757	
-Que bueno mi amor	2751	
-Pero esta bien	2749	
-Se me olvido	2743	
-Si tu lo dices	2743	
-Bueno vida	2739	
-Buena	2738	
-Bueno ps	2736	
-Te amo  .	2736	
-Recién me despierto	2717	
-Eso esta bien	2714	
-Que tal  ?	2711	
-Quee	2710	
-Puedo	2701	
-Si todo bien	2699	
-Muy bien amor	2697	
-yo mas	2696	
-Cuales  ?	2690	
-Hay esta	2690	
-Besos	2684	
-Buenos días  .	2684	
-Si hay	2680	
-M  .	2676	
-Si queres	2661	
-Hola bien y tu	2659	
-Estas loco	2656	
-Que es  ?	2642	
-Bien gracias y tu  ?	2639	
-Que quieres	2637	
-Buen día  !	2636	
-Le  .	2635	
-V	2627	
-Por eso te digo	2622	
-Recién llego	2620	
-Por k	2619	
-Por  .	2618	
-Con quien hablas	2616	
-Tu que haces	2616	
-Jajajaj	2614	
-Bien bb	2612	
-5  .	2608	
-No hay de que	2604	
-no  .	2599	
-M	2598	
-Si tengo	2598	
-Yo que	2598	
-pero bueno	2596	
-Perdóname	2594	
-Por que no  ?	2590	
-Sabes que si	2588	
-De nuevo	2586	
-Buena noche	2583	
-que  ?	2582	
-Vea pues	2574	
-Que buenoo	2566	
-Yo igual amor	2560	
-Estoy comiendo	2556	
-Estoy en casa	2553	
-Vos que haces  ?	2551	
-No estoy en mi casa	2549	
-No recuerdo	2549	
-Si amor mio	2549	
-Y que tal	2548	
-Eso sii	2543	
-Si algo	2541	
+Todavía	3264	
+Me perdonas  ?	3260	
+Que haces bb	3255	
+buenos dias	3248	
+Tal cual	3243	
+Yo menos	3235	
+Bueno mor	3224	
+Eso es todo	3199	
+Responde	3198	
+Pues siii	3196	
+Pregunto	3195	
+Hoy  ?	3183	
+Cami	3182	
+Que hay	3173	
+No tanto	3169	
+Que hace  ?	3160	
+Y que hace	3133	
+Que tienes  ?	3123	
+Gracias mami	3122	
+Lo  .	3114	
+Es lo mismo	3110	
+Me quede dormida	3110	
+Lo que quieras	3106	
+Los	3099	
+Mmmm  .	3094	
+Qué haces  ?	3083	
+Y lo sabes	3082	
+Que hacias  ?	3076	
+0	3075	
+Habla	3069	
+Que se yo	3064	
+Qué	3063	
+Ya quiero verte	3061	
+Ah que bueno	3055	
+Bueno pa	3051	
+Cuales	3049	
+Ya estoy en la casa	3045	
+Que hago	3043	
+Y tu amor	3043	
+Hoy no	3041	
+Si  ?	3040	
+Men	3035	
+Te cuidas	3032	
+Me equivoque	3028	
+Otra	3018	
+Hace frio	3011	
+No que	3009	
+Sera  ?	3001	
+Cómo estás  ?	2997	
+Un poquito	2994	
+Preciosa	2988	
+te quiero	2987	
+No pues	2986	
+No pues si	2982	
+q haces	2982	
+te amo  .	2975	
+Estoy yendo	2969	
+xD	2968	
+Y todo	2956	
+Te amo mucho mi amor	2948	
+Y tu que haces  ?	2931	
+Si Amor	2922	
+Lo que sea	2917	
+Estaba	2911	
+Pero bue	2907	
+Bueno no	2904	
+Que  !	2904	
+bueno amor	2903	
+Que dices	2898	
+m  .	2894	
+y si	2891	
+Yo mas mi amor	2890	
+Porque no  ?	2880	
+Las amo	2859	
+e	2858	
+A  .	2853	
+A quien  ?	2846	
+Pero igual	2843	
+Todo bn	2841	
+Con gusto	2837	
+Que we	2834	
+Me parece bien	2829	
+Haces	2823	
+m	2818	
+Estoy en mi casa	2814	
+Menos	2802	
+Otro	2802	
+El jueves	2801	
+Entonces no	2798	
+Amor	2795	
+No me contesta	2792	
+Y que cuentas	2792	
+No me importa	2783	
+4  .	2781	
+Sii mi amor	2780	
+Si se puede	2767	
+Soy	2766	
+Que bueno mi amor	2757	
+Acostada y tu	2751	
+El martes	2751	
+Pero esta bien	2750	
+pero	2746	
+No se que hacer	2745	
+Se me olvido	2740	
+Bueno vida	2734	
+En la escuela	2732	
+Hablame	2731	
+Bueno ps	2730	
+Si tu lo dices	2725	
+Jeje	2721	
+Muy bien amor	2713	
+Quee	2709	
+Recién me despierto	2708	
+Que tal  ?	2707	
+Que te dijo  ?	2703	
+Hay esta	2699	
+Preguntale	2699	
+Eso esta bien	2697	
+En el centro	2689	
+Ya vienes  ?	2686	
+Si todo bien	2685	
+si  .	2683	
+Puedo	2676	
+Hola bien y tu	2666	
+Buenos días  .	2656	
+Cuales  ?	2656	
+Bien gracias y tu  ?	2648	
+Estas loco	2645	
+Recién llego	2642	
+Si queres	2641	
+Buen día  !	2634	
+Que quieres	2625	
+Tu que haces	2605	
+bueno  .	2605	
+Yo que	2603	
+Sabes que si	2599	
+Perdóname	2598	
+Claro  .	2596	
+Por eso te digo	2593	
+Con quien hablas	2592	
+Por k	2591	
+Vos que haces  ?	2588	
+pero bueno	2587	
+Que es  ?	2583	
+No hay de que	2580	
+De nuevo	2577	
+5  .	2571	
+Que buenoo	2568	
+Estoy en casa	2561	
+Estoy en eso	2561	
+Vea pues	2559	
+No recuerdo	2554	
+Yo siempre	2554	
+M  .	2552	
+Eso sii	2547	
+Por que no  ?	2545	
 lo se	2541	
-Yo siempre	2540	
-Y bueno  .	2537	
-Estoy en eso	2536	
-Si amoe	2532	
-Es eso	2527	
-Super bien	2525	
-Se fue	2520	
-Yo digo que si	2516	
-Bueno mejor	2513	
-Hablamos	2512	
-Mi todo	2510	
-por eso	2510	
-Y entonces  ?	2508	
-Jajajaja bueno	2507	
-Mmmm bueno	2500	
-Te gusta  ?	2498	
-Yo también te quiero	2498	
-Que hermoso	2496	
-Sabado	2494	
-Por mi	2490	
-Donde estan  ?	2489	
-Queeee	2486	
-Mejor no	2482	
-Bueno dalee	2478	
-Ay voy	2477	
-Afuera	2469	
-Quieres	2469	
-Y eso xq	2465	
-No fui	2464	
-Si que	2463	
-Va pues	2463	
-Q es eso	2461	
-Ok mi vida	2459	
-Y vs	2458	
-Si enserio	2456	
-Me alegro mucho	2455	
-No lo tengo	2453	
-jajaj	2452	
-Te quiero ver	2451	
-Bueno bye	2440	
-Que fue	2440	
-Pues ya que	2439	
-Jajaja gracias	2438	
-Si por eso	2438	
-Q  .	2433	
-A trabajar	2430	
-Supongo	2430	
-Hay mi vida	2429	
-Si es cierto	2427	
-Y gracias	2420	
-Bueno jajaja	2418	
-Buenas noches  .	2410	
-Si puedo	2410	
-Mi Amor	2408	
-Lo se amor	2407	
-Mañana nos vemos	2404	
-buenas noches	2403	
-Esta buena	2400	
-Y eso por que	2391	
-Eso es	2386	
-Gracias hermosa	2386	
-Que tiene  ?	2386	
-O  .	2380	
-Aaah bueno	2370	
-No puedo dormir	2366	
-Cual es	2362	
-Yo mucho mas	2361	
-Mi amor  .	2360	
+Bueno mejor	2535	
+No estoy en mi casa	2535	
+Hablamos	2534	
+Estoy comiendo	2531	
+Se fue	2525	
+Yo digo que si	2524	
+Enserio  ?	2518	
+Si  !	2518	
+Yo también te quiero	2518	
+Y que tal	2517	
+Mi todo	2506	
+Si amor mio	2501	
+Que hermoso	2493	
+Y entonces  ?	2492	
+Mmmm bueno	2488	
+Queeee	2487	
+Y vs	2487	
+Donde estan  ?	2486	
+Mejor no	2485	
+Y eso xq	2477	
+Y bueno  .	2475	
+Afuera	2474	
+Va pues	2472	
+Ok mi vida	2469	
+Si que	2469	
+por eso	2468	
+Sabado	2464	
+V	2463	
+que  ?	2459	
+Bueno dalee	2457	
+Quieres	2454	
+Te quiero ver	2446	
+No fui	2439	
+Si enserio	2437	
+Si es cierto	2436	
+Pues ya que	2432	
+Si por eso	2432	
+Que fue	2429	
+Me alegro mucho	2425	
+Si puedo	2417	
+Y gracias	2405	
+Le  .	2404	
+Lo se amor	2396	
+Mañana nos vemos	2396	
+no  .	2396	
+Estan	2395	
+Gracias hermosa	2393	
+Y eso por que	2387	
+Por  .	2385	
+Lo juro	2381	
+No puedo dormir	2381	
+Mi Amor	2379	
+Que tiene  ?	2371	
+M	2370	
+buenas noches	2366	
+Cual es	2364	
+Yo mucho mas	2359	
 Cuentame	2358	
-Buenos dias amor	2357	
-Yo lo se	2355	
-Ahh bien	2354	
-Duerme	2354	
-Bueno dale  .	2347	
-Vamos  ?	2345	
-No crees	2343	
-Tanto	2333	
-por que	2333	
-Que dice	2330	
-Muy bueno	2323	
-Si eso	2322	
-Aquí en la casa	2313	
-Que malo	2313	
-Quien eres  ?	2312	
-Muchas cosas	2308	
-Te amo muchísimo	2304	
-Y que paso	2303	
-Jugando	2302	
-No yo no	2301	
-No me	2300	
-donde estas	2299	
-No	2298	
-Que estas haciendo	2295	
-Bn gracias a Dios	2293	
-Con migo	2293	
-No hay pedo	2292	
-Muchas gracias  .	2287	
-Si pero	2279	
-te amo	2276	
-Que hermosa	2274	
-Si que si	2271	
-Me di cuenta	2270	
-Porqué  ?	2270	
-Buen día  .	2269	
-eso	2267	
-Feliz día	2264	
+No crees	2358	
+Besos	2353	
+Yo lo se	2338	
+Si eso	2336	
+Buenas noches  .	2335	
+Buenos dias amor	2334	
+Que dice	2333	
+Jugando	2324	
+Tanto	2320	
+Aquí en la casa	2315	
+Muy bueno	2313	
+Que malo	2311	
+No hay pedo	2308	
+por que	2304	
+Muchas cosas	2303	
+Y que paso	2302	
+Quien eres  ?	2299	
+Te amo muchísimo	2293	
+Que hermosa	2287	
+Que estas haciendo	2285	
+Con migo	2283	
+Te amo  .	2263	
+Y como te fue	2262	
+Mi amor  .	2261	
 Ya esta bien	2259	
-Y como te fue	2257	
-por  ?	2254	
-Como  .	2252	
-Y que haces amor	2247	
-Ya estoy aca	2246	
-Yo mas mi vida	2246	
-No tengo sueño	2244	
-Hacer	2241	
-Eso no	2238	
-Jaja gracias	2236	
-Y q ases	2236	
-Te amamos	2235	
-Estas trabajando	2233	
-Que te pasa  ?	2230	
-Durmiendo	2229	
-Te amo tanto	2229	
-U	2229	
-Buenos dias  !	2227	
-Mas bien	2227	
-Si esta bn	2226	
-En serio  ?	2224	
-Ta bueno	2223	
-Las	2219	
-Si mi cielo	2218	
-Trabajar	2218	
-Y tu que tal	2218	
-Eres la mejor	2217	
-Si amor esta bien	2217	
-A bueno  .	2216	
-Igual bien	2216	
-Tienes	2211	
-Para mi si	2210	
-Que bien  .	2209	
-Nose  .	2208	
-Te gusto	2198	
-Y el tuyo	2196	
-Ahh  .	2195	
-Viendo la tele	2193	
-Es cierto	2192	
-Si amor ntp	2190	
-Eso creo	2189	
-La verdad que si	2189	
-En eso estoy	2187	
-Que miedo	2187	
-Está bien	2186	
-Vos que haces	2183	
-Me estaba bañando	2182	
-Es mejor	2179	
-Esta bien  ?	2172	
-Mañana voy	2170	
-Que comiste	2168	
-y que haces	2168	
-Con quien estas	2167	
-Cuenta	2167	
-Te kiero	2166	
-Yo  ?	2166	
-Ya voy en camino	2164	
-Q haces bb	2163	
-Que bien  !	2163	
-Yo más	2163	
-Ya estas en tu casa	2162	
-no creo	2162	
-Bien y usted	2156	
-Si me di cuenta	2156	
-Hasta mañana amor	2154	
-Ya me quiero ir	2154	
-Miguel	2144	
-Hablamos mañana	2143	
-Estoy aca	2140	
-Entonces si	2139	
-Esooo	2138	
-Nada  .	2137	
-Esta lloviendo	2131	
-En su casa	2129	
-Que estas haciendo  ?	2128	
-Eso  .	2127	
-Hace	2125	
-Recién me levanto	2121	
-Y donde estas	2121	
-pero  .	2116	
-Buenas tardes  .	2113	
-Buenos días bb	2112	
-Ya quedo	2108	
-Que pereza	2106	
-Bien también	2095	
-Te puedo llamar	2094	
-Pues tu	2093	
-Es todo	2084	
-Ya te extraño	2080	
-Creo q si	2079	
-Que me cuentas	2079	
-mi vida	2076	
-Que cuentas	2075	
-Con eso	2067	
-te pasas	2067	
-Si yo se	2064	
-Que haces  !	2063	
-Que bueno me alegro	2060	
-Que hacias	2060	
-Noo  .	2058	
-Me interesa	2056	
-Perdón  .	2052	
-Ah bueno dale	2048	
-Te puedo marcar	2046	
-Que andas haciendo  ?	2045	
-Que hacemos	2041	
-Que comiste  ?	2039	
-Mejor asi	2038	
-A	2037	
-Puedes	2037	
-Otra ves	2034	
-Gueno	2033	
-Con mi mama	2028	
-Eso q	2028	
-6  .	2027	
-8	2027	
-Como le fue	2027	
-Otra cosa	2026	
-Voy llegando	2026	
-Nos	2025	
-bien y tu	2025	
-Donde es	2024	
-Puej	2020	
-Si si  .	2020	
-Ya veremos	2020	
-A muy bien	2017	
-Verdad  ?	2016	
-Y eso amor	2013	
-Ustedes	2012	
-Donde vienes	2010	
-Perdoname	2008	
-Todo bien  .	2005	
-Y no se	2005	
-ah bueno	2005	
+Muchas gracias  .	2256	
+Me di cuenta	2249	
+Yo mas mi vida	2249	
+Ya estoy aca	2247	
+No tengo sueño	2246	
+Si que si	2240	
+Eso no	2239	
+Te amo tanto	2235	
+Ah bueno  .	2232	
+Ta bueno	2230	
+Buen día  .	2227	
+Hacer	2227	
+Q  .	2227	
+Igual bien	2225	
+Y que haces amor	2225	
+Trabajar	2223	
+Estas trabajando	2222	
+Esta lloviendo	2221	
+Durmiendo	2220	
+Porqué  ?	2219	
+Mas bien	2217	
+Eres la mejor	2215	
+Si esta bn	2212	
+Y el tuyo	2208	
+En eso estoy	2203	
+Y tu que tal	2203	
+Estoy acostada	2202	
+por  ?	2202	
+Viendo la tele	2200	
+Feliz día	2199	
+Las	2198	
+Si amor esta bien	2198	
+Buenos dias  !	2196	
+La verdad que si	2193	
+Que miedo	2190	
+Tienes	2188	
+Es mejor	2187	
+Te gusto	2187	
+O  .	2186	
+Que comiste	2186	
+Vos que haces	2185	
+Esta bien  ?	2183	
+Con quien estas	2180	
+Eso creo	2179	
+Que te pasa  ?	2177	
+Si amor ntp	2177	
+Es cierto	2168	
+Está bien	2167	
+Me estaba bañando	2166	
+Q haces bb	2164	
+Yo más	2162	
+Te kiero	2158	
+Ya estas en tu casa	2156	
+Ya me quiero ir	2155	
+Cuenta	2151	
+y que haces	2148	
+Estoy aca	2143	
+Ya voy en camino	2141	
+Entonces si	2135	
+En su casa	2134	
+Si me di cuenta	2134	
+Hablamos mañana	2132	
+Buenos días bb	2125	
+Que estas haciendo  ?	2124	
+Ya quedo	2118	
+no creo	2116	
+Recién me levanto	2114	
+Que cuentas	2109	
+Hace	2104	
+Y donde estas	2104	
+Hola bien	2102	
+Que pereza	2092	
+Te puedo llamar	2080	
+Que me cuentas	2077	
+Bien también	2071	
+Nose  .	2070	
+Que haces  !	2070	
+Es todo	2067	
+Perdón  .	2067	
+Con eso	2065	
+Ya te extraño	2061	
+Que hacias	2058	
+pero  .	2055	
+Que andas haciendo  ?	2052	
+Te puedo marcar	2051	
+Me interesa	2046	
+Nada  .	2044	
+Puedes	2042	
+mi vida	2040	
+Que bueno me alegro	2037	
+Buenas tardes  .	2036	
+Que hacemos	2036	
+Puej	2033	
+Pero en fin	2031	
+6  .	2030	
+Otra ves	2027	
+Ustedes	2027	
+jajajaja	2027	
+Donde es	2026	
+No	2026	
+Gueno	2022	
+Otra cosa	2017	
+U	2013	
+Voy llegando	2012	
+Pablo	2010	
+Y no se	2007	
+Ya veremos	2006	
+Jajajaja  .	2005	
+Yo también mi amor	2003	
 Y eso que	2002	
-Yo también mi amor	2002	
-Quiero ver	1999	
-Sueño	1999	
-Ya  .	1999	
-A que hora sales	1998	
-Y porque	1997	
-Ustedes  ?	1996	
-Vero	1996	
-Y si amor	1996	
-bueno dale	1993	
-Buena tarde	1991	
-No  !	1991	
-Que buenooo	1989	
-Que dijo	1988	
-Ahre	1983	
-Je	1983	
-Me da miedo	1983	
-No te	1982	
-Q bueno amor	1982	
-Si la verdad	1981	
-Grosero	1979	
-Y xq	1978	
-Cualquiera	1975	
-Es hermoso	1975	
-Pues si we	1975	
-todo bien	1975	
+Perdoname	2001	
+A que hora sales	2000	
+Tía	1999	
+Donde vienes	1998	
+Como le fue	1997	
+Que comiste  ?	1996	
+Que buenooo	1995	
+Recién	1995	
+Quiero ver	1991	
+Ustedes  ?	1987	
+Y eso amor	1987	
+Si la verdad	1983	
+Todo bien  .	1983	
+Cualquiera	1981	
+Me da miedo	1980	
+Y porque	1979	
+Verdad  ?	1978	
 La verdad no	1974	
-No tengo hambre	1973	
-Buenas noches amor	1971	
-Bueno avisame	1969	
-Te amo mucho mi vida	1968	
-Pablo	1964	
-Yo también te extraño	1963	
-muchas gracias	1962	
-Saludos	1960	
-Que bueno me da gusto	1952	
-Espere	1946	
-ya llegue	1942	
-Esoo	1940	
+Pues si we	1974	
+Vero	1974	
+Que dijo	1971	
+Es hermoso	1969	
+Grosero	1969	
+Y si amor	1969	
+Buenas noches amor	1968	
+te amo	1965	
+muchas gracias	1963	
+Sueño	1959	
+todo bien	1959	
+Que bueno me da gusto	1958	
+Q bueno amor	1957	
+Espere	1955	
+Yo también te extraño	1955	
+Y xq	1954	
+Esta bien mi amor	1953	
+Yo no puedo	1945	
+8  .	1943	
+Toy	1940	
+Ahh  .	1938	
+Estoy llendo	1930	
+Bueno gordo	1928	
+ya llegue	1927	
+No doy mas	1925	
+De acuerdo	1923	
+En serio  ?	1916	
+Ok muchas gracias	1916	
+Y eso porque	1915	
+Te amo mucho mi vida	1914	
+Como  .	1908	
+Esperando	1906	
+Lo se  .	1906	
+Que nooo	1901	
+Si vamos	1900	
+Y voy	1898	
+Buen dia  .	1895	
+Si corazón	1895	
+Pero no puedo	1894	
+Te gusto  ?	1892	
+Es mucho	1891	
+Obvio que si	1891	
+Todo el dia	1888	
+Tienes razón	1884	
+Muy cierto	1883	
+Y por que	1883	
+Y como estas  ?	1881	
+Buenas noches  !	1879	
+Espero que si	1878	
+Bien mi amor	1875	
+Cualquier cosa	1875	
+Pobrecita	1872	
+Y tú	1871	
+No te veo	1869	
+7  .	1868	
+Lo mismo digo	1868	
+Si podes	1868	
+Esq	1863	
+8	1862	
+Y te aviso	1857	
+Ya te quiero ver	1853	
+pues	1853	
+A esta bien	1852	
+Noo  .	1852	
+Como sigues  ?	1851	
+Lucas	1848	
+No  !	1848	
+No mi vida	1848	
+Por todo	1848	
+Si puede ser	1847	
+Me encantan	1845	
+Vemos	1844	
+Y esoo	1844	
+Ah esta bien	1843	
+Por q  ?	1841	
+Que hueva	1838	
+Te extraño amor	1837	
+Ya  .	1832	
+Cuando puedas	1830	
+No voy	1830	
+Graciad	1828	
+Me quede dormido	1827	
+Estoy cansada	1825	
+9  .	1824	
+Muchísimo	1823	
+por que  ?	1823	
+Q es	1821	
+No quiere	1820	
+No entiendo nada	1819	
+Por cierto	1819	
+Que genial	1819	
+No es	1817	
+En que	1816	
+Jajajaj	1816	
+Je	1816	
+5	1814	
+Ahre	1811	
+Y nose	1810	
+te extraño	1810	
+Estaba comiendo	1809	
+perdón	1807	
+Estamos	1805	
+Me dices	1802	
+Me quieres  ?	1802	
+Por las dudas	1801	
+Y  ?	1801	
+Por dios	1800	
+Sos	1799	
+Estoy aburrido	1796	
+Hola que haces	1796	
+Estoy mal	1794	
+Buenos dias  .	1792	
+Yo se que si	1791	
+Si si  .	1790	
+Te quiero mas	1790	
+Estamos igual	1789	
+Bueno Amor	1787	
+Me gusto	1784	
+Es raro	1780	
+Vale mi amor	1780	
+Que cosas	1778	
+A	1773	
+Buenos Dias	1772	
+Muy bien gracias a Dios	1766	
+Nooo  .	1765	
+No llores	1763	
+Q tienes	1761	
+No lose	1758	
+Que bueno bb	1758	
+Quien sos	1758	
+Esta muy bien	1757	
+Para cuando	1757	
+Si se puede saber	1757	
+Porqué	1747	
+muy bien	1746	
+jajaj	1744	
+Siiii  .	1743	
+Ya estoy afuera	1742	
+Ok pues	1741	
+Pues quien sabe	1739	
+Me parece	1738	
+Y que te dijo  ?	1732	
+La verdad no se	1729	
+perdon	1728	
+No te duermas	1726	
+Amor de mi vida	1722	
+Eres mi todo	1722	
+A bueno mi amor	1720	
+Pero nose	1719	
+Pue	1719	
+Despues	1717	
+Pues esta bien	1716	
+Que le digo	1716	
+eso si	1716	
+Te amo mi cielo	1714	
+En donde estas  ?	1711	
+Aca estoy	1708	
+No es verdad	1708	
+Hola corazón	1707	
+Me alegra mucho	1707	
+No me enojo	1707	
+Que show	1707	
+Tanto tiempo	1706	
+Y q	1705	
+Mucho trabajo	1704	
+Que flojera	1702	
+Tan rapido	1700	
+Jajajajaja	1698	
+Llegando	1697	
+Hermosas	1695	
+Si pue	1695	
+Buenos días mi vida	1694	
+Hola tía	1692	
+Y que tiene	1692	
+No me  .	1689	
+Que hiciste	1684	
+Todas	1681	
+Con sueño	1678	
+Recien	1677	
+Como te fue hoy	1676	
+No me crees	1671	
+Yo que se	1668	
+Eso es verdad	1667	
+no puedo	1667	
+Y punto	1666	
+Sigue	1663	
+Eso me dijo	1662	
+Esta bien bb	1662	
+Y que me cuentas  ?	1660	
+Puede	1659	
+lo siento	1659	
+No estoy	1657	
+Después hablamos	1650	
+Pues claro	1650	
+Por suerte	1649	
+Esta hermoso	1647	
+No por	1645	
+Si	1645	
+Por donde	1644	
+Y k haces	1644	
+Y tu como estas  ?	1644	
+Sabes  .	1643	
+Años	1642	
+Que andas haciendo	1642	
+com	1639	

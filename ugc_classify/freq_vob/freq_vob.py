@@ -9,7 +9,7 @@
 import sys
 import json
 
-
+iatatype="facebook"
 file = open(sys.argv[1], "r")
 #python freq_vob.py ../origin_corpus/es_fb_ugc.txt > es_fb_ugc_vob.txt
 #python freq_vob.py ../origin_corpus/es_fb_no_ugc.txt > es_fb_no_ugc_vob.txt

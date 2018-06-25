@@ -18,7 +18,7 @@ output="/user/ime/fengchaobing/dl_corpus/${datatype}/ugc_classify/${lang}/"
 $hadoopcmd --config "$hadoopconf" fs -rmr ${output}
 $hadoopcmd --config "$hadoopconf" jar "$hstream" \
     -D mapred.job.name="ugc_classify, ${datatype}, ${lang}, fengchaobing" \
-    -D mapred.job.priority="VERY_HIGH" \
+    -D mapred.job.priority="HIGH" \
     -D mapred.map.tasks=10000 \
     -D mapred.reduce.tasks=1 \
     -D stream.num.map.output.key.fields=2 \

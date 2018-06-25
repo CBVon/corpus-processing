@@ -13,6 +13,9 @@ then
 elif [[ ${datatype} == "vk" ]]
 then
     short_d="vk"
+elif [[ ${datatype} == "ugc" ]]
+then
+    short_d="ugc"
 fi
 
 #python freq_vob.py ../origin_corpus/es_fb_ugc.txt > es_fb_ugc_vob.txt

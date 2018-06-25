@@ -82,8 +82,8 @@ def RemoveHeadQuotation(line_word, i):
 
 
 def loadAllChars():
-    #files = glob.glob("./character/*.txt")
-    files = glob.glob("demo_for_format/character/*.txt")
+    #files = glob.glob("./character/*.txt") #本地
+    files = glob.glob("demo_for_format/character/*.txt") #集群
     chars = set()
     for fpath in files:
         f = open(fpath)
@@ -99,6 +99,7 @@ def loadAllChars():
 	
 allchars = loadAllChars()
 #allchars = u"[АДИМРФШъЬадимрÃDÇHËLÏPÓŒTXÛãdçhëlïpótxûÿсуГЗхЛПУч'Ы/щгзÈлыпяÀCGэKOSÔWÎÜàcgèkЦosôwüёВЖКОТ&Ъ.вжкоÁBFÉJÍNÑRÕVÙZÝábféjínñrõvùŸzýЯЁБЮтЕЙНфСХюЩцЭбешйнAÂEÆIÊMьQœÒUYÚaâeЧæiêmîqòuyú]+"
+#allchars = u"[АДИМРФШъЬадимрÃDÇHËLÏPÓŒTXÛ\ßãdçhëlïpótxûÿсуГЗхЛПУч'Ы/щгзÈлыпяÀCÄGэKÌOSÔWÎÜàcägèkЦìosôwüёВЖКОТ&Ъ.вжкоÁBFÉJÍNÑRÕVÙZÝábféjínñrõvùŸzýЯЁБЮтЕЙНфСХюЩцЭбешйẞнAÂEÆIÊMьQœÒUÖYÚaâeЧæiêmîqòuöyú]+"
 #print "allchars : " + allchars
 sys.stderr.write("allchars : " + allchars + "\n")
 
@@ -186,7 +187,9 @@ def modify_sent(sent):
 for line in sys.stdin:
     #langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "en", "de"]
     #langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de"]
-    langs = ["it", "tl"]
+    #langs = ["it", "tl"]
+    #langs = ["de"] #20180530 de-debug
+    langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de", "it", "tl"]
     try:
         oriline = line.strip()
         infos = oriline.split("\t")

@@ -1,0 +1,1040 @@
+#Tokyo,	Japon
+#Helsinki,	Finlande
+#Madrid,	Espagne
+#Paris,	France
+Bas normal t'es a Paris , la pire ville de France	1	
+Belle année avec Air France envolez vous vers Paris dès 514 euros  .	1	
+Lol sur la France , Nancy comme Paris	1	
+#Havane,	Cuba
+#Téhéran,	Iran
+#Caire,	Égypte
+#Islamabad,	Pakistan
+#Bern,	Suisse
+#Canberra,	Australie
+#Londres,	Angleterre
+#Berlin,	Allemagne
+#kaboul,	Afghanistan
+#Athènes,	Grèce
+#Moscou,	Russie
+#Stockholm,	Suède
+#Ottawa,	Canada
+#Rome,	Italie
+#Hanoï,	Vietnam
+#Pékin,	Chine
+#Bangkok,	Thaïlande
+#Oslo,	Norvège
+#Bagdad,	Iraq
+#Tunafuti,	Tuvalu
+#Madrid,	Espagne
+#Paris,	France
+Bas normal t'es a Paris , la pire ville de France	1	
+Belle année avec Air France envolez vous vers Paris dès 514 euros  .	1	
+Lol sur la France , Nancy comme Paris	1	
+#Nassau,	Bahamas
+#Maputo,	Mozambique
+#Téhéran,	Iran
+#Vientiane,	Laos
+#Bamako,	Mali
+#Ankara,	Turquie
+#Vaduz,	Liechtenstein
+#Asmara,	Érythrée
+#Roseau,	Deminoque
+#Douchanbé,	Tajikistan
+#Sofia,	Bulgaria
+#Bucarest,	Roumanie
+#Tunis,	Tunisie
+Wouaaaawwww quand je lis certain commentaires dont la plus part vive en france ou autre que Tunis la hypocrisie et total la Tunisie a fait la révolution contre ben ali pourquoi  ?	1	
+#Lusaka,	Zambie
+#Quito,	Équateur
+#Khartoum,	Sudan
+#Montevideo,	Uruguay
+#Antananarivo,	Madagascar
+#Kiev,	Ukraine
+#Rome,	Italie
+#Hanoï,	Vietnam
+#Damas,	Syrie
+#Oslo,	Norvège
+#Vilnius,	Lituanie
+#Alger,	Algérie
+#Tashkent,	Ouzbékistan
+#Tokyo,	Japon
+#Helsinki,	Finlande
+#Dublin,	Irlande
+#Managua,	Nicaragua
+#Paramaribo,	Suriname
+#Bichkek,	Kirghizistan
+#Caire,	Égypte
+#Amman,	Jordanie
+#Budapest,	Hongrie
+#Doha,	Qatar
+#Astana,	Kazakhstan
+#Kaboul,	Afghanistan
+#Monrovia,	Libéria
+#Dhaka,	Bangladesh
+#Mogadiscio,	Somalie
+#Bujumbura,	Burundi
+#Valette,	Malte
+#Nouakchott,	Mauritanie
+#Kingston,	Jamaïque
+#Beyrouth,	Liban
+#Pékin,	Chine
+#Bangkok,	thaïlande
+#Harare,	Zimbabwe
+#Muscat,	Oman
+#Bagdad,	Iraq
+#Conakry,	Guinée
+#Tallinn,	Estonie
+#Georgetown,	Guyane
+#Taipei,	Taïwan
+#Rabat,	Maroc
+#Yerevan,	Arménie
+#Havane,	Cuba
+#Thimphu,	Bhoutan
+#Nuuk,	Groenland
+#Bakou,	Azerbaïdjan
+#Kigali,	Rwanda
+#Dakar,	Sénégal
+#Suva,	Fidji
+#Belmopan,	Belize
+#Banjul,	Gambie
+#Athènes,	Grèce
+#Riga,	Lettonie
+#Zagreb,	Croatie
+#Skopje,	Macédoine
+#Achgabat,	Turkménistan
+#Stockholm,	Suède
+#Manille,	Philippines
+#Bruxelles,	Belgique
+Pour faire psycho en Belgique , j'ai 4 possibilité je crois Louvain , Liège , Bruxelles , ou Mons Bébé	1	
+#Luanda,	Angola
+#Nicosie,	Chypre
+#Santiago,	Chili
+#Caracas,	Venezuela
+#Minsk,	Bélarus
+#Tbilissi,	Géorgie
+#Libreville,	Gabon
+#Tegucigalpa,	Honduras
+#Londres,	Angleterre
+#Vienne,	Autriche
+#Varsovie,	Pologne
+#Berlin,	Allemagne
+#Islamabad,	Pakistan
+#Bern,	Suisse
+#Lima,	Pérou
+#Accra,	Ghana
+#Tripoli,	Libye
+#Gaborone,	Botswana
+#Manama,	Bahreïn
+#Bratislava,	Slovaquie
+#Canberra,	Australie
+#Kampala,	Ouganda
+#katmandou,	Népal
+#Lisbonne,	Portugal
+#Apia,	Samoa
+#Belgrade,	Serbie
+#Jakarta,	Indonésie
+#Lilongwe,	Malawi
+#Ljubljana,	Slovénie
+#Moscou,	Russie
+#Tirana,	Tirana
+#Ottawa,	Canada
+#Nairobi,	Kenya
+#Copenhague,	Danemark
+#Niamey,	Niger
+#Abuja,	Nigéria
+#Windhoek,	Namibie
+#Podgorica,	Monténégro
+#Pologne,	zloty
+#Vietnam,	baht
+#Angola,	kwanza
+#Japon,	yens
+#Mexique,	peso
+#Lettonie,	lat
+#Lituanie,	litas
+#Hongrie,	forint
+#Arménie,	dram
+#Thaïlande,	baht
+#Nigéria,	naira
+#Roumanie,	leu
+#Argentine,	peso
+#Russie,	rouble
+#Algérie,	dinar
+#Ukraine,	hryvnia
+#Croatie,	kuna
+#Cambodge,	riel
+#Canada,	dollar
+#Europe,	euro
+#Malaisie,	ringgit
+#Iran,	rial
+#Inde,	Roupie
+#Macédoine,	denar
+#Bulgarie,	lev
+#Wichita,	Kansas
+#Akron,	Ohio
+#Irvine,	Californie
+#Toledo,	Ohio
+#Indianapolis,	Indiana
+#Denver,	Colorado
+#Milwaukee,	Wisconsin
+#Reno,	Nevada
+#Boston,	Massachusetts
+#Minneapolis,	Minnesota
+#Bakersfield,	Californie
+#Henderson,	Nevada
+#Seattle,	Washington
+#Atlanta,	Géorgie
+#Chandler,	Arizona
+#Dallas,	Texas
+#Madison,	Wisconsin
+#Tampa,	Floride
+#Tallahassee,	Floride
+#Irving,	Texas
+#Fontana,	Californie
+#Anaheim,	Californie
+#Fresno,	Californie
+#Amarillo,	Texas
+#Hialeah,	Florida
+#Pittsburgh,	Pennsylvanie
+#Austin,	Texas
+#Sacramento,	Californie
+#Portland,	Oregon
+#Glendale,	Californie
+#Jacksonville,	Florida
+#Shreveport,	Louisiane
+#Lexington,	Kentucky
+#Tulsa,	Oklahoma
+#Glendale,	Arizona
+#Tucson,	Arizona
+#Mesa,	Arizona
+#Spokane,	Washington
+#Memphis,	Tennessee
+#Oxnard,	Californie
+#Tacoma,	Washington
+#Lubbock,	Texas
+#Worcester,	Massachusetts
+#Miami,	Florida
+#Cleveland,	Ohio
+#Scottsdale,	Arizona
+#Louisville,	Kentucky
+#Stockton,	Californie
+#Detroit,	Michigan
+#Phoenix,	Arizona
+#Philadelphie,	Pennsylvania
+#Huntsville,	Alabama
+#Cincinnati,	Ohio
+#Honolulu,	Hawaï
+#Nashville,	Tennessee
+#Oakland,	Californie
+#Houston,	Texas
+#Fremont,	Californie
+#Orlando,	Floride
+#Arlington,	Texas
+#Omaha,	Nebraska
+#Laredo,	Texas
+#Chicago,	Chicago
+#Baltimore,	Baltimore
+#Anchorage,	Anchorage
+#Plano,	Texas
+#Modesto,	Californie
+#Garland,	Texas
+#frères,	soeurs
+2 grandes soeurs , 4 petite soeurs et 2 petit frères  .	1	
+Oui mais tu parles du nombre de petits frères ou de petites soeurs  ?	1	
+Toi tu veux que je te fasse 6 petits frères et 4 petites soeurs  ?	1	
+avec les soeurs et les bo frères on étaient dans un mariage hier soir	1	
+#sa(son),	sa(son)
+#homme,	femme
+Ben déjà un femme i veille plus vite qu'un homme et i devient menopose bonheure	2	
+Je mets un commentaire dans mon mur en hommage a Johnny à une personne que j'ai pu croiser et connaître un tout petit peu je tiens à dire toutes mes condoléances à sa femme et à ses enfants il y a sur toute sa famille un homme qui dégage est une puissance remarquable sur scène un homme qui n'avait peur de rien qu'elle ne prenez un micro qu'elle a fait une belle carrière mais surtout que tu as des enfants qui t'aime mon ami Johnny repose en paix en l'au-delà veille sur tes proches	2	
+Je publie cette photo pour vous remonter de quoi je suis capable grâce à Dieu je n'ai jamais frappé aucune femme mais je serai peut-être capable plus qu'on ne connaît crois j'aime la tête de mort ce n'est pas pour rien que je suis contre la cruauté envers les animaux comme un être humain pour moi un homme qui frappe une femme il mérite la chaise électrique ou alors qu'on lui coupe la tête rien d'autre	2	
+La dernière fois tu m'as même dis ke tu avais étais reçu par un homme à l'accueil et une femme pour tn rdv dans son bureau  .	2	
+Ah mais c'est sur et certain il va voire c'est facile de sens prendre sur une femme ou des goss mais un homme c'est pas la même	1	
+Alors si shui ton homme et que tu es ma femme , attrape bien le main k je tai donner peu importe  .	1	
+Aucun homme ne va rendre une tell service pour une femme	1	
+Ba il le faux une doudoune deux paire de air Max et deu ensenble Nike une pour homme et une pour femme	1	
+Babar aurais une place pour toi mais faut trouve un autre homme et une autre femme	1	
+Bah mon ami je suis une femme mariée à un homme	1	
+Bah mon ami je suis une femme mariée à un homme possessif donc tu comprends  .	1	
+Bah nan tqt je suis pas une femme je suis un homme	1	
+Bah oui c'est normal je suis ta femme et toi tu es mon homme	1	
+Ben mtn tous les hommes cours derrière les gros dada maus tu be véra aucun homme avoit un gros dada comme femme ou compagne	1	
+Bonjour pour samedi il me faudrait un point desiel bleu pour homme et un classique de Jean paul gautier pour femme svp	1	
+C est l homme qui doit comprendre la femme puis la femme doit obeir a l homme  .	1	
+C'est clair que quand une femme fait les éloges d'un homme elle est un peu interessée	1	
+C'était un homme somalien qui etait a l'engelettere et sa femme était en Somalie	1	
+Chute femme c moi qui t'aime plus c tou écoute ton homme pour une fois	1	
+De tous fassons tu me dit jamais je t'aime alors que d'autre femme je dise leurs homme que l'aime tu ses vraiment pas dire je t'aime il y a pas que écrit il faut aussi dire de vie voix sans ses vrais que ses un problème à toi tu voulait pas partager avec moi de regarder un film porno je les achetait pour nous deux non que moi  .	1	
+De tous fassons tu me dit jamais je t'aime alors que d'autre femme je dise leurs homme que l'aime tu ses vraiment pas dire je t'aime il y a pas que écrit il faut aussi dire de vie voix sans ses vrait problème à toi tu voulait pas partager avec moi de regarder un film porno je les achetait pour nous deux non que moi	1	
+Des femmes comme toi ne courent pas les rues , vous êtes rares comme un diamant , ton homme n'aura pas simplement une femme , il aura la PERFECTION  .	1	
+Dieu a fait pour l homme un trône ; Pour la femme un autel  .	1	
+Désolé je peux en parler avec une femme mais pas un homme	1	
+En Afrique c femme ki di bjr a sn homme  .	1	
+Hummm alors si un homme n'a pas de moyen pourrait il accepté de marier avec une femme	1	
+Il ma di une femme qui respect pa son homme ses oa une femme	1	
+Il permet pas au te parler , un like dans les réseaux sociaux d'une femme ou d'un autre homme c'est le scandale	1	
+Il y'aura jamais un homme qui va accepter que sa femme aille dinner avec un autre mec	1	
+Il ya guida , christophe , emilie , le père de kevin et sa femme , sa cousine avec son homme , sa grand mere , ma mere , une de mes cousine , 3 couple d'amis et les enfants ont on attend d'autres réponse	1	
+J'ai un homme qui sait parler a sa femme	1	
+Je cherche un appart mais je crois que mon homme est pire qu'une femme dans un magasin de chaussures mdr	1	
+Je fait pas de câlin à un homme c'est tout xD une femme ok crevette bien sûr Maman crevette soyons fou mais papa crevette je lui tend la main xD	1	
+Je lui est dis à ton abis de quoi un homme à besoin venanr dune femme à 2h du mat	1	
+Je t fai des reproches pour ke tu tameliores sur certains points cest pa coe ca kon gere une relation tu es la femme tu dois amener tn homme ver toi et le seduire	1	
+Jvais jouer la petite femme parfaite qui prend soin de son homme	1	
+L homme est le cerveau , La femme le coeur  .	1	
+La beauté d'une femme ce trouve dans l'oeil de son homme	1	
+La femme doit être a la propriété d'un seul homme	1	
+Le classique pour femme et le point desiel bleue pour homme	1	
+Les femme on besoin d'un homme comme un homme a besoin d'une femme	1	
+Ma poulette Tu es trop belle sur cette photo Mmm je t'aime ma femme Je suis un homme chanceux parce que j'ai une belle femme	1	
+Mais comme toi , tu es dans la catégorie des femme qui ont troooooop le malin , se sachant belle , un homme comme moi , je regarde juste de loin , comment les autres s'agitent	1	
+Merci énormément mon coeur pour tout ce que tu a fait grace au toi je suis un homme puis je compte faire de toi ma femme en t'epousant mon amours je t'aime plus que tout j'ai hate de te faire la demande en mariage avec les cle de l'Audi	1	
+Met si vraiment je suis ra femme et toi mon homme il faut quon arrete de s engeuler bb	1	
+Mon coeur un homme ne réagi pas comme une femme	1	
+Najem je suis un homme mariée je doit voir avec ma femme d'abord	1	
+Ne dit pas sa allah a créer une femme qui et destiné pour un homme quand allah décidera de te la donner elle viendra a toi et ce mariage fera la moitié de ton dîne ne sois pas triste	1	
+Non xD ses pas un homme mais bien une femme , et elle fait goku quasiment depuis le debut dragon ball meme a l'âge de 80ans elle continu elle est entrer dans le livre des record	1	
+Ok merci il me faudrais une paye en 40 pour homme et en 36 pour femme	1	
+#mari,	femme
+ce n'est pas pour ça que la femme était malheureuse ou soumise puisque à cette époque la femme avait de la valeur pour son mari et dans la société , et elle était même considérée comme le principal pilier de la maison  .	2	
+C une femme qui a pris un 2em mari	1	
+Et la femme va tout faire pour protège son mari	1	
+Expliquez su dd est l'appelation d'un patron fasse a sa collaboratrice , tu vas expliquer a sa femme pourquoi tu appelles son mari dd	1	
+Hum la femme qui fuit le domicile conjugal le mari depuis des jours	1	
+Je te le dis ma fille j'ai quitté la maison a la suite d'un coup de fil que j'avais reçu de Lina , la voisine qui gardait Anne so qui me demandait de dire a ma femme de laisser son mari tranquille  .	1	
+Je te souhaite pour cette nouvelle année ma petite shara santé beaucoup de bonne chose et bénédictions sur le regard de pour toi et ta petite famille ton doudou et ton fils et que tu restes la femme formidable que tu es pour ton mari et la maman formidable que tu es pour kiloulou	1	
+Ma femme quand elle a reçu la nationalité européen et tout grace a son mari	1	
+Mettez ensemble l'argent de mon père et ma cousine et la femme au boulot de edmonde et son mari pour voir le montant	1	
+Moi aussi mon coeur d'amour je t'aime énormément de tout mon coeur et ton mari de ton coeur sera toujours là pour prendre soin de sa femme de sa vie pour la vie j'usqu'a ma mort je t'aime je t'aime je je t'aime je t'aime je t'aime je t'aime je t'aime je t'aime je t'aime je t'aime je t'aime énormément de tout mon coeur pour la vie ma bibiche d'amour de mon coeur	1	
+Moi j'adore ma femme Et toi tu aime ton mari	1	
+Oui sa résumé bien la mentalité et le pense de cher nous hhhh rester o café toute la journée ou lieu de partie travailler aller o café regarder le foot o lieu de passer du tzmp en famille ou aller a la mosqué et nous femme au foyer dépense plus de energie dans le travail que nos propre mari biento nous allons aussi devenir la chefs de famille ou va le monde	1	
+Oui voila ecoute ton maman changer de coeur tu vivre bien tu dire pas femme de lit mes dire que j'ai autre mari que je vivre avec  .	1	
+Peut etre pr ta femme sa sera pg mais pas pr mon mari	1	
+Prk mon petit coeur d'amour j'imagine par ce que ton mari n'était pas a côté de toi ma femme d'amour	1	
+Que Dieu ne te donne vraiment tout le bonheur d'être femme , dans le travail , avec ton mari , avec	1	
+Si tu es une femme qui a un merveilleux mari , qui travaille fort et qui ferait n'importe quoi pour toi , met cette phrase sur ton statut aujourd'hui , car ces hommes sont rares , et j'ai l'immense chance d'en avoir un  .	1	
+Tu a vue ce que j'ai encore fait hier mon amour une vrai femme doit respecter son mari et moi je le fais pas	1	
+Tu as vu c'est le mari qui a tué sa femme la joggeuse qui avait été retrouvé morte	1	
+pour elle , la relation dans le mariage c'est PLUTOT j'insiste encore sur la nuance la femme qui suit le mari dans la majorité des décisions ou c'est 50-50  ?	1	
+#marié,	mariée
+#frère,	soeur
+J'ai 1 grande soeur , un grand frère et un frère jumeau  .	5	
+Dit moi ou ta bite ma soeur Stp Jtm et le bauf frère il va bien  ?	3	
+Mon frère jtm trop tes mon soeur quand jai besoin de toi tes tjr la pour moi et moi pour toi tkt pas	3	
+Mon frère jtm trop tes mon soeur quand jai besoin de toi tes tjr la pour moi et moi pour toi tkt pas jtm mon frere	3	
+On suit aussi l'histoire de la soeur de Mike et du frère de Will  .	3	
+J'ai 1 grande soeur , un grand frère ,	2	
+Je promet sur ma vie , sur la tête de mon chat , ma soeur , mon tel , ma ds , mon frère et ma mère	2	
+Mon frère jtm trop tes mon soeur quand jai besoin de toi tes tjr la pour moi et moi pour toi tôt pas	2	
+Un frère de 28 ans et une soeur de 26 ans	2	
+1 grande 2 demi soeur et 1 demi frère et toi	1	
+1 non je te repousse 2 personnes je préfère être seule au lieu de souffrir 3 je n'en ai pas 4 idem 5 déjà tu m'envoie pas balader LOL 6 6 / 10 7 non pas du tout 8 personnes n'est plus beau que tel ou tel la beauté du coeur ou physique cela reste la même 9 si on parle d'amour non j'ai trop de souffrance interne pour aimer désoler 10 bha nan t'habite pas la porte à côté 11 ton humour 12 deux demi frère et 1 demi soeur 13	1	
+1 soeur 8ans et 1 frère 14 ans	1	
+3 frère et 1 ou 2 soeur	1	
+Ah bah heureusement que tu connais pzs mon ptit frère et ma ptite soeur c'est pire la sa vas ils sont entrain de dormir	1	
+Après c'est as vous de voire mais moi sa me soûl que vous soyais comme sa vraiment rien ne doit se mettre entre vous vraiment moi perso j'ai perdu la soeur a cause d'un con mon frère c'est pas trop sa et srx sa me ronge as mort je veut pas que vous fassiez la même surtout pour des bêtises des malentendu vraiment fin apres c'est as vous de voire mais je pense que la vie et trop courte pour perdre du temps pour des choses comme sa	1	
+Après j'ai une petite soeur et un petit frère	1	
+Au loto après chez ma soeur après recherche mon frère a la gare	1	
+Avec ma soeur au travail de mon beau frère y'a une soirée	1	
+Bah c l'ex a mon frère mais mtn c aussi sa soeur de coeur donc je me la coltine	1	
+Bah c l'ex a mon frère mais mtn c aussi sa soeur de coeur donc je me la coltine encor	1	
+Bah c l'ex a mon frère mais mtn c aussi sa soeur de coeur donc je me la coltine encore cte tripaner	1	
+Bah ta soeur je vosi qui cets et ton frère aussi	1	
+Bas on chch un aranger pour enmener mon demi frère à ruitz a la sta car personne peut l'amener et ma belle soeur à besoin de sa voiture demain et lui	1	
+Beh tae si c'est ta soeur je suis le frère de mon Jungkook	1	
+Bh jsp , franchement petite soeur prck j'ai deja 2 frère mdr	1	
+Bh oe ct mon frère mais jsp ya quoi ya changer , ya 2j y m'diszis ma soeur ajd sa m'traite je c meme pas pk mais brff c'que ct pas vrm un pote	1	
+Bomjours je syis kay soeur de @fandewass je me demande pk tu à bloquer mon frère et son pote @wassfreestylefan	1	
+Bon peux taitre pas me sauter de su mais me le faire quand memr nn mon frère oar de lilo et stithe a ma soeur mais bon quoi	1	
+C'est la soeur qui t'a dis montre moi qui c'est ton grand frère  ?	1	
+C'est mon ex bo frère qui à été juger pour ce qu'il fesait à ma soeur été il est passer dans le journal	1	
+C'est mon grand frère de coeur Clems Bènè Chiaro Lola je suis sa petite soeur quoi mais tou tu es mon vrai frère de sang	1	
+Ca c moi avec ma soeur et mon petit frère	1	
+Celui qui a tué sa famille c'est-à-dire son frère farlan et sa soeur isabelle	1	
+Ces ton frère qui conte plus que ta soeur	1	
+Cet après-midi je ss allée me balader avec ma ptite soeur , mon grand frère et sa copine	1	
+Cet après-midi on va voir le frère a papy en ehpad et la soeur a papy chez elle mais je vais pas conduire la flemme	1	
+Chez le demi frère et la belle soeur	1	
+Devant la tele et ordi chez ma grande soeur de coeur et mon grand frère de coeur	1	
+Dit au ma soeur kel m'envoie un message pour je la rappel de la part de son frère 0788808205 je ne sais plus si elle a encore mn tel	1	
+Elle dit qu'elle ne sait pas où vivent sa soeur jumelle et son frère  .	1	
+Et félicitations avec Étienne je veux tout ton bonheur petite soeur et je veux que mon beau frère soit attentionné avec toi	1	
+Et moi j'ai un demi frère et une demi soeur	1	
+Et oui , grey tu es mon beau frère mtn je prendrais soin de ta soeur	1	
+Fabrice , son frère , sa mère , sa soeur , des amies a elle  .	1	
+Il a Mycroft en frère mais pas de soeur	1	
+Il a une ptte soeur Lily-Rose et un ptt frère Kylian	1	
+Il est chez ma soeur pour que mon frère voille pour le farre	1	
+J'ai deux demi frère et une demi soeur en plus	1	
+J'avoue , mais te plein pas mon frère s'appelle François-Michael stp et moi Aimerine heureusement ya ma soeur qui s'appelle Alicia , de base c'était Marie-Eugénie	1	
+J'avoue , mais te plein pas mon frère s'appelle François-Michael stp et moi Aimerine heureusement ya ma soeur qui s'appelle Alicia , de base c'était Marie-Eugénie mais ils se sont dit que c'était une grosse connerie	1	
+#roi,	reine
+Félicitations aux roi et a la reine	2	
+Je suis reine et tu seras mon roi	1	
+Lilo et Stitch mon best one , le roi lion , Cendrillon , la reine des neiges	1	
+Lilo et Stitch mon best one le roi lion Cendrillon la reine des neiges Les 101 dalmatiens	1	
+#fils,	fille
+Perso 6 gentils- @harukofairytail fille de Naruto- @sansfr fils de Goku- @citric  .	10	
+Perso 6 gentils- @harukofairytail fille de Naruto- @sansfr arrière 20 petit fils de Goku- @citric  .	3	
+Ben mon fils avait été baptisé après ta fille	1	
+Cest une fille qui part au Canada et elle tombe amoureuse d'un des fils de ses patron	1	
+J'ai mon fils en vacance cette semaine et la semaine prochaine ma fille monte en suisse pour les vacances	1	
+Je suis sa mo'otua , la fille de johnny son fils	1	
+La fille et le beau fils super  .	1	
+Les femmes ont la bouche heinnn Une maman dit à sa belle fille pourquoi aucun de mes petits enfants ne ressemble à mon fils  ?	1	
+Mais avoir une fille ça veut dire une fille pour elle au bien pour son fils	1	
+Moi ma fille va avoir 37ans et mon fils 32ans	1	
+Mon fils 11 ans ma fille bientôt 17 ans	1	
+Mon fils a 31 et ma fille 36	1	
+Ne prendre aucune considération pour le père de leur petit fils et prendre u temps fou pour leur fille qui nous a mis plus bas que terre et qui au dit que son frère était mort  !	1	
+Non je fais pas que du baby-sitter je suis aussi maman dune petite fille de 7ans , je fais des bijoux en fils alu , je ss cuisinière	1	
+Ouais hiro mashima pense que la fille de natsu et lucy serait amoureuse du fils de jubia et grey et vice versa	1	
+Oui Ils doivent aller sauver Ben le fils de La belle et la bête qui est prisonnier de l'île de l'oublie il a ete capturer par la fille d'Ursula et le fils de Crochet	1	
+Oui hein une petite fille , j'ai déjà un magnifique petit fils mtn une petite fille  .	1	
+Oui tu m avais dit pour le fils de laurence c est triste de perdre un enfant ma fille au perdu le sien aussi une semaine avant le dece de valerie et une semaine après c etait le fils de mon frère triste année	1	
+Perso 6 gentils- @harukofairytail fille de Naruto- @sansfr arrière 20 petit fils de	1	
+Perso 6 gentils- @harukofairytail fille de Naruto- @sansfr fils de Goku	1	
+Père et fils , mère et fille	1	
+Sa mère son frère avec ses fille , un ami de son frère les 2 fils de sa soeurs et un ami de sa mère  .	1	
+Suis dégoûter elle etait ci heureuse car elle voulais un fils elle a eu sa fille du coup quand jlui ai proposer elle a fait des bon mais elle n'a jamais rien acheter suis pas pour les achats elle la prix un week sur presque 7 mois de vie et elle ne demande pas de nouvelle elle commente de tms en tmp	1	
+Un jr elle avait gagner dans ses demarches 1 millions moi son fils j'ai même pas eu 100 mill , ni sa fille l'argent là est fini à tel point qu'elle n'a rien foutu avec , c'est le mec avec qui elle est qui sait ce qui s'est passé et là ou cet argent est parti  .	1	
+g complètement zappé ma fille , comme mon fils et moi on est né le mm jour mais elle c le 17 / 01 / 2018 et j'aimerais kel est gateau aussi  .	1	
+ma fille oui sa va on peut la laisser mais c mon fils qui et le plus difficile	1	
+Ça fait toujours du bien pour les enfants de se retrouver entre mère et fille ou encore père et fils	1	
+#père,	mère
+Parce que la je viens de me trinbalé un carton de 7kl de miel Donc pour toi père c'était 2 pot je crois et pour ta mère 1kl	9	
+Son père était photographe de presse et sa mère journaliste  .	5	
+Soit la princesse de ton père La fierté de tes soeurs La relève de ta mère	4	
+Nn dsl parce que tu c quand je te dis qu'il y avait mon grand père il est venu pour nous dire que ma grand mère a eu un accident a l'usine elle a fait tomber une pièce sur sa main du coup elle est a l'hôpital mais il ya a que ma mère et mon beau perr	3	
+Ok oui sa dois la faire ok je demande à mon père se midi et à ma mère à 14h d'accord parce que ma mère travail et mon père nn d'ac	3	
+Quand j'avais 3ans mes parents se sons séparer 2mois avant leur mariage Mon père avais quitté ma mère pour ça meilleure amieAprès ma mere a rencontré quelqu'un de très gentil et j'adorais Mon père jaloux raconte des chose fausse sur ma mère a cette personne du il la quitte	3	
+Ah ok bin sa sera pour une prochaine fois , et ma mère qui voulais t'inviter à l'annif de mon père même si tu aurais fait rudy t'amener car je l'aurais invité aussi mais bon c'est mort car Mr joue	2	
+Au faite pour ma copine , il faudra venir la chercher chez elle car son père travail et sa mère est en attelle elle peut pas conduire et elle habite a champigni	2	
+Dem ma mère va coiffer le père de mme bonamy	2	
+Et après y'a mais parents qui sont en break depuis 1 semaine je le sais alors que sa fait plus longtemps que sa et dès qu'ils se voyent ils se disputent et mon père souffre parce qu'il l'aime vraiment on se confient mais ma mère lui parle comme un chien et ne montre aucun signe	2	
+J'ai dormis un peu et ma mère as commencé a geuler contre mon père et ma réveillé et maintenant elle boude dans son coin	2	
+Ma femme je tenais aussi a te dire que malgré les difficultés que j'ai avk me parents il ne faut pas il s'inquiéter , je leur est parler , on a discuter , on a même mis a s'embrouiller mais ne tkt pas mon père commence a comprendre et ma mère c'est un peu plus dure mais tkt pas pour moi  !	2	
+Ma mère m'a dit de partir du coup je suis chez mon père	2	
+Non je pense pas parce que en plus mon père est déja parti a saint dié , après il reste ma mère mais il faudrais quelle est une monté de gentillesse et avant que mon père partent au boulot je regrette de pas t'avoir embrasser plus	2	
+Parce que la je viens de me trinbalé un carton de 12kl de miel Donc pour ton père c'était 2 pot je crois et pour ta mère 1 tu me confirme au fete je tenverai une nouvelle liste d animer que je te conseil et en livre  .	2	
+Quand j'avais 3ans mes parents se sons séparer 2mois avant leur mariage Mon père avais quitté ma mère pour ça meilleure amieAprès	2	
+Sa va etre chaud son père le récupéré le 1 janvier donc meme si il dors chez ma mère faut que je retourne a saint medard après	2	
+j'ai envoyer ma mère bouler et mon père aussi  .	2	
+normalement c bon ma mère elle m'a dit oui et mon père il me donne ka reponse demain	2	
+33677603907 le num de ma mère pr le nouvelle an et celui de mon père c	1	
+A pont de clans je demanderais a mon père et a st sau c clement sierraMais lundi on peux aller voir ca mère a clement parce que elle travail au lycée voir si il	1	
+A sedan et la pas avec ma mère mais avec mon père	1	
+Ah bon Ptdrrrr parce que mon père était passe ya deux ou trois jours et ta mère lui disait que xetait son dernier jour lol	1	
+Ah jore lucie dors chez toi la et demain tu la ramène , nn ma soeur sera partie amener ma mère pour que mon père puisse rester au travail	1	
+Ah mais depuis que je suis en internat avec ma mère sa se passe mieux et mon père sv	1	
+Ah si mon père s'en fout et ma mère serais d'accord	1	
+Alor ma mère en parle a mon père demain et elle me donne la réponse	1	
+Alors il a raconté des chosess fausse sur ma mère a mon ex beau père du coup ma mère a perdu ben acose de mon père	1	
+Alors ma mère est nounou et mon père au credit agricole , et toi  ?	1	
+Au début la mère de Léa ne voulait pas la rendre au son père et il ont même eu besoin du juge pour régler leur histoire	1	
+Avec ma mère a bouhans les Lure et avec mon père a Melisey	1	
+Avec ma mère c'est de pire en pire même quand je suis chez mon père et sa bah je le supporte pus  .	1	
+Avec son père et sa belle mère le 25	1	
+B dit a ton père qu'il appel ma mère 0615701096	1	
+Ba Voila j'ai 14 ans ce mois si ça va faire 9 ans que ma mère est morte , ma belle-mère c'est mariée avec mon père est c'est une vrai connasse , mes beaux frangins sont chiants ma famille meurt un par un au collège c'est la merde j'ai pas d'amis , ma moyenne a chuté	1	
+Ba si elle ma connu tout petit elle elle connais ma mère mon frère et mon père décédé  .	1	
+Ba tu sais elle a perdu sa mère pi maintenant vu que je m'entend super bien avec ma belle mère et qu'elle m'achete des trucs ba son père essaye de la séduire pi elle elle va lui faire des calins pi elle me critique	1	
+Bah elle ma dit que sa mère à dit oui mais elle a pas encore demandé à son père	1	
+Bah j'vais déménager encore une fois parce que ma mère et mon beau père se re-separe encore une fois  .	1	
+Bah ma mère elle dit on verra avec tout père donc j'attends qu'il reviens et je te dis	1	
+Bah ma mère sen fou elle a dit c'est comme ton père préfère	1	
+Bah ma mère ta déjà eu un exemple , bah mon beau père pareil et pour ce qui est de Mélissa la connaissant elle va vouloir me piquer mon téléphone pour te parler	1	
+Bah ma mère veut du soleil et mon père change pas d'entreprise , il ne veut plus faire ce qu'il fait et ça lui met moins de limite si il cherche dans tt la france et pas seulement en Picardie	1	
+Bah mon père casse les couilles et benjamin hier il et venue chez ma mère il a fait un trou dans mon mur il a casser notre aquarium pour les tortue il nous a insulter il tient avec mon père il a voulu me tabasser heureusement que mon copain étais la et mon père dis a ma soeur qui et enceinte quelle peux crever avec sont bébé	1	
+Bah mon père et chez sa copine et ma mère est chez elle	1	
+Bah mon père quand il avait 26ans ma mère avait 18 an	1	
+Bah mon père regardais le journal et ma mère lui a demandé se qu'il voulait manger et on la dérangé comme d'hab	1	
+Bah si Guillaume le père de Lucien ou une mère de l'orchestre sinon il y a Fergal en voix 1 des personnes que je connais de vu mais en voix 2 je suis solo de fou , ,	1	
+Bas je sais moi aussi mon père il viens chez ma mère  .	1	
+Bb ma mère se fous de a gueule de ma père car quand il ma dit tu connais pas le tel je lui est enviuer un sricjers bb	1	
+#prince,	princesse
+Libre de croire en ces mensonges sur la vie , libre de croire au prince charmant , libre de croire qu'elle deviendra une princesse  .	4	
+Bah oui normal il y a que les prince qui mérite une princesse	1	
+J'espère que vous profiter bien gros bisous tonton et tatie et a mon petit prince et ma petite princesse La famille mousseux	1	
+J'peux pas pas ma princesse , j'ai pas de prince	1	
+Ma fille aujourd'hui tu as 11 ans tu as grandit a une vitesse grand v tu as apporter daqn ma vie pleins de bonheur javasi le coeur brisé pars certain événement tu ma refait revivre après trois prince tes trois frères tu née le 17decembre 2006 ma princesse et tu était celle de ton papa qui ne te verra plus grandir maiq	1	
+Un princesse a un carosse les chevaux et un chauffeur et le prince tu la deja	1	
+Va dormir princesse et dis la même chose à ton prince charmant sinon je débarque et ça va chauffer pour v	1	
+bref tu représente ma viiie et je te promet d'être ton prince car tu si magnifique que tu es la princesse de mon	1	
+#garçon,	fille
+Le garçon s'appelle Nicolas et la fille Mathilde  .	6	
+Mais ce que le garçon ne savait pas , c'est que la fille lui a posé ces questions pour qu'elle puisse l'entendre lui dire une dernière fois  .	4	
+Att moi jsuis la fille et toi le mec ok parceque toi t'es 4 / 5 garçon manqué et moi 3 / 4 garson manquer	1	
+Bah ouais moi aussi sauf que la y'avait cinq autres classe avec nous psq il pleuvait et en fille dans notre classe y'a Norah Chloé et Marine qui l'ont fait et en garçon Nicolas Bastien Filip Antoine Matteo Julien	1	
+Ben ses normal que tes kiffer qu'elle garçon ne kiffe pas voir le decoler d'une fille à part si il est guay	1	
+C qui t 5 meilleur amie fille et t 5 meilleur ami garçon	1	
+C qui t 5 meilleur amie fille et t 5 meilleur amie garçon  ?	1	
+Cest une fille cest pas un garçon	1	
+Coucou on a fais la deuxième écho est cest une fille cest pas un garçon	1	
+Enfin il y a de fille souple que de garçon	1	
+Es cest une fille es pas un garçon	1	
+Ha bah je sais pas moi , elle fait comme elle veut , je pense qu'elle est bi puisqu'elle m'a dit aimer les garçon mais que j'étais la première fille qu'elle aimait	1	
+Haha merci beaucoup , j'ai déjà une fille et je viens d'adopter un garçon , il est adorable , je l'aime tellement	1	
+Il a 5 fille et pas de garçon donc ya pas de 5eme garçon	1	
+Il vas s appeler thomas si c est un garçon ou si c est une fille ça sera cheyenne	1	
+Ils m'on abandonné , mais j'ai une fille de 3 ans et un garçon de 2 ans , mais pas d'amis ça veut bien dire que tout le monde me deteste  ?	1	
+J'etait exclu dans ma famille pcq j'etait la seul fille donc j'ai appris a devenir un garçon mais un vrais comme mes cousins et vers mes 11 ans ma mère ma appris a devenir une fille	1	
+Je pense qu'il n'y a pas beaucoup d'hommes fan de série Je suis une fille donc , et toi un garçon vu ton nom	1	
+Je suis une fille mais je vais me transformer en garçon	1	
+Je t'aime Mais genre je veux on fais une fille on l'apelle cindy et un garçon on l'appelle James On achète un maison on se marie	1	
+Je vois pas de ou ces incenser on a bien tous les mm objectif dans la vie et un garçon et diferent d une fille d après se que j ai compris c est tou	1	
+La fille c Ilona Perrin et le garçon chep je vais regarder et je te le dis	1	
+Le garçon et torse nu et la fille et pas nu mdr	1	
+Magali , si sais une fille bien elle sais juste toi qui est un garçon pas bien mais bon on appelle pas sa une ex lorsque on la trompe et que l'histoire a durée que quelque jour	1	
+Mais en faite je te l'ai jamais dit mais je suis née garçon et ma mère ne voulais pas d'un garçon donc je me suis fait opéré pour devenir une fille	1	
+Mais si je m'habille en garçon devant mon père je suis morte tu me revois plus même si en fille je suis pas du tout a l'aise je suus obliger d'en mettre	1	
+Mes projets chuis un bebe , après une fille , après une femme , après je travaille , je rencontre LA personne , chuis amoureuse , jme marie , jtombe enceinte , jaccouche dune fille , je retombe enceinte 2 ans plus tard et jaccouche d'un garçon voilaa	1	
+Moi c'est Roland garçon très sympa a la recherche d'une fille aussi sympa que vous l'être pour plus d'échange	1	
+Moi chuis belle en fille et peut etre t pote garçon il te trouve beau	1	
+Moi j'ai met un j'aime pour le fille part faut car Jai lu le commentaire j'ai pansé que ce le même mec as commenter j'ai pas regardé si un garçon le même ou bien une fille la moi j'ai fait une faute inconsciemment mais toi tu as supprimer la discussion consciemment et avec tas vo	1	
+Moi si j'etais un garçon mais je suis une fille	1	
+Non , c'est un autre garçon qui était avec la fille xD	1	
+Non mais les familles sont toujours avant tou , si un père voit que sa fille s'embrasse , ou juste sourit au qlq , le pauvre garçon va mourir	1	
+Normalement le plus grand amour d une fille ses son papa et d un garçon sa maman	1	
+Oui j'ai deux enfants 1 fille 18ans et 1 garçon de 11 ans  .	1	
+Pove chou et moi c'est un garçon je voulais mais j'ai eu un fille	1	
+Pove chou et moi c'est un garçon je voulais mais j'ai eu un fille mais bon pas grave quand le moment sera venu je vais essayer de faire le garçon si dieu veut	1	
+Prénom alexiaAnimal abeille Prénom de garçon ariol Prénom de fille astride Couleur acajouQuelque chose que tu porte Boisson a  .	1	
+Sa sert a quoi de la apeler Club des fille alors qui a des garçon	1	
+Si iris en fille ou emma tj préféré quoi et un garçon c toi qui choisi	1	
+Un autre garçon comme toi t'appele des fille	1	
+le garçon oui mais la fille non du coup	1	
+#neveu,	nièce
+Et aussi cado pour ma nièce et mon filleule et mon neveu aussi  !	1	
+#il,	elle
+Imagine elle va dans une famille ou il y'a un chien et il lui mange ce serait triste  .	7	
+Du coup par peur elle a tenu son bras et criée pour qu'une tatie vienne là encore il a été puni  .	6	
+Laissez la tranquille si elle veux pas vous dire avec qui elle est en couple il y a peux être une raison quand il voudront vous le dire il vous le dira donc maintenant laisser la tranquille avec sa et je veux vous dire aussi au début moi et mon gars on est reste cache et maintenant on la avoue a certainne personne et il en a qui le savent toujours pas et on veux reste cache	6	
+Je lui est demander si il restais encore une place mais elle ne me répond pas	5	
+Mdrrr jpp jiraud il est vnu dans ma chambre et il ma dit pk bertille elle me fait la gueulle mdr et jlui ai dit a cause de la banane et il a dit c'etais pas lui et jlui ai dit va lui parler il ma dit j'ai envoyer des message elle repond pas et jlui	5	
+Bas en foit jai une de mes meilleures amies elle traine plus avec certainne personne et en fait il a ma meilleure amie et mes auyre pote on en a parle eh ma meilleure amie je lui est dit que je suis de aucun cote et elle a commence a m'énerve bref en gros elle ma fait une crise de jalousie car jaitais pas de sont cote et je lui est pas dit mais je suis plus du cote de mes autre pote car j'avoue de se que ma meilleure amie ma dit cest pas une excuse	4	
+Car il voulait un bonbon et je voulais pas lui en donne donc il a tire sur ma couhette et il avait ma tablette dessus et donc ma tablette elle a voldinge parterre et sa la debouate	4	
+Cette fille avaist eu trop peur de cette homme , alors elle s'était éloigné de lui , il l'a encore plus approcher  .	4	
+Maman je c pa si les petits frères dorment donc je t'envoie un message pour te dire ke je n'aime plus Nael et pour te dire que je suis en couple avec Ethan mai ke il a dis qq chose qui n'a pas plu a jenny et donc elle essaye de faire la routine pourir ma vie	4	
+Bas en fait jai une de mes meilleures amies elle traine plus avec certainne personne et en fait il a ma meilleure amie et mes autre pote on en a parle et ma meilleure amie je lui est dit que je suis de aucun cote et elle a commence a m'énerve bref en gros elle ma fait une crise de jalousie car jaitais pas de sont cote et je lui est pas dit mais je suis plus du cote de mes autre pote car javous de se que ma meilleure amie ma dit cest pas une escuse	3	
+C'était son père , il lui demandait où était elle à cette heure ci  .	3	
+Elle est née il y a pas longtemps et elle est née à quel heure  ?	3	
+Je lui ai montrer celle ci je lui ai dit elle ai sympa celle la il m'as dit ah ouai j'aime bien  .	3	
+Je te jure ma mif elle part en couille tt le monde s'embrouille mon frère il est parti chez les flic moi je suis tt seul chez moi je stress	3	
+Merci et bonne et heureuse année 2018 pleins de bonheur ici ça va maman et avec bourge chez ma nièce elle revient le 7 pour se faire opérer du deuxième oeil et après elle part avec Paris jusqu'en fin mai , papa ça va il et en maison de retraite a st saulge	3	
+Mrc mais je veux pas foutre le bordel dans votre couple avec brice parce que vous allez trop bien ensemble et Oceane me la dit il ya 1mois mais il faut pas la croire Oceane ta son elle ma menti	3	
+Nn dsl parce que tu c quand je te dis qu'il y avait mon grand père il est venu pour nous dire que ma grand mère a eu un accident a l'usine elle a fait tomber une pièce sur sa main du coup elle est a l'hôpital mais il ya a que ma mère et mon beau perr	3	
+Ok mais t'inquiète c'est bon mon bus ne passe pas on a regarder sur internet sa dit qu il passe pas donc vue que ma mere travail elle peut pas m'emmener donc voilà bisous	3	
+Oui je pense que c'est difficile pour toi mais il te reste les bons moments que tu as passé avec elle  !	3	
+A la fin de la journée il cest poser 5 minute et son epaule elle	2	
+Alala la garce à dit à mon ex que si il fais un enfant avec moi elle le quitte	2	
+Allo stéphane il ya une fille qui travaille au cegep qui connais ta blonde elle sappele shana le	2	
+Attends je demande à ma mère avant que je te le dise parce que si ma mère elle dit non elle m'a engueulé bisous je t'aime je te dirai après mais il faut que je demande à mes parents ok bisous bisous bisous	2	
+Au faite pour ma copine , il faudra venir la chercher chez elle car son père travail et sa mère est en attelle elle peut pas conduire et elle habite a champigni	2	
+Bonjour il me reste une minette tigrée a donner elle as bientôt 3 mois	2	
+Cc ma belle sa va je te donne ke tel de ma soeur pour le koukeoo car moi je peux pas bouger mais loulou sont malade tu la contate et tu vois avec elle pour lui rapotr il y a pas de soucis j'ai vu avec elle	2	
+Cc madame masson veux paw que je vienne demain car il ma dit que si elle savais que je viendrait elle maurrais dit de reste a la maison	2	
+Ce n'est pas comme si j'étais addicte il n'est pas ma drogue , elle	2	
+Cheppa il y en avait une fini aprzs elle et la la ps 4 redemarre	2	
+Conseil même si elle est attachante , il ne faut jamais s'attacher a une diablesse  .	2	
+Coucou mon homme de ma vie a moi réveille toi bien gros bisous je t'aime plus que tout au monde mon homme de ma vie a moi on as un peu vu pour le 31 avec momo il y a moyen de le faire chez elle jusqu'a 1h du mat et après de sortir l'idéal faudrais qu'on soit 4 ou 5	2	
+Du coup elle lui a dît que il pourrait pas venir le jour de mon anniv car elle me connais pad et tout donc je vais demander a ma mère d'aller l'a bas pendant les vacances	2	
+E il m'a dit si personne ne l'a blesse elle comprendra jamais e reviendra tjrs	2	
+Et elle me laisse pas sortir ek mes amies si il ya des mecs du genres des mecs de notre age et si elle connais pas vos parents plus pire elle va plus me pas laisser  .	2	
+Et toi , lewison a fuguer elle ma parler a moi elle est partie avec sa soeur sa me stresse imagine il lui arrive un truc et ma mere a dit au cpe que j'etait malade parce que elle a cru que le cpe aller pas la croire si elle disait qu'il y avait pas de bus	2	
+Frr je t'ai pas dit ya deux gars il se sont fait balancer parce qu'il fumer de weed mais il etait de dos alors la directrice elle au pas les noms elle au que la description  .	2	
+J'aimais bien aller chez elle quand j'étais petite elle avait plein d'enfants du coup il y avait plein de jouets Ah merci ça compense le fait que je sais pas emballer	2	
+Jai dit a lalie asik noah il ta demander moi je te dirais de lui dire OUI elle ma dit je lui est dit nn car je le voit plus comme un ami	2	
+Je sais pas se qii ta dis j'ai pas vu et comme ta supprimer je pzut pas voir et avant que jaille me coucher il as dis je lui est parler hier mais elle as pas répondu	2	
+Je vais t'expliquer pourquoi je peux pas venir en fait hier j'étais censé aller voir bannisse mais du coup il a pas pu et j'ai dit à ma mère que j'allais voir aujourd'hui et elle m'a dit si bannisse il peut	2	
+La prochaine fois que ya une engueulade je film pour que vous voyez mdrr en vrai jai peur de rien sauf la fois ou mon pere ma balancer contre la porte de mon ancienne chambre et il a donner un coup de pied dedant et elle est tombee sur moi  .	2	
+Laisser la tranquille si elle veux pas dire avec qui elle est en couple il a peux etre une raison refarde moi et mon gars a certainne personne on la dit et a dautre personne on veux toujours pas le dire donc arrête de la faire chier a lui demande avec qui elle est en couple et comme en dit les plus belle relation sont toujours les relations caché car au moin il y a moins de rumeurs sinon je te souhaite tous bonheur avec ton copain	2	
+Laissez la tranquille si elle veux pas vous dire avec qui elle est en couple il y a peux être une raison quand il voudront vous le dire il vous le dira donc maintenant laisser la tranquille avec sa	2	
+Laissez la tranquille si elle veux pas vous dire avec qui elle est en couple il y a peux être une raison quand il voudront vous le dire il vous le dira donc maintenant laisser la tranquille avec sa et je veux vous dire aussi au début moi et mon gars on est reste cache et maintenant on la avoue a certainne personne et il en a qui le savent toujours pas et et on veux reste cache	2	
+Laissez la tranquille si elle veux pas vous dire avec qui elle est en couple il y a peux être une raisonquand il voudront	2	
+Ma petite toute petite perle elle va me suivre partout jusqu'à la fin si vous en voulez il reste deux mal ma fifille cets	2	
+Maman elle ta couvert psk il fait froid	2	
+Merci et bonne et heureuse année 2018 pleins de bonheur ici ça va maman et avec bourge chez ma nièce elle revient le 7 pour se faire opérer du deuxième oeil et après elle part avec Paris jusqu'en fin mai , papa ça va il et en maison de retraite avec st saulge	2	
+Nn il faut la surveiller si elle fait ded bétises	2	
+Nn qd t venu chez moi ta dit en fait imane elle kiffe un gars et il s'app rayane c juste tu t'en rapp plus	2	
+#papa,	maman
+Et puis après tout j'ai des parents divorcé non , c'est comme une garde alterner , l'école chez maman , le patron chez papa  .	3	
+si ma maman vend pétrole et mon papa vend gaz  .	3	
+Et sois Nathalie ou papa qui c'est fait passer par elle mais maman a reçu ça hier	2	
+Merci a tous et toutes d'avoir pense a moi je vous aime Merci maman je t'aime Merci papa je t'aimerai toute ma vie et que ton am	2	
+Non non , a chaque petit problème que l'enfant rencontre , la maman lui dit va voir ton papa  .	2	
+Représentation de la famille moderne pour les quartier , maman blédarde enfant métisse et visiblement y a que papa qui travaille car maman est en chaussons	2	
+12- je suis calline , joviale mais en meme temps assez timide 13- quand je serais a la maison ma maman va partir le 26 chez son papa a elle parceque sa maman ne veux pas que je vienne avec elle  !	1	
+A nike a l'avenue puis a levis et a jennyfer de grandvar et au truc sans glutten de maman et au truc de baby pour papa	1	
+Apres je dis sa je dit rien mais tu vois Frank c'était son témoin de mariage et son ami de l'armée et Bah vu qu'il est du côté a maman bah au yeux de papa cette amis a ces yeux il et de la merde c'est un connard et tout ce que tu veux	1	
+Ba on penser que maman avait passer les clé a papa	1	
+Bah pas je sais pas mais je pense pas que papa voidra il lui avec dis ce midi qu'il aimait e'core maman	1	
+Bana toultemp na un problème surtout maman un coup lbn un coup pas bon si ma sorte laba c la faute de bana mm mi t fatigué Mélissa ec son ta enfant i conney rienk crier mi koze pu ec elle aussi ma tête t ftg ec bana aster ma fine aller i trouve tjr un nafaire pou dit ma dit papa mi veut pas prend careme la diamoin lbn li oublige pas moin maman la dit le bon dieu va kok a moin ma pas fait un compte avec elle fait zote nafaire i garde pu moin	1	
+Bas je suis pas chez maman je suis hisbergue car jetait censée dormir chez papa mais cette nuit la maison à eu un incendie	1	
+Bien sur maman cas le faire même si papa a pas envie	1	
+Bisous Quentin je t'aime bisous maman je t'aime bisous papa je t'aime  !	1	
+Bonsoir papa aurait tu la gentillesse de me donner la taille de maman stp peut tu me dire genre de gilets bises	1	
+C est pour ca que ta maman disait que la voiture de ton papa etait dehors je crois	1	
+CC maman m'a dit de t'ecrire que demain Elle peut pas venir avec toi parceque papa vet pas  .	1	
+Cc maman a quetlle heure papa nous dépose  ?	1	
+Cc maman se soir on mange pas avec papa pk il a une soirée bisous	1	
+Cc maman ça va je vais voir avec papa et ce midi on va à la cafet	1	
+Cc maman ça va je vais voir avec papa et ce midi on va à la cafétéria bisous	1	
+Cc papa , pour Noël tu dois appeler maman parce qu'il y'a un soussi	1	
+Cc tatie , maman a pu parler à papa  .	1	
+Ce que ta maman na pas fait a ton papa faut pas	1	
+Ce que ta maman na pas fait a ton papa faut venir faire sa sur enfants des gens	1	
+Ce que ta maman na pas fait a ton papa faut venir faire sa sur enfants des gens les ivoiriens j'en peu plus	1	
+Cette année pour te dire a Noël je fais avec personne je part avec maman a Poitiers voir papa car la belle-mère va mal	1	
+Chez la maman de l'ex de mon papa	1	
+Coucou ma princesse , mon papa vien de m'appeler et m'a di que ce week-end c'est l'anniversaire de ma maman et que je serait chez lui que à partir du	1	
+Coucou maman je t'aime tres fort et papa aussi je vous aime  .	1	
+Coucou papa tu vas bien si oui fait un bisou a maman si non va vers maman et fait un pet	1	
+D'ailleurs il as etait surpris car papa lui a parlé du dc de maman c'était un très bon ami	1	
+Dacc au début on sera toute les deux parce que papa , mamue , papi , tata Katherine sin parti apporté les affaires pour maman	1	
+Depuis toujours tu notre maman est sur le billet de 2000 , papa sur celui de 5000 , grand mère sur celui de 500	1	
+Dit maman mi na la table larmoir un gazinière aussi si elle i veut dit papa vient traper demain	1	
+Donc c'est ton cadeau de papa et unpeu de maman	1	
+Enfaite maman a dis gentillement à papa si il pouvait atttendre avant de nous présenter Ysaline et elle lui a expliqué  .	1	
+Et Nathalie ou papa qui c'est fait passer par elle ils ont envoyer sa a maman hier aussi	1	
+Et demande a maman si elle a parlé a papa	1	
+Et la papa a bloquer la porte du centre pour pas que maman rentre	1	
+Et le pire c'est que maman voulait des explications pour Ysalinr et papa la envoyé balader  .	1	
+Et qui a foutu en plus sa merde c'est pour ça qu'on dort chez Stephe maman va rentrer à la maison et va parler avec papa et sa va dégénérer	1	
+Et ça c'est maman cochon et ça c'est papa cochon	1	
+J'ai une soeur Lola , ma maman Angela et mon papa Jérôme	1	
+J'en ai un chez mon papa et un chez ma maman	1	
+Je crois quils sont au courant papa ma ajouter et maman je la cherche	1	
+Je sais pas encore dire car la maman poil cour et papa poil long surm	1	
+Je suis désolé pour toi ta maman n'a pas changé et ton papa il va bien mais toi et laurence vous n avez pas changer non plus ont au quelque année de plus mais ont ne changent pas trop	1	
+Je te promets sur la tête de terrain de caramel de ma de ma maman tu es mon papa puisse façon tout le monde à tout le monde aller à Sancerre	1	
+#oncle,	tante
+C'est pas vraiment mon oncle qui habite à la garenne c'est le copain de ma tante mais pour moi c'est mon oncle	1	
+Et puis jai blessé a vie mon oncle pcq il faisait souffrir ma tante donc jai eu une mini vengeance	1	
+Je sais pas moi , ta tante , marreine , oncle	1	
+Si tu veux ça fais un moi que mon oncle est à l'hôpital pour de grave problèmes de santé et du coup ma tante qui est déjà alcoolique elle est encore plus mal et la elle est dans un coma hitilique  .	1	
+#fils,	filles
+Elle est avec mes filles et mes beau fils	1	
+Et les filles vous voulez couper les cheveux de mes fils ce week-end  ?	1	
+J'ai connu ça pendant 15 ans avec le père des filles et ça continue avec mon fils , c'est pitoyable mais c'est comme ça  .	1	
+Le père de mes filles et le père de mon fils le pire ou j'ai tenu 12 ans	1	
+Que tu es différente des autres filles sont elle a tjrs eu peur pour son fils  .	1	
+#policier,	policière
+#rare,	rarement
+#étonné,	étonnamment
+#possible,	possiblement
+#libre,	librement
+#efficace,	efficacement
+#calme,	calmement
+#occasionnel,	occasionnellement
+#typique,	typiquement
+#rare,	rarement
+#clair,	obscur
+#honnête,	malhonnête
+#convaincant,	contestable
+#connu,	inconnu
+#impressionnant,	humble
+#peut-être,	incroyablement
+#décidé,	indécis
+#cohérent,	incohérent
+#moral,	immoral
+#informé,	ignorant
+#confortable,	inconfortable
+#possible,	impossible
+Aufait je dis pa que je peux pa sortir ek toi que c impossible , sa peut etre possible apres seulment	1	
+C impossible que elle pense de moi fait des effort c pas possible	1	
+Donc reprenons depuis ce jour je ne vie qu'un bonheur avec toi je souhaite que nous poursuivons notre relation éternellement malheureusement c'est impossible mais je ferais tout pour qu'elle s'arrête le plus tard possible  .	1	
+Le problème est qu'as l'heure actuelle la société actuelle est tellement corrompu et toute cette consommation tellement ancré dans le coeur des gens ainsi que la perte des valeurs de plus en plus omniprésente que c'est quasi mission impossible L'être humain est comme sa malheureusement , c'est dans notre nature de baseReconstruire est possible car rien n'est impossible , c'est ce qu'on dis	1	
+Oui bien sur mais je ne chercher pas a en avoir une parfaite tout de suite c'est impossible mais si je peux lui faire comprendre le plus possible comment il faut faire pour que plus tard elle y arrive rapidement c'est quand mieux	1	
+#logique,	illogique
+J'espère que t'as capté que c logique que la BD soit illogique	1	
+#efficace,	inefficace
+#productif,	improductif
+#commode,	incommode
+#responsable,	irresponsable
+#agréable,	désagréable
+#délicieux,	déplaisant
+#chanceux,	malchanceux
+#informatif,	non-informatif
+#rationnel,	irrationnel
+#acceptable,	inacceptable
+#conscient,	inconscient
+#raisonnable,	déraisonnable
+#sûr,	douteux
+#certain,	incertain
+#probable,	improbable
+#mal,	pire
+Au pire tu prend les protection et tt comme sa tu te fais pas mal de sur	2	
+Ya sa pour le chenou le moins touché et pire pour l'autre mais sa me fais mal donc l'autre j'ai pas peu lever	2	
+, et entre ma mère et mon père il sentendai pas trop mal et la c'est de pire en pire  .	1	
+; non c que ca ma vrm rendu mal alors si en plus cetais toi c 10 pire	1	
+Au pire attend lundi et si tu a trop mal tu me le dira je demanderai a mon père si il lui en reste mes pour moi c un panari	1	
+Au pire cette idée est pas mal	1	
+Au pire dis-le c'est Sarah la plus belle t'inquiète ça va pas me faire du mal hein t'inquiète pas	1	
+Au pire faut dire que tu as plus mal	1	
+Au pire va sur yt marque comment recup c flammes et Voila parce-que j'explique mal	1	
+Avant tous sa tu était deja diffèrente avec moi plus la même qu'avant tu sais aussi bien que moi de quoi je parle Maïs depuis tous sa c'est encore pire qu'avant des fois j'ai du mal au te retrouver comme a une période	1	
+Bah j'ai mal mais voilà quoi ya pire	1	
+Bh heureusement que c'est pas pire deja la j'ai du mal	1	
+Bébé je reste avec toi car tu me permet de rester debout et je t'aime tellement que je te laisserai jamais mais jamais partir t ma femme et quand on seras plus grande tout vas s'arranger le collège c la pire étape de la vie même pire que les règles le lycée on est mature et on fait moin mal	1	
+C quand je tousse que ca fait mal mais là j'ai pas , mal sabelle et peut-être pire	1	
+Car elle , elle ce fout totalement de ma gueule et moi je lui parle un peu mal et elle a dit que Ct moi le pire donc je me demandais qui avait raison	1	
+Cest pire que tout a l'heure mon mal de ventre	1	
+Chui mal pour ce que j'ai fait a dey même si il a fait pire tu pense que je devais pleurer pour ca ou c'est pas grave  ?	1	
+Deja au tel j'avais grv mal mais la c pire  .	1	
+Donc , même si on est vraiment mal , on a pas le droit d'être mal car il y'a pire que nous  ?	1	
+Et comme je te dis quand tu me donnes pas de nouvelles ouais ça me fait mal mais c'est c'est pas la première fois que tu ne le fais tu me l'as tellement fait à chaque fois tu me promets que tu vas faire des efforts mais c'est pire en pire tu me donnes pas de nouvelles là ouais ça me fait mal encore un peu mais je commence	1	
+Genre tu voie quand tu me dit que tu me fais la gueule tu voie c pas sa le pire le pire c quand on se rabaisse c sa qui fait le plus mal en vrai	1	
+Haaa c'est aussi ça vraiment c'est mal partout mais être vendu coe esclave c'est pire ke la mort	1	
+Ho ca va ca aurait pu etre pire trkl apres pour toi ca a du faire hyper mal et tout mais ca va crois moi	1	
+Ho ca va ca aurait pu etre pire trkl apres pour toi ca a du faire hyper mal et tout mais ca va crois moi moi jai eu bien pire mais javoue ton pere deja tape une fille qui plus est sa propre fille qui est jeune franchement cest un gros batard	1	
+Je sais pas comment je vais réagir en le revoyant et sa pourrai etre encore pire et nous faire encore plus mal alors je préfère qu'on prenne nos distances pour ensuite reprendre tout à zéro et redevenir de bon amis	1	
+Je sais si je ten avais parle un moment jai eu mal au coeur et au foie bas la sa recommence mes cest pire car sa me donne envie de vomir	1	
+Je suis la pire des menteuse Fo pas me croire voyons tu va tourne mal	1	
+Je veut que tu te soigne pck déjà sa me met mal de savoir que c pire	1	
+Jsp j'ai eu mal toutr la journée maus ce soir c pire pcq Théo il a tapé sur mon genou et que Evan c un fdp	1	
+Le mal se crâne et pire que tout ta l'heure	1	
+Le mec que tu à vue avec moi sur les photos c etait le pire connard il ma fait du mal un truc de fou et sa me fait devenir plus méfiante et cruelle avec les hommes	1	
+Le pire c que jai mal	1	
+Le pire c'est ce foutre de la gueule de sa meilleure amie ou parler mal a sa meilleure amie  ?	1	
+Le pire c'est que j'ai mal ou j'ai une couronne déja	1	
+Le pire c'est que je l'aime encore malgré le mal qu'il m'a fait	1	
+Le pire c'est que je suis sur que ca doit faire trop mal	1	
+Le pire pour l instant c est le mal de tête courage à toi  .	1	
+Lé pire de se que sa me fait le plus mal c'est qu'il me dise je resebt plus rien	1	
+Mais c'était deja pas super hier entre eux vu ce qu'il m'a dit et comment etais Rachel au téléphone , mais là il dit que ça va encore pire , j'ai du mal comment ça peut etre pire	1	
+Mi koner pa mi koner que mi ressen ali et que mi pleurr kan mi pense que mi pe pa grdee ali i f mal amoin c la pire de souffrance	1	
+Nn tkp j'ai juste du mal et mon pere c'est encore pire ma belle mere ma dit que sa fesais depuis six heure qu'il es dehors meilleure	1	
+Oh dsl monsieur ma fait du mal comme un des pire sallopar et je devrais être bien a Bah dsl si je suis pas bien car le mec que j'aime plus que tout me fait du mal alors que je suis sincère avec lui bah Nn dsl avec toi je devrai etre plutôt bien en mode tout va bien et en mode j'en et rien a foutre dsl d'être pas dans le même etas que toi	1	
+Oue tkt j'ai connu pire et pis ca fait mal que quand on me marche dessus c'est a dire assez souvent au lycée	1	
+Sa doit mal se passer au boulot et il rentre totalement vénère et fait la pire chose qu'il puisse faire , franchement ne pas être chez toi doit te faire du bien	1	
+Si cela ce passe mal chez elle parle en a ton père surtout , il t'ecoutera et au pire s'il te croit pas tu peux lui dire de m'appeler  .	1	
+Sinon tu fais comme toutes les pestes tu pecho un riche et puis tu te fais d'autres mecs à côté ou alors tu la joues pire et tu le marie puis tu divorce et tu auras pas mal de son arge	1	
+Tkt c'est pour toi et au pire il dis que sa se passe mal dan	1	
+Tu sais que tous les jours je me fait frapper au college mes aujourd'hui a ere le pire je me suis fait frapper beaucoup boucoup j'ai mal partoue j'e	1	
+Tu sais que tous les jours je me fait frapper au college mes aujourd'hui a ere le pire je me suis fait frapper beaucoup boucoup j'ai mal partoue j'en ai mar mrc elle ma appelle	1	
+au pire abandonne moi sa nous fera mal une fois pour toute	1	
+#bien,	meilleur
+Cv t passer dans mes meilleur ami snap fin t la dernière mais t'y est c trop bien	2	
+Ah et bin tu vois pq ses lui pour lui je suis son meilleur ami et que ses pas réciproque Parseque nathan je l'aime bien mais des quo fais le mec la ses plus possible	1	
+Alors tu veux être mon potes même si ont l'ai déjà ou mon meilleur potes puis on verra bien ce qui se passe	1	
+Alors tu veux être mon potes même si ont l'ai déjà ou mon meilleur potes puis on verra bien ce qui se passe dans le futur	1	
+Amandine parache obligatrice de meilleur ami qui a bien tourner	1	
+Ba t le 14 110eme meilleur au monde c bien nan  ?	1	
+Bah il préfère Charlotte maintenant ma meilleure amie et je crois bien que mon autre meilleure ami que je pensais qu'il était vraiment le vrai meilleur ami , est en train de la préféré à moi	1	
+Bah je vais pas bien le prendre vu que c'était mon meilleur pote et qu'il m'a pas répondu pendant 8 mois	1	
+Boire sava , mais tu me donne un truc a fumer laiss tomber , c'était grave bien frérot t'es le meilleur	1	
+Bonne anniversaire au meilleur des cousin du monde je t aime tu me manque profite bien de ta journée gros bisous	1	
+C pour dire apres moi voila bien sur c pas comme si que jlui disais t mon premier meilleur amis jtm nanzninanaznz	1	
+Ca va c'était bien mais c'était pas le meilleur truc de ma vie	1	
+Cc comment sava vous tout meilleur voeux et bonne année nous sava bien on se vera pour boire un café bisous	1	
+En ses emilie la meilleur de la série donc ses trop bien si elle est maman avc alison	1	
+Et que j'avais pas envie de donner des gateaux a loulou parce que chui pas bien et apres elle va rigoler avec son meilleur ami jimy	1	
+Evidemment je te souhaite le meilleur et surtout profite bien  !	1	
+Ha , c'est simpa quand même amuse toi bien Moi j'ai une soirée de prévu avec mon meilleur pote	1	
+Hors quand ça va pas je m'inquiète pour toi , surtout quand tu veux pas en parler , et tu sais tres bien que tu es mon meilleur ami et que je tiens beaucoup à toi , alors ne dit pas de tels choses  .	1	
+Il n'y as pas besoin de ce connaître pour etre meilleur ami quand on est meilleur ami c'est qu'on s'entend super bien avec la personne et qu'on rigole bien avec cette personne	1	
+J'ai mon meilleur amis qui veux bien passer commandes a condition qu'il ya est le dernier maillot de st etienne  !	1	
+Je lui ai dit qu'il comptait beaucoup pour moi , qu'il etait là quand ça allait pas et que c'etait mon meilleur ami , et que c'etait pour ça que gt pas bien parce que j'avais peur de le perde	1	
+Je ne l'ai connais pas toute Moi je n'ai pas dit je vous adore j'ai bien dit je vous souhaite tout le meilleur	1	
+Je veux dire tu pourrais etre un meilleur archange en faisant le bien et tu ne retournerais plus dans ta cage je sais ce que sa fais d'être enfermé d'un coter on est pareille	1	
+Je vous prie de bien vouloir accepter les plus plates excuses mon cher meilleur ami	1	
+Juste pour prevenir demain je serai chez mon meilleur encore , mais j'ai sa co que bien	1	
+Luna je sais bien mais je crois en toi et pour moi tu sera toujours le meilleur	1	
+Mais de toute facon elle est avec arthur et a mon avis encore longtemps pour l'instant chui content de l'avoir comme meilleur amie et c'est deja bien pour moi	1	
+Mais je vais bien réfléchir sur le meilleur concept pour exploiter ces voitures	1	
+Mangue ananas fraise cerise tu sens bien les gout et au dernièr moment bien la cerise c'est trop bon le meilleur arizona	1	
+Maos si je suis le meilleur des cadeaux boss bien bisous	1	
+Meeciii ke bien de perdre ma meilleur amie laa	1	
+Meilleur économie meilleur stabilité financière travail pour les jeunes bien sur sa fait rêver quand on net depuis nombreuse année dans un pays commender par un dictateur  !	1	
+Merci beaucoup mon amour tu a tout ta fait raison mon amour et pour l'instant sans le vouloir je te désoi et j'en suis vraiment désolé mon amour je ne veux vraiment pas t'inflicher sa mon amour surtout que tu es le meilleur j'ai jamais été aussi bien avec quelqu'un mais je sais pas pourquoi il faut toujours que je gache tout avec mon comportement  .	1	
+Normal il est grave bien continue tes le meilleur	1	
+Oui , mes Kim elle recale mais j'en connais se soir sa va trop forcer et je sais que la se soir Kim va se bien bringuer car ya son meilleur ami ya quel que cop a elle et tout ils sont entre 12 et 15 se soir je crois	1	
+Pour reparler de Xenoblade 1 , j'aimerais bien ptdr , pour ceux qui l'ont finis psk si xenoblade 2 est meilleur , on en parleras plus bcp-Savoir si qqn à réussis le 100-Si vous avez trouvés les arts cachés de monado-Vos perso préférés-Quel passage vous avez préféré-Si vous avez étés retournés pr la fin  .	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story ca me donnais trop faim @keenvsurinsta	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story je peux dire que ca donne faim la bisous @keenv	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story je peux dire que ca donne faim la bisous @keenvsurinsta mv	1	
+Quand y a des problèmes avec Marc je suis la quand elle est pas bien je suis la je serait toujours la et elle sais très bien que je ne serait jamais que son autre pute de meilleur ami la meuf a alex	1	
+Que tu hésité de savoir si c bien de lui ou de son meilleur ami mdr	1	
+Si ca va c juste sa me fait un peu bizard pcq lea a l epoque elle m appelais comme sa quand elle me considerait comme son meilleur pote c pour sa , mais sinon si ca va j'm bien	1	
+Ta dit jfai ma vie donc c bien avk avec ton meilleur ton cousin	1	
+Trop bien Mercii t me meilleur frère du monde	1	
+Trop la mon mélange c red aster menthe glacée mais j'avais plus assez de menthe glacée dcp on s'en presque pas mais le meilleur c red aster heisenberg si tu fais bien le dosage	1	
+c'est bien la vérité un monde meilleur là où les animaux il ne souffre pas je partage	1	
+dsl de t'avoir quiter mais chui pas bien quand on etait ensemble on devien meilleur amie comme avant	1	
+le jeune vampire qui ne chercher pour l'instant cas boire du sang bouge legerement sallongeant sur la jeune fille pour avoir une meilleur prise pour le sang , dans ses mouvement pour bien sinstaller il avait une jambe entre les celle de la fille comme elle aussi avait jambe entre celle du garcon , il continuer donc de boire mais cette fois il masser legerement le sein qu'il morder ceux qui fesait arriver encore plus vite le sang	1	
+mdrr broly il est bien que parce que ol fais des dégâts à tt les ennemis , le meilleur LR sur la glb c'est gohan	1	
+notre réconciliation et quand on dansais ensembles j'étais vraiment bien dans tes bras Le meilleur cetait quand tu me prenais les mains par derrière et qd Tu me touchais le ventre	1	
+#mal,	pire
+Au pire tu prend les protection et tt comme sa tu te fais pas mal de sur	2	
+Ya sa pour le chenou le moins touché et pire pour l'autre mais sa me fais mal donc l'autre j'ai pas peu lever	2	
+, et entre ma mère et mon père il sentendai pas trop mal et la c'est de pire en pire  .	1	
+; non c que ca ma vrm rendu mal alors si en plus cetais toi c 10 pire	1	
+Au pire attend lundi et si tu a trop mal tu me le dira je demanderai a mon père si il lui en reste mes pour moi c un panari	1	
+Au pire cette idée est pas mal	1	
+Au pire dis-le c'est Sarah la plus belle t'inquiète ça va pas me faire du mal hein t'inquiète pas	1	
+Au pire faut dire que tu as plus mal	1	
+Au pire va sur yt marque comment recup c flammes et Voila parce-que j'explique mal	1	
+Avant tous sa tu était deja diffèrente avec moi plus la même qu'avant tu sais aussi bien que moi de quoi je parle Maïs depuis tous sa c'est encore pire qu'avant des fois j'ai du mal au te retrouver comme a une période	1	
+Bah j'ai mal mais voilà quoi ya pire	1	
+Bh heureusement que c'est pas pire deja la j'ai du mal	1	
+Bébé je reste avec toi car tu me permet de rester debout et je t'aime tellement que je te laisserai jamais mais jamais partir t ma femme et quand on seras plus grande tout vas s'arranger le collège c la pire étape de la vie même pire que les règles le lycée on est mature et on fait moin mal	1	
+C quand je tousse que ca fait mal mais là j'ai pas , mal sabelle et peut-être pire	1	
+Car elle , elle ce fout totalement de ma gueule et moi je lui parle un peu mal et elle a dit que Ct moi le pire donc je me demandais qui avait raison	1	
+Cest pire que tout a l'heure mon mal de ventre	1	
+Chui mal pour ce que j'ai fait a dey même si il a fait pire tu pense que je devais pleurer pour ca ou c'est pas grave  ?	1	
+Deja au tel j'avais grv mal mais la c pire  .	1	
+Donc , même si on est vraiment mal , on a pas le droit d'être mal car il y'a pire que nous  ?	1	
+Et comme je te dis quand tu me donnes pas de nouvelles ouais ça me fait mal mais c'est c'est pas la première fois que tu ne le fais tu me l'as tellement fait à chaque fois tu me promets que tu vas faire des efforts mais c'est pire en pire tu me donnes pas de nouvelles là ouais ça me fait mal encore un peu mais je commence	1	
+Genre tu voie quand tu me dit que tu me fais la gueule tu voie c pas sa le pire le pire c quand on se rabaisse c sa qui fait le plus mal en vrai	1	
+Haaa c'est aussi ça vraiment c'est mal partout mais être vendu coe esclave c'est pire ke la mort	1	
+Ho ca va ca aurait pu etre pire trkl apres pour toi ca a du faire hyper mal et tout mais ca va crois moi	1	
+Ho ca va ca aurait pu etre pire trkl apres pour toi ca a du faire hyper mal et tout mais ca va crois moi moi jai eu bien pire mais javoue ton pere deja tape une fille qui plus est sa propre fille qui est jeune franchement cest un gros batard	1	
+Je sais pas comment je vais réagir en le revoyant et sa pourrai etre encore pire et nous faire encore plus mal alors je préfère qu'on prenne nos distances pour ensuite reprendre tout à zéro et redevenir de bon amis	1	
+Je sais si je ten avais parle un moment jai eu mal au coeur et au foie bas la sa recommence mes cest pire car sa me donne envie de vomir	1	
+Je suis la pire des menteuse Fo pas me croire voyons tu va tourne mal	1	
+Je veut que tu te soigne pck déjà sa me met mal de savoir que c pire	1	
+Jsp j'ai eu mal toutr la journée maus ce soir c pire pcq Théo il a tapé sur mon genou et que Evan c un fdp	1	
+Le mal se crâne et pire que tout ta l'heure	1	
+Le mec que tu à vue avec moi sur les photos c etait le pire connard il ma fait du mal un truc de fou et sa me fait devenir plus méfiante et cruelle avec les hommes	1	
+Le pire c que jai mal	1	
+Le pire c'est ce foutre de la gueule de sa meilleure amie ou parler mal a sa meilleure amie  ?	1	
+Le pire c'est que j'ai mal ou j'ai une couronne déja	1	
+Le pire c'est que je l'aime encore malgré le mal qu'il m'a fait	1	
+Le pire c'est que je suis sur que ca doit faire trop mal	1	
+Le pire pour l instant c est le mal de tête courage à toi  .	1	
+Lé pire de se que sa me fait le plus mal c'est qu'il me dise je resebt plus rien	1	
+Mais c'était deja pas super hier entre eux vu ce qu'il m'a dit et comment etais Rachel au téléphone , mais là il dit que ça va encore pire , j'ai du mal comment ça peut etre pire	1	
+Mi koner pa mi koner que mi ressen ali et que mi pleurr kan mi pense que mi pe pa grdee ali i f mal amoin c la pire de souffrance	1	
+Nn tkp j'ai juste du mal et mon pere c'est encore pire ma belle mere ma dit que sa fesais depuis six heure qu'il es dehors meilleure	1	
+Oh dsl monsieur ma fait du mal comme un des pire sallopar et je devrais être bien a Bah dsl si je suis pas bien car le mec que j'aime plus que tout me fait du mal alors que je suis sincère avec lui bah Nn dsl avec toi je devrai etre plutôt bien en mode tout va bien et en mode j'en et rien a foutre dsl d'être pas dans le même etas que toi	1	
+Oue tkt j'ai connu pire et pis ca fait mal que quand on me marche dessus c'est a dire assez souvent au lycée	1	
+Sa doit mal se passer au boulot et il rentre totalement vénère et fait la pire chose qu'il puisse faire , franchement ne pas être chez toi doit te faire du bien	1	
+Si cela ce passe mal chez elle parle en a ton père surtout , il t'ecoutera et au pire s'il te croit pas tu peux lui dire de m'appeler  .	1	
+Sinon tu fais comme toutes les pestes tu pecho un riche et puis tu te fais d'autres mecs à côté ou alors tu la joues pire et tu le marie puis tu divorce et tu auras pas mal de son arge	1	
+Tkt c'est pour toi et au pire il dis que sa se passe mal dan	1	
+Tu sais que tous les jours je me fait frapper au college mes aujourd'hui a ere le pire je me suis fait frapper beaucoup boucoup j'ai mal partoue j'e	1	
+Tu sais que tous les jours je me fait frapper au college mes aujourd'hui a ere le pire je me suis fait frapper beaucoup boucoup j'ai mal partoue j'en ai mar mrc elle ma appelle	1	
+au pire abandonne moi sa nous fera mal une fois pour toute	1	
+#bien,	meilleur
+Cv t passer dans mes meilleur ami snap fin t la dernière mais t'y est c trop bien	2	
+Ah et bin tu vois pq ses lui pour lui je suis son meilleur ami et que ses pas réciproque Parseque nathan je l'aime bien mais des quo fais le mec la ses plus possible	1	
+Alors tu veux être mon potes même si ont l'ai déjà ou mon meilleur potes puis on verra bien ce qui se passe	1	
+Alors tu veux être mon potes même si ont l'ai déjà ou mon meilleur potes puis on verra bien ce qui se passe dans le futur	1	
+Amandine parache obligatrice de meilleur ami qui a bien tourner	1	
+Ba t le 14 110eme meilleur au monde c bien nan  ?	1	
+Bah il préfère Charlotte maintenant ma meilleure amie et je crois bien que mon autre meilleure ami que je pensais qu'il était vraiment le vrai meilleur ami , est en train de la préféré à moi	1	
+Bah je vais pas bien le prendre vu que c'était mon meilleur pote et qu'il m'a pas répondu pendant 8 mois	1	
+Boire sava , mais tu me donne un truc a fumer laiss tomber , c'était grave bien frérot t'es le meilleur	1	
+Bonne anniversaire au meilleur des cousin du monde je t aime tu me manque profite bien de ta journée gros bisous	1	
+C pour dire apres moi voila bien sur c pas comme si que jlui disais t mon premier meilleur amis jtm nanzninanaznz	1	
+Ca va c'était bien mais c'était pas le meilleur truc de ma vie	1	
+Cc comment sava vous tout meilleur voeux et bonne année nous sava bien on se vera pour boire un café bisous	1	
+En ses emilie la meilleur de la série donc ses trop bien si elle est maman avc alison	1	
+Et que j'avais pas envie de donner des gateaux a loulou parce que chui pas bien et apres elle va rigoler avec son meilleur ami jimy	1	
+Evidemment je te souhaite le meilleur et surtout profite bien  !	1	
+Ha , c'est simpa quand même amuse toi bien Moi j'ai une soirée de prévu avec mon meilleur pote	1	
+Hors quand ça va pas je m'inquiète pour toi , surtout quand tu veux pas en parler , et tu sais tres bien que tu es mon meilleur ami et que je tiens beaucoup à toi , alors ne dit pas de tels choses  .	1	
+Il n'y as pas besoin de ce connaître pour etre meilleur ami quand on est meilleur ami c'est qu'on s'entend super bien avec la personne et qu'on rigole bien avec cette personne	1	
+J'ai mon meilleur amis qui veux bien passer commandes a condition qu'il ya est le dernier maillot de st etienne  !	1	
+Je lui ai dit qu'il comptait beaucoup pour moi , qu'il etait là quand ça allait pas et que c'etait mon meilleur ami , et que c'etait pour ça que gt pas bien parce que j'avais peur de le perde	1	
+Je ne l'ai connais pas toute Moi je n'ai pas dit je vous adore j'ai bien dit je vous souhaite tout le meilleur	1	
+Je veux dire tu pourrais etre un meilleur archange en faisant le bien et tu ne retournerais plus dans ta cage je sais ce que sa fais d'être enfermé d'un coter on est pareille	1	
+Je vous prie de bien vouloir accepter les plus plates excuses mon cher meilleur ami	1	
+Juste pour prevenir demain je serai chez mon meilleur encore , mais j'ai sa co que bien	1	
+Luna je sais bien mais je crois en toi et pour moi tu sera toujours le meilleur	1	
+Mais de toute facon elle est avec arthur et a mon avis encore longtemps pour l'instant chui content de l'avoir comme meilleur amie et c'est deja bien pour moi	1	
+Mais je vais bien réfléchir sur le meilleur concept pour exploiter ces voitures	1	
+Mangue ananas fraise cerise tu sens bien les gout et au dernièr moment bien la cerise c'est trop bon le meilleur arizona	1	
+Maos si je suis le meilleur des cadeaux boss bien bisous	1	
+Meeciii ke bien de perdre ma meilleur amie laa	1	
+Meilleur économie meilleur stabilité financière travail pour les jeunes bien sur sa fait rêver quand on net depuis nombreuse année dans un pays commender par un dictateur  !	1	
+Merci beaucoup mon amour tu a tout ta fait raison mon amour et pour l'instant sans le vouloir je te désoi et j'en suis vraiment désolé mon amour je ne veux vraiment pas t'inflicher sa mon amour surtout que tu es le meilleur j'ai jamais été aussi bien avec quelqu'un mais je sais pas pourquoi il faut toujours que je gache tout avec mon comportement  .	1	
+Normal il est grave bien continue tes le meilleur	1	
+Oui , mes Kim elle recale mais j'en connais se soir sa va trop forcer et je sais que la se soir Kim va se bien bringuer car ya son meilleur ami ya quel que cop a elle et tout ils sont entre 12 et 15 se soir je crois	1	
+Pour reparler de Xenoblade 1 , j'aimerais bien ptdr , pour ceux qui l'ont finis psk si xenoblade 2 est meilleur , on en parleras plus bcp-Savoir si qqn à réussis le 100-Si vous avez trouvés les arts cachés de monado-Vos perso préférés-Quel passage vous avez préféré-Si vous avez étés retournés pr la fin  .	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story ca me donnais trop faim @keenvsurinsta	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story je peux dire que ca donne faim la bisous @keenv	1	
+Profites bien Mdrr hier je regardais le meilleur patissier et en même temps ta story je peux dire que ca donne faim la bisous @keenvsurinsta mv	1	
+Quand y a des problèmes avec Marc je suis la quand elle est pas bien je suis la je serait toujours la et elle sais très bien que je ne serait jamais que son autre pute de meilleur ami la meuf a alex	1	
+Que tu hésité de savoir si c bien de lui ou de son meilleur ami mdr	1	
+Si ca va c juste sa me fait un peu bizard pcq lea a l epoque elle m appelais comme sa quand elle me considerait comme son meilleur pote c pour sa , mais sinon si ca va j'm bien	1	
+Ta dit jfai ma vie donc c bien avk avec ton meilleur ton cousin	1	
+Trop bien Mercii t me meilleur frère du monde	1	
+Trop la mon mélange c red aster menthe glacée mais j'avais plus assez de menthe glacée dcp on s'en presque pas mais le meilleur c red aster heisenberg si tu fais bien le dosage	1	
+c'est bien la vérité un monde meilleur là où les animaux il ne souffre pas je partage	1	
+dsl de t'avoir quiter mais chui pas bien quand on etait ensemble on devien meilleur amie comme avant	1	
+le jeune vampire qui ne chercher pour l'instant cas boire du sang bouge legerement sallongeant sur la jeune fille pour avoir une meilleur prise pour le sang , dans ses mouvement pour bien sinstaller il avait une jambe entre les celle de la fille comme elle aussi avait jambe entre celle du garcon , il continuer donc de boire mais cette fois il masser legerement le sein qu'il morder ceux qui fesait arriver encore plus vite le sang	1	
+mdrr broly il est bien que parce que ol fais des dégâts à tt les ennemis , le meilleur LR sur la glb c'est gohan	1	
+notre réconciliation et quand on dansais ensembles j'étais vraiment bien dans tes bras Le meilleur cetait quand tu me prenais les mains par derrière et qd Tu me touchais le ventre	1	
+#Thaïlande,	Thaïlandais
+#Inde,	Indien
+#Portugal,	Portugais
+#Bélarus,	Biélorusse
+#Suède,	Suédois
+#Espagne,	Espanol
+#Mexique,	Mexicain
+#Brésil,	Brésilien
+#Chine,	Chinois
+#Pérou,	Péruvien
+#Argentine,	Argentin
+#Corée,	Coréen
+#Egypte,	Egyptien
+#Ukraine,	Ukrainien
+#Australie,	Australien
+#Russie,	Russe
+#Japon,	Japonais
+#Cambodge,	Cambodgien
+#Grèce,	Grec
+#Pays-Bas,	Néerlandais
+#Angleterre,	Anglais
+#Pologne,	Polonais
+#Irlande,	Irlandais
+#Slovaquie,	Slovaque
+#Albanie,	Albanais
+#Chili,	Chilien
+#Allemagne,	Allemand
+#L'Autriche,	Autrichien
+#Italie,	Italien
+#Norvège,	Norvégien
+#Suisse,	Suisse
+#Malte,	Maltais
+#Israël,	Israélien
+#Moldavie,	Moldave
+#Colombie,	Colombien
+#Bulgarie,	Bulgare
+#Macédoine,	Macédonien
+#Croatie,	Croate
+#Danemark,	Danois
+#Islande,	Islandais
+Le gars la Robert Spencer , et bah il est allé en Islande il s'est fait empoisonner par un Islandais	1	
+#France,	Français
+A se que je sache la France et pour le Français pas pour les gitan ou arabe	1	
+Sauf que la France c'est un bordel de putes slovaques donc soit vous vous comportez comme des Français et vous arrêtez de vous mentir soit votre humanisme de bolcheviks va nous mener à la guerre civile généralisée  .	1	
+#couleur,	couleurs
+Enfaite c'est un melange de couleur tu dit mais si je fait blanc ont peux melanger des couleurs c'est sa  ?	1	
+Je ne trouve pas la couleur qu'on a trouvé donc je vais regarder les autres couleurs	1	
+Les couleurs naturelles ne font jamais la couleur petante comme je veux	1	
+Lilou tu colorie de la même couleur celles qui ont PAS fusionnées et de pleins d'autres couleurs celle qui ont Fusionnées	1	
+Mdr bah comme d'hab du maquillage du vernis je pense que tu connais mes goûts en couleur pour tout ce qui est rouge à lèvres quelque chose d'assez nude et pour les angles n'importe quelle couleur sauf du bleu et du vert du jaune violet fin des jolies couleurs quoi pour le reste je pense que tu connais quand même assez mes boules en terme de couleur voilà voilà	1	
+Par contre la je cherche les couleurs je vais essayer de trouver la couleur que nous avons choisi	1	
+T'as une préférence sur la couleur je sais pas si il reste toute les couleurs mais y avait blanc , bleu , rouge et vert et peut être d'autre que j'ai pas vue	1	
+#rêve,	rêves
+Fait de ta vie un rêve et de tes rêves une réalité	2	
+A demain mon chéri moi aussi je taime toi aussi fait de beaux rêves mon ange pense a moi pendant la nuit rêve de moi surtout mon ange gardien	1	
+Bah moi je ss une gamine de 5 ans dans ma tête donc je rêve tu as briser tt mes rêves la	1	
+Bonne nuit mon amour rêve de moi pour une fois pck je fais toujours des rêves de toi mais toi hein c'est pas juste  .	1	
+Fait de très très beau et joli rêve mon coeur bisous je t'aime fort et rêves de moi surtout	1	
+Les rêves sont tellement beaux que je ne me souviens plus , plus le rêve est beau et doux moins on s'en souvient Au moins ça m'évite les cauchemars  .	1	
+Mais on mas dit un jour de croit en mes rêves ben je crois au rêve que jess revient je ne lâche pas prise elle fait partie de moi	1	
+Tu sais on peut pas voir tes rêves Léo , et vu que tu rêve d'avoir une bite	1	
+et j'ai rêvé de toi , ct choquant jfais que des rêves et cauchemars en ce moment et là t'es arriver dans le rêve j'ai pas compris	1	
+#mangue,	mangues
+#singe,	singes
+#aigle,	aigles
+#main,	mains
+Tarive tu tassoi tu me fait des papouilles je pose ma mains et aussi tu me prend la main et tu me caresse la main tout en étant douce	2	
+tu me prend l'arme des mains et essaye de me calmer tu appui sur la paume de ma main et Lucifer disparaît	2	
+Elle fait des calin a Sofiane la dernière fois elle a mie cest mains dans les poches a sofiane pour qmlui tenir les main plien de truc comme sa et ka je crois que je vais vraiment craqué car sa commence sérieusement a me pete les couilles	1	
+Humm taleur la quand j'attrapais la main de lynnsha pk judith regarder nos mains comme sa	1	
+Je l'espère tu passe ta main sur ma joue ta les mains froides	1	
+Mais nan mais en fait c'est pcq genre il me prenais les mains tt le long et a un moment je suis tombée dans ses bras et a un moment on sest arrêté pour attendre mon père mais comme je lui tenais les mains avant je m'en rendais pas compte mais je lui tenais encore la main	1	
+Parce que des que je te voit et que je voit tes mains j'ai qu'une envi c mettre ta main dans mon pantalon	1	
+Tu cest que jai une photo de toi qui tient la main a François je crois et une oui tu tien les mains a anaquine je crois	1	
+#bouteille,	bouteilles
+Rien ont parle de teinture pour cheveux je lui disais ta de la chance toi il te vaut une bouteille mes moi 3 bouteilles	1	
+#femme,	femmes
+Bisous ma femme la plus belle des femmes dans le monde	1	
+C est la journée de la femme Bonne fête a toutes les femmes	1	
+C est la journée de la femme Donc bonne fête a toutes les femmes	1	
+Donc les femmes se retrouve sans mec , sauf les femme aussi sans mec sont perdu	1	
+Il y a aussi des femmes qui ne sont pas de vrai femme elles font semblant	1	
+La femme d'un président est la présidente de tous les femmes	1	
+La journée de la femme ce comme le 31 décembre a minuit sauf que la ces seulement les femmes qui auront des messages MAIS APRÈS IL Y A QUOI	1	
+Ou les femmes quand elle vive seule elle touche femme seule au foyer et si elle ont des enfants elles ont plus d'argent	1	
+Ta mère doit être la première reine que tu dois vénérer La première princesse de ton coeurLa femme pour qui tu as été jaloux pour la première foisLa femme qui t'a fait versé tes toutes premières larmesLa femme qui a vu la première ton zizi La femme qui t'a donné ton premier baisé sur la bouche La femme que tu feras passer avant toute les autres femmes et compagnieCelle qui tout simplement t'aimera éternellement , qui sera prête à tout et même à donner sa vie s'il le faut C'est tout simplement ta mère	1	
+#melon,	melons
+#nuage,	nuages
+Moi c'est nuage de bisous c'est signe pour les nuages	1	
+#lion,	lions
+#souris,	souris
+#cochon,	cochons
+#âne,	ânes
+#machine,	machines
+#route,	routes
+Bah je crois ke gros buisson vat bientot etre une ile les routes sont tte inondes et la dernière route commence a etre inondé	1	
+Bjr Aurélien super j adore bonne route bisous et prudence sur les routes au quartier tu rencontrerai un bonhomme de neige bisous	1	
+Cest sur les routes sans tracé aux sols exemple route de campagne sur la 15 ils viennent d'en parler tm	1	
+Pc carnage sur la route des arbre déraciné et des poto électrique qui on tomber et des branche sur les routes et des pallette en p'ein millieu de la route cest bagdad	1	
+je viens d'envoyer un message a mandy pour lui dire quelle face gaffe parce que par chez elle les routes cest trop dangereux la neige a du bien tenir sur la route	1	
+#rat,	rats
+#oignon,	oignons
+#serpent,	serpents
+#voiture,	voitures
+Ont était en voiture et à une meuf elle c'est pas arrêter au stop tu gout elle à mit info stop juste devant nous à la dernier minutes Ont à freiner Mes avec la pluie mais Voiture elle à glisser tu goût un peut plus ont ce la prenez après ont arrive devant un monoprix et la ta deux voitures elle sont arrivés de je ne ses ou ou la voiture devant nous elle ses les prix	2	
+Bas c'est les nouvelles voitures ya plein de boutons dans toute les nouvelles voiture maintenant c'est comme sa lol	1	
+Jsp soit au tennis mais elles sont pas sur le vours donc peit etre sur le chemin comme jnai couru mais c possible qu'elle soit casser car les voitures peuvent rouler et tt soit danq la voiture a zoe maiq ya pas donc impossible a recupere	1	
+Nous on vas surement lui prendre sa premiere voiture téléguidé il adoooooore les voitures , on vas essayer de lui trouver un petit bureau minions biensure pour qu'il puisse faire ses petites activites tranquillement et apres je sais pas lol j'ai plus trop d'idees	1	
+SI C'est pour ceux qui veulent faire ingenieur en mécanique , voiture tous ca tu créer de nouvelles pièces ou tu créer de nouvelles voiture tous ca , tu invente de nouvelles voitures	1	
+Yavai 6 camions de pompiers 3 voitures de polices 2 ambulances 2 voiture d'inspecteurs	1	
+#bâtiment,	bâtiments
+#homme,	hommes
+Apparemment avec les hommes , c'est compliqué parce que les langues vont bon train quand un homme et une femme sont amis  .	1	
+Ben mtn tous les hommes cours derrière les gros dada maus tu be véra aucun homme avoit un gros dada comme femme ou compagne	1	
+Car je suis homme je ne vais pas dire je suis attirer par les hommes feumeur cest simple	1	
+Je ne veux pas un homme parce-que tout les hommes sont pareil	1	
+Tu es la femme d'UN homme et non la maman gentille de mille hommes	1	
+j'ai été un homme mais tu la tué cette vrais hommes  .	1	
+#ananas,	ananas
+#chat,	chats
+Jsuis trop mechante , j'ai mis des miaulements de chats et ta Pucca mon vrai chat qui regardait	2	
+2 chats et 2 chiens , mais ya un chat et une chienne qui sont a ma mère , sinon c'est à moi	1	
+Deja moi aussi je sors et j'ai le droit de rester avk mon chat chee moi toi quand t chez toi avk t chats comme une vielle aussi do'c c reciproque donc arrt de faire la meuf	1	
+Julien fesait sa avec les chats a sa mère et elle disait que fallait pas parce que pour le chat sa veut dire recommence	1	
+Parce que j'étais au chenil tu sais et il y avais des chats et des chiens il se sont frotter a moi et tout donc mon chat est jaloux et fait la gueule	1	
+Quand ta besoin de place sur ton lit et que tes obligé d'avoir un carton pour que ton chat ne se mette pas au milieu marche qu'avec des chats con ne	1	
+T petite minuscule même et aussi facile à porter vielle pour boire ta tisane et aux chats ben prcq tt en petit chat sur le bitmoji et j allais pas dire la petite vielle chatte	1	
+Vous en faites que des chats si je vous en donne je donne un petit chat trouvé	1	
+je traduis les regards des chats , je my connais mon chat il veut me tuer H 24	1	
+#oiseau,	oiseaux
+Il y as 3 oiseaux sur un fil si je tire sur un oiseau combien il y aura sur le fil  ?	1	
+#vache,	vaches
+#chèvre,	chèvres
+#cheval,	chevaux
+Derien c'est normal et t'en fait pas y a peit etre qu'un seul cheval qui nous aura changer mais il y a plein de chevaux que l'on poirra aimer sans j'amais les remplacer	1	
+J'aime bien lez chevaux mais faut qu'il y est un barrière entre le cheval et moi	1	
+J'en aï connue une aussi comme ça et qui en plus venait de perdre ses chevaux donc ni une ni deux dans le boxe du cheval aï manège Pfff triste  .	1	
+Jvai ptetre aller a Avignon au salon du cheval avec une amie a ma mes parent qui a 3 chevaux on la surnome cacahuète	1	
+Pour Noël j'ai eu 1 un post radio 2 des albums 3 un casque 4 une tablette 5 un agenda cheval 6 et enfin un livre sur les chevaux	1	
+Ta mere est allergique au chevaux mais naska c'est pas un cheval  !	1	
+Un cheval c'est jamais moche , attention a ce que tu dit j'adore les chevaux moi	1	
+range son épée siffle et 2 chevaux arrivent j'espère que tu sais monter a cheval	1	
+range son épée siffle et 2 chevaux arrivent j'espère que tu sais monter a cheval car on a une longue route a faire tu comprend que tu es dans un autre monde	1	
+#enfant,	enfants
+Merci papa d être celui que tu es pour moi ton enfant , pour nous tes enfants  .	4	
+Toi tu préfèrerai tu marier puis avoir des enfant ou avoir des enfants avant le mariage  ?	2	
+Et à 30 ans des enfants tu es malade moi je un enfant à 27 ans	1	
+Je sais que c énervant mais c des enfants , mais c vrai que c chian quand c pas ton enfant , je préfèrerais quand c mon enfant qui me cole et toi je pense que c pareil mais la on a pas le choix mamour et surtout tu na pas le choix , t'inquiète pas quand il sera partie et que j'arriverais chez moi on ce mettra tout les deux dans la	1	
+Je sais que c énervant mais c des enfants , mais c vrai que c chian quand c pas ton enfant , je préfèrerais quand c mon enfant qui me cole et toi je pense que c pareil mais la on a pas le choix mamour et surtout tu na pas le choix , t'inquiète pas quand il sera partie et que j'arriverais chez moi on ce mettra tout les deux sur la PS 3 et ca va te d'étendre oki mamour	1	
+Justement , déjà que tu souffres il ne faut pas en rajouter , j'vais le redire mais J'suis ta Eomma , et une Eomma sa a un instinct maternel de protection envers ses enfants , tu es mon fils , et quand son enfant va mal , elle le ressent et veux le protéger , tu comprends  ?	1	
+La seule chose que je veux c'est vivre avec toi avoir cette enfant avec toi partager nos vies notre amour transmettre les bonnes choses aux enfants  .	1	
+La vérité sort de la bouche des enfants et vu que je suis un petit enfant je dis vrai	1	
+Le versement c'est bien le 18 décembre ils parle pour un couple et 2 enfants mais pas pour un couple et 1 enfant fait chier	1	
+Qd tu mets que a un enfant va ça met a des enfants sur ton profil ca va de un a pludieued	1	
+Vécu mes enfants ma mère mon père et mes frères et soeur et leur enfant	1	
+#ordinateur,	ordinateurs
+#dollar,	dollars
+#banane,	bananes
+#doigt,	doigts
+Alors , je réessaye , j'ignore mes doigts qui me crie d'arrêter et je replace mes doigt sur les cordes de la lyre  .	1	
+Avec quelques doigts dans la chatte et un doigt dans le cul  ?	1	
+#chien,	chiens
+Bah nn mais je vais pas abandonner comme ca mdr jnai reussi a la convaincre pour un chien c'est pas des vacances dans un gites avec des chiens et dépassionnée comme moi qui vont me faire abandonner  !	1	
+C'est un bon harnais que si le chien marche moi je sais que jamais mon chiens auras sa	1	
+Mais me faire traiter de chien vis a vis de chiens de la casse ça passe pas	1	
+Oui généralement ce qui aide pas c'est que les gens au petit chiens panique des qu'il croise un chien plus gros	1	
+Oui tu as raison apres tout tu es un chien sauvage mais les chiens sauvages ont leurs acces de rage	1	
+Qu'il sont mignon Mon chien le plus beau et le mignon de tous les chiens , Naïko	1	
+Quand on combat auprès de chiens on devient soi même un chien , pas de pitié	1	
+Un chat n'est pas un chien , Ame n'est pas tes chiens mais les situations sont les memes Arrete de retourner la situation	1	
+ce chiens attaque les enfants et les animaux plus petit donc très beau chien mais très dangereux	1	
+#poire,	poires

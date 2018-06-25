@@ -10,6 +10,7 @@ datatype=$1
 lang=$2
 input="/user/ime/fengchaobing/dl_corpus/${datatype}/lang_divide/${lang}/part-00000"
 output="/user/ime/fengchaobing/dl_corpus/${datatype}/get_1000line/${lang}"
+echo "waiting for getting line_num......"
 line_num=`hadoop fs -cat ${input} | wc -l`
 echo "line_num : ${line_num}"
 

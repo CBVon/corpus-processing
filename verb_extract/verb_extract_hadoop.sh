@@ -16,12 +16,18 @@ input1="/user/ime/fengchaobing/dl_corpus/facebook/lang_divide/${lang}/part*"
 input2="/user/ime/fengchaobing/dl_corpus/instagram/lang_divide/${lang}/part*"
 input3="/user/ime/fengchaobing/dl_corpus/twitter/lang_divide/${lang}/part*"
 input4="/user/ime/fengchaobing/dl_corpus/dbg_pinjie/lang_divide/${lang}/part*"
+
+if [[ ${lang} == "fr" ]]
+then
+    input4="/user/ime/fengchaobing/dl_corpus/dbg_pinjie/lang_divide/frFR/part*"
+fi
+
 output="/user/ime/fengchaobing/dl_corpus/ugc_dbg/verb_extract/${lang}/"
 
 $hadoopcmd --config "$hadoopconf" fs -rmr ${output}
 $hadoopcmd --config "$hadoopconf" jar "$hstream" \
     -D mapred.job.name="verb_extract, ${lang}, fengchaobing" \
-    -D mapred.job.priority="VERY_HIGH" \
+    -D mapred.job.priority="HIGH" \
     -D mapred.map.tasks=10000 \
     -D mapred.reduce.tasks=1 \
     -D stream.num.map.output.key.fields=2 \

@@ -1,0 +1,480 @@
+1. capital-common-countries			
+Tokyo	Japan	Tokyo	Giappone
+Helsinki	Finland	Helsinki	Finlandia
+Madrid	Spain	Madrid	Spagna
+Paris	France	Parigi	Francia
+Havana	Cuba	Avana	Cuba
+Tehran	Iran	Tehran 	Iran
+Cairo	Egypt	Cairo 	Egitto
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Berna	Svizzera 
+Canberra	Australia	Camberra	Australia
+London	England	Londra	Ighilterra
+Berlin	Germany	Berlino 	Germania
+Kabul	Afghanistan	Kabul	Afghanistan
+Athens	Greece	Atene 	Grecia
+Moscow	Russia	Mosca 	Russia
+Stockholm	Sweden	Stoccolma	Svezia
+Ottawa	Canada	Ottawa	Canada
+Rome	Italy	Roma	Italia
+Hanoi	Vietnam	Hanoi 	Vietnam
+Beijing	China	Pechino	Cina
+Bangkok	Thailand	Bangkok	Tailandia
+Oslo	Norway	Oslo	Norvegia
+Baghdad	Iraq	Baghdad 	Iraq 
+2. capital-world			
+Funafuti	Tuvalu	Funafuti	Tuvalu 
+Madrid	Spain	Madrid	Spagna
+Paris	France	Parigi	Francia 
+Nassau	Bahamas	Nassau	Bahamas
+Maputo	Mozambique	Maputo 	Mozambico
+Tehran	Iran	Tehran	Iran
+Vientiane	Laos	Vientiane	Laos
+Bamako	Mali	Bamako	Mali
+Ankara	Turkey	Ankara	Turchia
+Vaduz	Liechtenstein	Vaduz	Liechtenstein 
+Asmara	Eritrea	Asmara	Eritrea 
+Roseau	Dominica	Roseau	Dominica
+Dushanbe	Tajikistan	Dusanbe 	Tagikistan 
+Sofia	Bulgaria	Sofia	Bulgaria
+Bucharest	Romania	Bucarest	Romania
+Tunis	Tunisia	Tunisi	Tunisia
+Lusaka	Zambia	Lusaka	Zambia
+Quito	Ecuador	Quito	Ecuador
+Khartoum	Sudan	Khartoum	Sudan
+Montevideo	Uruguay	Montevideo	Uruguay 
+Antananarivo	Madagascar	Antananarivo	Madagascar
+Kiev	Ukraine	Kiev	Ucraina
+Rome	Italy	Roma	Italia
+Hanoi	Vietnam	Hanoi	Vietnam 
+Damascus	Syria	Damasco	Siria
+Oslo	Norway	Oslo	Norvegia 
+Vilnius	Lithuania	Vilnius	Lituania
+Algiers	Algeria	Algeri	Algeria
+Tashkent	Uzbekistan	Tashkent	Uzbekistan
+Tokyo	Japan	Tokyo	Giappone
+Helsinki	Finland	Helsinki	Finlandia
+Dublin	Ireland	Dublino	Irlanda
+Chisinau	Moldova	Chisinau	Moldavia
+Managua	Nicaragua	Managua	Nicaragua
+Paramaribo	Suriname	Paramaribo	Suriname
+Bishkek	Kyrgyzstan	Bishkek	Kirghizistan
+Cairo	Egypt	Cairo	Egitto
+Amman	Jordan	Amman	Giordania
+Budapest	Hungary	Budapest	Ungheria
+Doha	Qatar	Doha	Qatar
+Astana	Kazakhstan	Astana	Kazakistan 
+Kabul	Afghanistan	Kabul	Afghanistan
+Monrovia	Liberia	Monrovia	Liberia
+Dhaka	Bangladesh	Dacca	Bangladesh
+Mogadishu	Somalia	Mogadishu	Somalia
+Bujumbura	Burundi	Bujumbura	Burundi
+Valletta	Malta	Valletta	Malta
+Nouakchott	Mauritania	Nouakchott	Mauritania
+Kingston	Jamaica	Kingston	Giamaica
+Beirut	Lebanon	Beirut	Libano
+Beijing	China	Pechino	Cina
+Bangkok	Thailand	Bangkok	Tailandia
+Harare	Zimbabwe	Harare	Zimbabwe 
+Muscat	Oman	Muscat	Oman
+Baghdad	Iraq	Baghdad	Iraq
+Conakry	Guinea	Conakry	Guinea
+Tallinn	Estonia	Talinn	Estonia
+Georgetown	Guyana	Georgetown	Guyana
+Taipei	Taiwan	Taipei	Taiwan
+Rabat	Morocco	Rabat	Marocco
+Yerevan	Armenia	Erevan	Armenia
+Havana	Cuba	Avana	Cuba
+Thimphu	Bhutan	Thimphu	Bhutan 
+Nuuk	Greenland	Nuuk	Groenlandia 
+Baku	Azerbaijan	Baku	Azerbaigian
+Kigali	Rwanda	Kigali	Ruanda
+Dakar	Senegal	Dakar	Senegal
+Suva	Fiji	Suva	Fiji
+Belmopan	Belize	Belmopan	Belize
+Banjul	Gambia	Banjul	Gambia
+Athens	Greece	Atene	Grecia
+Riga	Latvia	Riga	Lettonia
+Zagreb	Croatia	Zagabria	Croazia
+Skopje	Macedonia	Skopje	Macedonia
+Ashgabat	Turkmenistan	Ahgabat	Turkmenistan
+Stockholm	Sweden	Stoccolma	Svezia
+Manila	Philippines	Manila	Filippine
+Brussels	Belgium	Bruxell	Belgio
+Luanda	Angola	Luanda	Angola
+Nicosia	Cyprus	Nicosia 	Cipro
+Santiago	Chile	Santiago	Cile
+Caracas	Venezuela	Caracas	Venezuela
+Minsk	Belarus	Minsk	Bielorussia
+Tbilisi	Georgia	Tbilisi	Georgia
+Libreville	Gabon	Libreville 	Gabon
+Tegucigalpa	Honduras	Tegucigalpa	Honduras
+London	England	Londra	Ighilterra
+Vienna	Austria	Vienna	Austria 
+Warsaw	Poland	Varsavia	Polonia
+Berlin	Germany	Berlino	Germania 
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Berna	Svizzera
+Lima	Peru	Lima	Per¨´ 
+Accra	Ghana	Accra	Ghana
+Tripoli	Libya	Tripoli	Libia
+Gaborone	Botswana	Gaborone	Botswana 
+Manama	Bahrain	Manama	Bahrain
+Bratislava	Slovakia	Bratislava 	Slovacchia
+Canberra	Australia	Canberra	Australia
+Kampala	Uganda	Kampala 	Uganda
+Kathmandu	Nepal	Katmandu	Nepal
+Lisbon	Portugal	Lisbona	Portogallo
+Apia	Samoa	Apia	Samoa
+Belgrade	Serbia	Belgrado	Serbia
+Jakarta	Indonesia	Giacarta	Indonesia
+Lilongwe	Malawi	Lilongwe	Malawi
+Ljubljana	Slovenia	Lubiana	Slovenia
+Moscow	Russia	Mosca	Russia
+Tirana	Tirana	Tirana	Albania
+Ottawa	Canada	Ottawa	Canada
+Nairobi	Kenya	Nairobi	Kenia
+Copenhagen	Denmark	Copenaghen 	Danimarca
+Niamey	Niger	Niamey	Niger
+Abuja	Nigeria	Abuja	Nigeria
+Windhoek	Namibia	Windhoek 	Namibia
+Podgorica	Montenegro	Podgorica	Montenegro
+3. currency			
+Poland	zloty	Polonia	Zloty
+Brazil	real	Brasile 	Real
+Vietnam	dong	Vietnam	Dong
+Sweden	krona	Svezia	Corona svedese
+Angola	kwanza	Angola	Kwanza
+Japan	yen	Giappone 	Yen
+Mexico	peso	Messico	Peso messicano
+Latvia	lats	Lettonia	Last
+Lithuania	litas	Lituania	Litas
+Hungary	forint	Ungheria	Fiorino ungherese
+USA	dollar	USA	Dollaro
+Denmark	krone	Danimarca	Corona danese
+Armenia	dram	Armenia	Dram
+Thailand	baht	Tailandia	Baht
+Nigeria	naira	Nigeria	Anita
+Romania	leu	Romania	Leu 
+Argentina	peso	Argentina	Peso argentino
+Russia	ruble	Russia	Rublo
+Algeria	dinar	Algeria	Dinaro algerino
+Ukraine	hryvnia	Ucraina	Gravina
+Croatia	kuna	Croazia	Kuna
+Cambodia	riel	Cambogia	Riel
+Canada	dollar	Canada	Dollaro canadese
+Korea	won	Corea	Won
+Europe	euro	Europa	Euro
+Malaysia	ringgit	Malesia	Ringgit
+Iran	rial	Iran	Rial
+India	rupee	India	Rupia 
+Macedonia	denar	Macedonia	Dinaro macedone
+Bulgaria	lev	Bulgaria	Lev
+4. city-in-state			
+Wichita	Kansas	Wichita 	Kansas
+Akron	Ohio	Akron	Ohio
+Irvine	California	Irvine	California 
+Toledo	Ohio	Toledo	Ohio
+Indianapolis	Indiana	Indianapolis	Indiana 
+Denver	Colorado	Denver	Colorado
+Milwaukee	Wisconsin	Milwaukee	Wisconsin
+Reno	Nevada	Reno	Nevada
+Boston	Massachusetts	Boston	Massachusetts 
+Minneapolis	Minnesota	Minneapolis	Minnesota
+Bakersfield	California	Bakersfield	California
+Henderson	Nevada	Henderson	Nevada
+Seattle	Washington	Seattle	Washington
+Atlanta	Georgia	Atlanta	Georgia
+Chandler	Arizona	Chandler	Arizona
+Dallas	Texas	Dallas 	Texas
+Madison	Wisconsin	Madison 	Wisconsin
+Tampa	Florida	Tampa 	Florida
+Tallahassee	Florida	Tallahassee	Florida
+Irving	Texas	Irving	Txs
+Fontana	California	Fontana	California
+Anaheim	California	Anaheim	California
+Fresno	California	Fresno	California 
+Amarillo	Texas	Amarillo	Teas
+Hialeah	Florida	Hialeah	Florida
+Pittsburgh	Pennsylvania	Pittsburgh	Pennsylvania 
+Austin	Texas	Austin	Texas
+Sacramento	California	Sacramento	Calif
+Portland	Oregon	Portland	Oregon
+Glendale	California	Glandale	California
+Jacksonville	Florida	Jacksonville	Florida 
+Shreveport	Louisiana	Shreveport	Louisiana
+Lexington	Kentucky	Lexington	Kentucky
+Tulsa	Oklahoma	Tulsa	Oklahoma 
+Glendale	Arizona	Glendale 	Arizona
+Tucson	Arizona	Tucson	Arizona
+Mesa	Arizona	Mesa	Arizona
+Spokane	Washington	Spokane	Washington
+Memphis	Tennessee	Memphis	Tennessee
+Oxnard	California	Oxnard	California 
+Tacoma	Washington	Tacoma	Washington
+Lubbock	Texas	Lubbock	Texas
+Worcester	Massachusetts	Worcester	Massachusetts 
+Miami	Florida	Miami	Florida
+Cleveland	Ohio	Cleveland	Ohio
+Scottsdale	Arizona	Scottsdale	Arizona
+Louisville	Kentucky	Louisville	Kentucky
+Stockton	California	Stockton	California
+Detroit	Michigan	Detroit	Michigan 
+Phoenix	Arizona	Phoenix	Arizona
+Philadelphia	Pennsylvania	Philadelphia 	Pennsylvania 
+Huntsville	Alabama	Huntsville	Alabama
+Cincinnati	Ohio	Cincinnati	Ohio
+Honolulu	Hawaii	Honolulu	Hawaii
+Nashville	Tennessee	Nashville 	Tennessee
+Oakland	California	Oakland	California 
+Houston	Texas	Houston	Texas
+Fremont	California	Fremont	California 
+Orlando	Florida	Orlando	Florida 
+Arlington	Texas	Arlington	Texas
+Omaha	Nebraska	Omaha	Nebraska
+Laredo	Texas	Laredo	Texas
+Chicago	Illinois	Chicago	Illinois
+Baltimore	Maryland	Baltimore	Maryland
+Anchorage	Alaska	Anchorage	Alaska
+Plano	Texas	Plano	Texas
+Modesto	California	Modesto	California 
+Garland	Texas	Garland	Texas
+5. family			
+brothers	sisters	Fratelli	Sorelle
+stepfather	stepmother	Patrigno	Matrigna
+his	her	Suo	Suo
+grandson	granddaughter	Nipote	Nipote 
+man	woman	Uomo	Donna
+stepson	stepdaughter	Figliastro	Figliastra
+husband	wife	Marito	Moglie
+grandfather	grandmother	Nonno	Nonna
+groom	bride	Sposo	Sposa
+grandpa	grandma	Nonno	Nonna
+brother	sister	Fraello	Sorella
+king	queen	Re	Regina
+son	daughter	Figlio 	Figlia
+father	mother	Padre 	Madre
+prince	princess	Principe	Principessa
+boy	girl	Ragazzo	Ragazza 
+nephew	niece	Nipote	Nipote
+stepbrother	stepsister	Fratellastro	Sorellastra 
+he	she	Lui	Lei
+dad	mom	Pap¨¤ 	Mamma
+uncle	aunt	Zio	Zia
+sons	daughters	Figli	Figlie
+policeman	policewoman	Poliziotto	Poliziotta
+6. gram1-adjective-to-adverb			
+complete	completely	Completo	Completamente
+lucky	luckily	Fortunato	Fortunatamente
+quick	quickly	Veloce	Velocemente
+rare	rarely	Raro	Raramente
+amazing	amazingly	Stupendo 	Stupendamente
+possible	possibly	Possibile	Possibilmente
+unfortunate	unfortunately	Sfortunato	Sfortunatamente
+cheerful	cheerfully	Allegro	Allegramente
+most	mostly	Maggior parte	Maggiormente
+fortunate	fortunately	Fortunato	Fortunatamente
+free	freely	Libero	Liberamente
+safe	safely	Sicuro	Sicuramente
+swift	swiftly	Repentino	Repentinamente
+apparent	apparently	Apparente	Apparentemente
+efficient	efficiently	Efficiente	Efficientemente 
+rapid	rapidly	Rapido	Rapidamente
+precise	precisely	Preciso	Prcsamente
+reluctant	reluctantly	Riluttante	Riluttantemente
+serious	seriously	Serio	Seriamente
+calm	calmly	Calmo	Con calma 
+happy	happily	Felice	Felicemente
+usual	usually	Solito	Solitamente
+furious	furiously	Furioso	Furiosamente
+occasional	occasionally	Occasionale	Occasionalmente
+immediate	immediately	Immediato	Immediatamente
+professional	professionally	Professionale	Professionalmente
+obvious	obviously	Ovvio	Ovviamente
+sudden	suddenly	Improvviso	Improvvisamente
+typical	typically	Tipico	Tipicamente
+quiet	quietly	Tranquillo	Tnquillamente
+infrequent	infrequently	Infrequente	Infrequentemente
+slow	slowly	Lento	Lentamente
+7. gram2-opposite			
+clear	unclear	Chiaro	Non chiaro
+honest	dishonest	Onesto	Disonesto
+convincing	unconvincing	Convincente	Inconvincente
+competitive	uncompetitive	Competitivo	Non competitivo
+known	unknown	Conosciuto	Sconosciuto
+impressive	unimpressive	Impressionante	Insignificante
+possibly	impossibly	Possibilmente	Impossibile
+decided	undecided	Deciso	Indeciso
+consistent	inconsistent	Consistente	Inconsistente
+ethical	unethical	Etico	Immorale
+informed	uninformed	Informato	Dsinformato
+comfortable	uncomfortable	Comodo	Scomodo
+possible	impossible	Possibile	Impossibile
+logical	illogical	Logico	Illogico
+efficient	inefficient	Efficiente	Inefficiente
+productive	unproductive	Produttivo	Improduttivo
+convenient	inconvenient	Conveniente	Sconveniente 
+responsible	irresponsible	Reponsabile	Irresponsabile
+pleasant	unpleasant	Piacevole	Spiacevole
+tasteful	distasteful	Gradevole 	Sgradevole
+fortunate	unfortunate	Fortuito	Sfortunato
+informative	uninformative	Informativo	Disinformativo
+rational	irrational	Razionale	Irrazionale
+acceptable	unacceptable	Accettabile	Inaccettabile
+aware	unaware	Consapevole	Inconsapevole
+reasonable	unreasonable	Ragionevole	Irragionevole
+sure	unsure	Sicuro	Insicuro 
+certain	uncertain	Certo	Incerto 
+likely	unlikely	Probabile	Improbabile 
+8. gram3-comparative			
+low	lower	Basso	Pi¨´ basso
+old	older	Vecchio	Pi¨´ vecchio
+fast	faster	Veloce	Pi¨´ veloce
+heavy	heavier	Pesante	Pi¨´ pesante
+tight	tighter	Stretto	Pi¨´ stretto
+simple	simpler	Semplice	Pi¨´ semplice
+large	larger	Largo	Pi¨´ largo 
+hot	hotter	Caldo	Pi¨´ caldo 
+big	bigger	Grosso	Pi¨´ grosso
+tough	tougher	Duro	Pi¨´ duro
+high	higher	Alto	Pi¨´ alto
+strong	stronger	Forte	Pi¨´ forte
+bright	brighter	Luminoso	Pi¨´ luminoso
+cheap	cheaper	Economico	Pi¨´ economico
+warm	warmer	Tiepido	Pi¨´ tiepido
+young	younger	Giovane	Pi¨´ giovane
+quick	quicker	Rapido	Pi¨´ rapido
+deep	deeper	Profondo	Pi¨´ profondo
+loud	louder	Rumoroso	Pi¨´ rumoroso
+new	newer	Nuovo	Pi¨´ nuovo
+wide	wider	Vasto	Pi¨´ vasto
+bad	worse	Male	Peggio
+long	longer	Lungo	Pi¨´ lungo 
+slow	slower	Lento	Pi¨´ lento
+easy	easier	Facile	Pi¨´ facile
+short	shorter	Corto	Pi¨´ corto
+small	smaller	Piccolo	Pi¨´ piccolo
+sharp	sharper	Appuntito	Pi¨´ appuntito
+safe	safer	Sicuro	Pi¨´ sicuro
+cold	colder	Freddo	Pi¨´ freddo
+good	better	Bene	Meglio
+tall	taller	Alto	Pi¨´ alto
+weak	weaker	Debole 	Pi¨´ debole
+smart	smarter	Furbo	Pi¨´ furbo
+cool	cooler	Fresco	Pi¨´ fresco
+great	greater	Grande	Pi¨´ grande
+hard	harder	Difficile	Pi¨´ difficile
+9. gram4-superlative			
+easy	easiest	Facile	Il pi¨´ facile
+weird	weirdest	Strano	Il pi¨´ strano
+cold	coldest	Freddo	Il pi¨´ freddo
+sharp	sharpest	Appuntito	Il pi¨´ appuntito
+warm	warmest	Tiepido	Il pi¨´ tiepido
+strong	strongest	Forte	Il pi¨´ forte
+strange	strangest	Strano	Il pi¨´ strano
+low	lowest	Basso	Il pi¨´ basso
+wide	widest	Vasto	Il pi¨´ vasto
+small	smallest	Piccolo	Il pi¨´ piccolo
+cool	coolest	Fresco	Il pi¨´ fresco
+great	greatest	Grande	Il pi¨´ grande 
+hot	hottest	Caldo	Il pi¨´ caldo
+long	longest	Lungo	Il pi¨´ lungo
+weak	weakest	Debole 	Il pi¨´ debole
+simple	simplest	Semplice	Il pi¨´ semplice
+smart	smartest	Furbo	Il pi¨´ furbo
+high	highest	Alto	Il pi¨´ alto
+tall	tallest	Alto	Il pi¨´ alto
+tasty	tastiest	Gustoso	Il pi¨´ gustoso 
+young	youngest	Giovane	Il pi¨´ giovane
+bad	worst	Male	Il peggiore
+quick	quickest	Rapido	Il pi¨´ rapido
+old	oldest	Vecchio	Il pi¨´ vecchio 
+fast	fastest	Veloce	Il pi¨´ veloce
+bright	brightest	Luminoso	Il pi¨´ luminoso
+big	biggest	Grosso	Il pi¨´ grosso
+large	largest	Largo	Il pi¨´ largo
+slow	slowest	Lento	Il pi¨´ lento 
+short	shortest	Corto	Il pi¨´ corto
+good	best	Bene	Il migliore
+dark	darkest	Scuro	Il pi¨´ scuro
+lucky	luckiest	Fortunato	Il pi¨´ fortunato
+sweet	sweetest	Dolce	Il pi¨´ dolce
+10. gram6-nationality-adjective			
+Thailand	Thai	Tailandia	Tailandese
+India	Indian	India	Indiano
+Portugal	Portuguese	Portogallo	Portoghese
+Belarus	Belorussian	Bielorussia	Bielorusso
+Sweden	Swedish	Svezia	Svedese
+Spain	Spanish	Spagna	Spagnolo 
+Mexico	Mexican	Messico	Messicano
+Brazil	Brazilian	Brasile	Brasiliano
+China	Chinese	Cina	Cinese
+Peru	Peruvian	Per¨´ 	Peruviano
+Argentina	Argentinean	Argentina	Argentino
+Korea	Korean	Corea	Coreano
+Egypt	Egyptian	Egitto	Egiziano 
+Ukraine	Ukrainian	Ucraina	Ucraino 
+Australia	Australian	Australia	Australiano
+Russia	Russian	Russia	Russo
+Japan	Japanese	Giappone	Giapponese
+Cambodia	Cambodian	Cambogia	Cambogiano 
+Greece	Greek	Grecia	Greco
+Netherlands	Dutch	Olanda	Olandese
+England	English	Inghilterra 	Inglese
+Poland	Polish	Polonia	Polacco
+Ireland	Irish	Irlanda	Irlandese
+Slovakia	Slovakian	Slovacchia	Slovacco
+Albania	Albanian	Albania	Albanese
+Chile	Chilean	Cile	Cileno 
+Germany	German	Germania	Tedesco
+Austria	Austrian	Austria	Austriaco 
+Italy	Italian	Italia	Italiano
+Norway	Norwegian	Norvegia	Norvegese
+Switzerland	Swiss	Svizzera	Svizzero
+Malta	Maltese	Malta	Maltese
+Israel	Israeli	Israele	Israeliano
+Moldova	Moldovan	Moldavia 	Moldavo
+Colombia	Colombian	Colombia	Colombiano
+Bulgaria	Bulgarian	Bulgaria	Bulgaro
+Macedonia	Macedonian	Macedonia	Macedone 
+Croatia	Croatian	Croazia	Croato
+Denmark	Danish	Danimarca	Danese
+Iceland	Icelandic	Islanda	Islandese 
+France	French	Francia	Francese
+11. gram8-plural			
+color	colors	Colore	Colori
+dream	dreams	Sogno	Sogni
+mango	mangoes	Mango	Mango
+elephant	elephants	Elefante 	Elefanti
+monkey	monkeys	Scimmia	Scimmie
+eagle	eagles	Aquila	Aquile
+hand	hands	Mano	Mani
+bottle	bottles	Bottiglia	Bottiglie
+woman	women	Donna	Donne
+melon	melons	Melone	Meloni
+cloud	clouds	Nuvola 	Nuvole
+lion	lions	Leone	Leoni
+mouse	mice	Topo	Topi
+pig	pigs	Maiale	Maiali
+donkey	donkeys	Asino	Asini
+machine	machines	Macchina 	Macchine
+road	roads	Strada	Strade
+rat	rats	Ratto	Ratti
+onion	onions	Cipolla	Cipolle
+snake	snakes	Serpente	Serpenti
+car	cars	Macchina 	Macchine
+building	buildings	Palazzo	Palazzi
+man	men	Uomo 	Uomini
+pineapple	pineapples	Ananas	Ananas
+cat	cats	Gatto	Gatti
+bird	birds	Uccello 	Uccelli
+cow	cows	Mucca	Mucche
+goat	goats	Capra	Capre
+horse	horses	Cavallo	Cavalli
+child	children	Bambino	Bambini
+computer	computers	Computer	Computer
+dollar	dollars	Dollaro	Dollari 
+banana	bananas	Banana	Banane
+finger	fingers	Dito	Dita
+dog	dogs	Cane	Cani
+pear	pears	Pera	Pere

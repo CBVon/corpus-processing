@@ -1,0 +1,403 @@
+#Tokyo,	Giappone
+#Helsinki,	Finlandia
+#Madrid,	Spagna
+#Parigi,	Francia
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata √® sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A hai visto la mia macchina nuova  ?	9	
+
+#Avana,	Cuba
+#Tehran ,	Iran
+#Cairo ,	Egitto
+#Islamabad,	Pakistan
+#Berna,	Svizzera 
+#Camberra,	Australia
+#Londra,	Ighilterra
+#Berlino ,	Germania
+#Kabul,	Afghanistan
+#Atene ,	Grecia
+#Mosca ,	Russia
+#Stoccolma,	Svezia
+#Ottawa,	Canada
+#Roma,	Italia
+#Hanoi ,	Vietnam
+#Pechino,	Cina
+#Bangkok,	Tailandia
+#Oslo,	Norvegia
+#Baghdad ,	Iraq 
+#Funafuti,	Tuvalu 
+#Madrid,	Spagna
+#Parigi,	Francia 
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata √® sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A hai visto la mia macchina nuova  ?	9	
+
+#Nassau,	Bahamas
+#Maputo ,	Mozambico
+#Tehran,	Iran
+#Vientiane,	Laos
+#Bamako,	Mali
+#Ankara,	Turchia
+#Vaduz,	Liechtenstein 
+#Asmara,	Eritrea 
+#Roseau,	Dominica
+#Dusanbe ,	Tagikistan 
+#Sofia,	Bulgaria
+#Bucarest,	Romania
+#Tunisi,	Tunisia
+#Lusaka,	Zambia
+#Quito,	Ecuador
+#Khartoum,	Sudan
+#Montevideo,	Uruguay 
+#Antananarivo,	Madagascar
+#Kiev,	Ucraina
+#Roma,	Italia
+#Hanoi,	Vietnam 
+#Damasco,	Siria
+#Oslo,	Norvegia 
+#Vilnius,	Lituania
+#Algeri,	Algeria
+#Tashkent,	Uzbekistan
+#Tokyo,	Giappone
+#Helsinki,	Finlandia
+#Dublino,	Irlanda
+#Chisinau,	Moldavia
+#Managua,	Nicaragua
+#Paramaribo,	Suriname
+#Bishkek,	Kirghizistan
+#Cairo,	Egitto
+#Amman,	Giordania
+#Budapest,	Ungheria
+#Doha,	Qatar
+#Astana,	Kazakistan 
+#Kabul,	Afghanistan
+#Monrovia,	Liberia
+#Dacca,	Bangladesh
+#Mogadishu,	Somalia
+#Bujumbura,	Burundi
+#Valletta,	Malta
+#Nouakchott,	Mauritania
+#Kingston,	Giamaica
+#Beirut,	Libano
+#Pechino,	Cina
+#Bangkok,	Tailandia
+#Harare,	Zimbabwe 
+#Muscat,	Oman
+#Baghdad,	Iraq
+#Conakry,	Guinea
+#Talinn,	Estonia
+#Georgetown,	Guyana
+#Taipei,	Taiwan
+#Rabat,	Marocco
+#Erevan,	Armenia
+#Avana,	Cuba
+#Thimphu,	Bhutan 
+#Nuuk,	Groenlandia 
+#Baku,	Azerbaigian
+#Kigali,	Ruanda
+#Dakar,	Senegal
+#Suva,	Fiji
+#Belmopan,	Belize
+#Banjul,	Gambia
+#Atene,	Grecia
+#Riga,	Lettonia
+#Zagabria,	Croazia
+#Skopje,	Macedonia
+#Ahgabat,	Turkmenistan
+#Stoccolma,	Svezia
+#Manila,	Filippine
+#Bruxell,	Belgio
+#Luanda,	Angola
+#Nicosia ,	Cipro
+#Santiago,	Cile
+#Caracas,	Venezuela
+#Minsk,	Bielorussia
+#Tbilisi,	Georgia
+#Libreville ,	Gabon
+#Tegucigalpa,	Honduras
+#Londra,	Ighilterra
+#Vienna,	Austria 
+#Varsavia,	Polonia
+#Berlino,	Germania 
+#Islamabad,	Pakistan
+#Berna,	Svizzera
+#Lima,	Per®¥ 
+#Accra,	Ghana
+#Tripoli,	Libia
+#Gaborone,	Botswana 
+#Manama,	Bahrain
+#Bratislava ,	Slovacchia
+#Canberra,	Australia
+#Kampala ,	Uganda
+#Katmandu,	Nepal
+#Lisbona,	Portogallo
+#Apia,	Samoa
+#Belgrado,	Serbia
+#Giacarta,	Indonesia
+#Lilongwe,	Malawi
+#Lubiana,	Slovenia
+#Mosca,	Russia
+#Tirana,	Albania
+#Ottawa,	Canada
+#Nairobi,	Kenia
+#Copenaghen ,	Danimarca
+#Niamey,	Niger
+#Abuja,	Nigeria
+#Windhoek ,	Namibia
+#Podgorica,	Montenegro
+#Polonia,	Zloty
+#Brasile ,	Real
+#Vietnam,	Dong
+#Angola,	Kwanza
+#Giappone ,	Yen
+#Lettonia,	Last
+#Lituania,	Litas
+#USA,	Dollaro
+#Armenia,	Dram
+#Tailandia,	Baht
+#Nigeria,	Anita
+#Romania,	Leu 
+#Russia,	Rublo
+#Ucraina,	Gravina
+#Croazia,	Kuna
+#Cambogia,	Riel
+#Corea,	Won
+#Europa,	Euro
+#Malesia,	Ringgit
+#Iran,	Rial
+#India,	Rupia 
+#Bulgaria,	Lev
+#Wichita ,	Kansas
+#Akron,	Ohio
+#Irvine,	California 
+#Toledo,	Ohio
+#Indianapolis,	Indiana 
+#Denver,	Colorado
+#Milwaukee,	Wisconsin
+cMa mi chiedevo , perch√© hai scelto proprio il Wisconsin e perch√© proprio Milwaukee  ?	1	
+#Reno,	Nevada
+#Boston,	Massachusetts 
+#Minneapolis,	Minnesota
+#Bakersfield,	California
+#Henderson,	Nevada
+#Seattle,	Washington
+#Atlanta,	Georgia
+#Chandler,	Arizona
+#Dallas ,	Texas
+#Madison ,	Wisconsin
+#Tampa ,	Florida
+#Tallahassee,	Florida
+#Irving,	Txs
+#Fontana,	California
+#Anaheim,	California
+#Fresno,	California 
+#Amarillo,	Teas
+#Hialeah,	Florida
+#Pittsburgh,	Pennsylvania 
+#Austin,	Texas
+#Sacramento,	Calif
+#Portland,	Oregon
+#Glandale,	California
+#Jacksonville,	Florida 
+#Shreveport,	Louisiana
+#Lexington,	Kentucky
+#Tulsa,	Oklahoma 
+#Glendale ,	Arizona
+#Tucson,	Arizona
+#Mesa,	Arizona
+#Spokane,	Washington
+#Memphis,	Tennessee
+#Oxnard,	California 
+#Tacoma,	Washington
+#Lubbock,	Texas
+#Worcester,	Massachusetts 
+#Miami,	Florida
+#Cleveland,	Ohio
+#Scottsdale,	Arizona
+#Louisville,	Kentucky
+#Stockton,	California
+#Detroit,	Michigan 
+#Phoenix,	Arizona
+#Philadelphia ,	Pennsylvania 
+#Huntsville,	Alabama
+#Cincinnati,	Ohio
+#Honolulu,	Hawaii
+#Nashville ,	Tennessee
+#Oakland,	California 
+#Houston,	Texas
+#Fremont,	California 
+#Orlando,	Florida 
+#Arlington,	Texas
+#Omaha,	Nebraska
+#Laredo,	Texas
+#Chicago,	Illinois
+#Baltimore,	Maryland
+#Anchorage,	Alaska
+#Plano,	Texas
+#Modesto,	California 
+#Garland,	Texas
+#Fratelli,	Sorelle
+#Patrigno,	Matrigna
+#Suo,	Suo
+#Nipote,	Nipote 
+#Uomo,	Donna
+#Figliastro,	Figliastra
+#Marito,	Moglie
+#Nonno,	Nonna
+#Sposo,	Sposa
+#Nonno,	Nonna
+#Fraello,	Sorella
+#Re,	Regina
+#Figlio ,	Figlia
+#Padre ,	Madre
+#Principe,	Principessa
+#Ragazzo,	Ragazza 
+#Nipote,	Nipote
+#Fratellastro,	Sorellastra 
+#Lui,	Lei
+#Pap®§ ,	Mamma
+#Zio,	Zia
+#Figli,	Figlie
+#Poliziotto,	Poliziotta
+#Completo,	Completamente
+#Fortunato,	Fortunatamente
+#Veloce,	Velocemente
+#Raro,	Raramente
+#Stupendo ,	Stupendamente
+#Possibile,	Possibilmente
+#Sfortunato,	Sfortunatamente
+#Allegro,	Allegramente
+#Fortunato,	Fortunatamente
+#Libero,	Liberamente
+#Sicuro,	Sicuramente
+#Repentino,	Repentinamente
+#Apparente,	Apparentemente
+#Efficiente,	Efficientemente 
+#Rapido,	Rapidamente
+#Preciso,	Prcsamente
+#Riluttante,	Riluttantemente
+#Serio,	Seriamente
+#Calmo,	Con calma 
+#Felice,	Felicemente
+#Solito,	Solitamente
+#Furioso,	Furiosamente
+#Occasionale,	Occasionalmente
+#Immediato,	Immediatamente
+#Professionale,	Professionalmente
+#Ovvio,	Ovviamente
+#Improvviso,	Improvvisamente
+#Tipico,	Tipicamente
+#Tranquillo,	Tnquillamente
+#Infrequente,	Infrequentemente
+#Lento,	Lentamente
+#Onesto,	Disonesto
+#Convincente,	Inconvincente
+#Conosciuto,	Sconosciuto
+#Impressionante,	Insignificante
+#Possibilmente,	Impossibile
+#Deciso,	Indeciso
+#Consistente,	Inconsistente
+#Etico,	Immorale
+#Informato,	Dsinformato
+#Comodo,	Scomodo
+#Possibile,	Impossibile
+#Logico,	Illogico
+#Efficiente,	Inefficiente
+#Produttivo,	Improduttivo
+#Conveniente,	Sconveniente 
+#Reponsabile,	Irresponsabile
+#Piacevole,	Spiacevole
+#Gradevole ,	Sgradevole
+#Fortuito,	Sfortunato
+#Informativo,	Disinformativo
+#Razionale,	Irrazionale
+#Accettabile,	Inaccettabile
+#Consapevole,	Inconsapevole
+#Ragionevole,	Irragionevole
+#Sicuro,	Insicuro 
+#Certo,	Incerto 
+#Probabile,	Improbabile 
+#Largo,	Pi®¥ largo 
+#Caldo,	Pi®¥ caldo 
+#Male,	Peggio
+#Lungo,	Pi®¥ lungo 
+#Bene,	Meglio
+#Grande,	Il pi®¥ grande 
+#Gustoso,	Il pi®¥ gustoso 
+#Vecchio,	Il pi®¥ vecchio 
+#Lento,	Il pi®¥ lento 
+#Tailandia,	Tailandese
+#India,	Indiano
+#Portogallo,	Portoghese
+#Bielorussia,	Bielorusso
+#Svezia,	Svedese
+#Spagna,	Spagnolo 
+#Messico,	Messicano
+#Brasile,	Brasiliano
+#Cina,	Cinese
+#Per®¥ ,	Peruviano
+#Argentina,	Argentino
+#Corea,	Coreano
+#Egitto,	Egiziano 
+#Ucraina,	Ucraino 
+#Australia,	Australiano
+#Russia,	Russo
+#Giappone,	Giapponese
+#Cambogia,	Cambogiano 
+#Grecia,	Greco
+#Olanda,	Olandese
+#Inghilterra ,	Inglese
+#Polonia,	Polacco
+#Irlanda,	Irlandese
+#Slovacchia,	Slovacco
+#Albania,	Albanese
+#Cile,	Cileno 
+#Germania,	Tedesco
+#Austria,	Austriaco 
+#Italia,	Italiano
+#Norvegia,	Norvegese
+#Svizzera,	Svizzero
+#Malta,	Maltese
+#Israele,	Israeliano
+#Moldavia ,	Moldavo
+#Colombia,	Colombiano
+#Bulgaria,	Bulgaro
+#Macedonia,	Macedone 
+#Croazia,	Croato
+#Danimarca,	Danese
+#Islanda,	Islandese 
+#Francia,	Francese
+#Colore,	Colori
+#Sogno,	Sogni
+#Mango,	Mango
+#Elefante ,	Elefanti
+#Scimmia,	Scimmie
+#Aquila,	Aquile
+#Mano,	Mani
+#Bottiglia,	Bottiglie
+#Donna,	Donne
+#Melone,	Meloni
+#Nuvola ,	Nuvole
+#Leone,	Leoni
+#Topo,	Topi
+#Maiale,	Maiali
+#Asino,	Asini
+#Macchina ,	Macchine
+#Strada,	Strade
+#Ratto,	Ratti
+#Cipolla,	Cipolle
+#Serpente,	Serpenti
+#Macchina ,	Macchine
+#Palazzo,	Palazzi
+#Uomo ,	Uomini
+#Ananas,	Ananas
+#Gatto,	Gatti
+#Uccello ,	Uccelli
+#Mucca,	Mucche
+#Capra,	Capre
+#Cavallo,	Cavalli
+#Bambino,	Bambini
+
+Tieni Dragon Ball Pagliaccetti Del Bambino Appena Nato Neonati maschi Vestiti 2017 SON GOKU Roupa Bebe Halloween Neonato Abbigliamento Bambini Tuta to Clipboard from AliExpress Android Io l ho preso qui anche se non quello di dragon ball qui ci sono diverse misure di 6 ai 24 mesi  .	1	
+#Computer,	Computer
+#Dollaro,	Dollari 
+#Banana,	Banane
+#Dito,	Dita
+#Cane,	Cani
+#Pera,	Pere

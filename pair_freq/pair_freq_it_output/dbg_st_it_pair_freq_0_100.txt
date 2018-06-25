@@ -1,0 +1,102 @@
+#Tokyo,	Giappone
+#Helsinki,	Finlandia
+#Madrid,	Spagna
+#Parigi,	Francia
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata è sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A hai visto la mia macchina nuova  ?	9	
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata è sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A	1	
+#Avana,	Cuba
+#Tehran ,	Iran
+#Cairo ,	Egitto
+#Islamabad,	Pakistan
+#Berna,	Svizzera 
+#Camberra,	Australia
+#Londra,	Ighilterra
+#Berlino ,	Germania
+#Kabul,	Afghanistan
+#Atene ,	Grecia
+#Mosca ,	Russia
+#Stoccolma,	Svezia
+#Ottawa,	Canada
+#Roma,	Italia
+#Hanoi ,	Vietnam
+#Pechino,	Cina
+#Bangkok,	Tailandia
+#Oslo,	Norvegia
+#Baghdad ,	Iraq 
+#Funafuti,	Tuvalu 
+#Madrid,	Spagna
+#Parigi,	Francia 
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata è sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A hai visto la mia macchina nuova  ?	9	
+1 stavo parlando al telefono ieri , quando qualcuno ha suonato alla porta era il postino 2 conosco Peter da quando sono nata è sempre stato il mio migliore amico 3 non sono mai stata a Parigi anche se sono stata in Francia 3 volte 4 A	1	
+#Nassau,	Bahamas
+#Maputo ,	Mozambico
+#Tehran,	Iran
+#Vientiane,	Laos
+#Bamako,	Mali
+#Ankara,	Turchia
+#Vaduz,	Liechtenstein 
+#Asmara,	Eritrea 
+#Roseau,	Dominica
+#Dusanbe ,	Tagikistan 
+#Sofia,	Bulgaria
+#Bucarest,	Romania
+#Tunisi,	Tunisia
+#Lusaka,	Zambia
+#Quito,	Ecuador
+#Khartoum,	Sudan
+#Montevideo,	Uruguay 
+#Antananarivo,	Madagascar
+#Kiev,	Ucraina
+#Roma,	Italia
+#Hanoi,	Vietnam 
+#Damasco,	Siria
+#Oslo,	Norvegia 
+#Vilnius,	Lituania
+#Algeri,	Algeria
+#Tashkent,	Uzbekistan
+#Tokyo,	Giappone
+#Helsinki,	Finlandia
+#Dublino,	Irlanda
+#Chisinau,	Moldavia
+#Managua,	Nicaragua
+#Paramaribo,	Suriname
+#Bishkek,	Kirghizistan
+#Cairo,	Egitto
+#Amman,	Giordania
+#Budapest,	Ungheria
+#Doha,	Qatar
+#Astana,	Kazakistan 
+#Kabul,	Afghanistan
+#Monrovia,	Liberia
+#Dacca,	Bangladesh
+#Mogadishu,	Somalia
+#Bujumbura,	Burundi
+#Valletta,	Malta
+#Nouakchott,	Mauritania
+#Kingston,	Giamaica
+#Beirut,	Libano
+#Pechino,	Cina
+#Bangkok,	Tailandia
+#Harare,	Zimbabwe 
+#Muscat,	Oman
+#Baghdad,	Iraq
+#Conakry,	Guinea
+#Talinn,	Estonia
+#Georgetown,	Guyana
+#Taipei,	Taiwan
+#Rabat,	Marocco
+#Erevan,	Armenia
+#Avana,	Cuba
+#Thimphu,	Bhutan 
+#Nuuk,	Groenlandia 
+#Baku,	Azerbaigian
+#Kigali,	Ruanda
+#Dakar,	Senegal
+#Suva,	Fiji
+#Belmopan,	Belize
+#Banjul,	Gambia
+#Atene,	Grecia
+#Riga,	Lettonia
+#Zagabria,	Croazia
+#Skopje,	Macedonia
+#Ahgabat,	Turkmenistan
