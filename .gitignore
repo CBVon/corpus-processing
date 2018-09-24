@@ -1,4 +1,7 @@
 ugc_classify_forEn/postive_tw_feature_train.txt
 lang_detect/data/dict/ru
 lang_detect/data/dict/ug
+get_QApairs/lang_divide/data/dict/ru
+get_QApairs/lang_divide/data/dict/ug
 lang_detect/demo_forcorpus.tar.gz
+get_QApairs/lang_divide/demo_forcorpus.tar.gz
