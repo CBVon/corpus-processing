@@ -15,7 +15,7 @@ $hadoopcmd --config "$hadoopconf" fs -rmr ${output}
 $hadoopcmd --config "$hadoopconf" jar "$hstream" \
     -D mapred.job.name="lang_divide and freq_invert, ${datatype}, ${lang}, fengchaobing" \
     -D mapred.job.priority="VERY_HIGH" \
-    -D mapred.map.tasks=500 \
+    -D mapred.map.tasks=10000 \
     -D mapred.reduce.tasks=1 \
     -D stream.num.map.output.key.fields=2 \
     -D mapred.output.key.comparator.class=org.apache.hadoop.mapred.lib.KeyFieldBasedComparator   \

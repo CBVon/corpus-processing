@@ -23,20 +23,25 @@ def get_lang(lang_detect):
 
 if __name__=="__main__":
     langdict = dict()
-    """
+    
     langdict["es"] = set(["esLAT", "esUS", "es"])
     langdict["pt"] = set(["pt", "ptBR"])
     langdict["ru"] = set(["ru"])
     langdict["id"] = set(["id"])
     langdict["frfr"] = set(["frFR", "frCA", "fr"])
-    #langdict["en"] = set(["en"])
+    langdict["en"] = set(["en"])
     langdict["de"] = set(["de"])
     
     langdict["it"] = set(["it"])
     langdict["tl"] = set(["tl"])
-    """
+
+    langdict["tr"] = set(["tr"])
+    langdict["th"] = set(["th"])
+    langdict["ar"] = set(["ar"])
+    langdict["vi"] = set(["vi"])
+    
     #只针对 vk 
-    langdict["ru"] = set(["ru"])
+    #langdict["ru"] = set(["ru"])
     
     
     

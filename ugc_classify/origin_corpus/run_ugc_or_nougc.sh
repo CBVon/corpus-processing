@@ -5,7 +5,11 @@
 #python ugc_or_nougc_by_label.py vk ru
 
 #proccessing pt
-python ugc_or_nougc_by_label.py facebook pt
-python ugc_or_nougc_by_label.py instagram pt
-python ugc_or_nougc_by_label.py twitter pt
+#python ugc_or_nougc_by_label.py facebook pt
+#python ugc_or_nougc_by_label.py instagram pt
+#python ugc_or_nougc_by_label.py twitter pt
 
+#proccessing de
+python ugc_or_nougc_by_label.py facebook de
+python ugc_or_nougc_by_label.py instagram de
+python ugc_or_nougc_by_label.py twitter de

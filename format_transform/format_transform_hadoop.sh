@@ -39,7 +39,7 @@ $hadoopcmd --config "$hadoopconf" jar "$hstream" \
 	-D mapred.text.key.partitioner.options="-k1,2" \
 	-D mapred.output.key.comparator.class=org.apache.hadoop.mapred.lib.KeyFieldBasedComparator \
 	-D mapred.text.key.comparator.options="-k1,1 -k2,2" \
-	-D mapred.map.tasks=500 \
+	-D mapred.map.tasks=10000 \
 	-D mapred.reduce.tasks=100 \
     -cacheArchive hdfs://master01.zeus.hadoop.ctc.sogou-op.org:6230/user/ime/wangzehui/language_detect/demo_for_format.tar.gz#demo_for_format \
     -mapper "python ${mapperfile}" \

@@ -1,0 +1,794 @@
+#Tokyo,	Hapon
+#Helsinki,	Finland
+#Madrid,	Espanya
+#Paris,	Pransya
+#Havana,	Cuba
+#Tehran,	Iran
+#Cairo,	Ehipto
+#Islamabad,	Pakistan
+#Bern,	Suwisa
+#Canberra,	Australya
+#London,	Inglatera
+#Berlin,	Alemanya
+#Kabul,	Afghanistan
+#Atenas,	Gresya
+#Mosku ,	Rusya
+#Estokolmo ,	Suwesya
+#Ottawa,	Canada
+#Roma,	Italya
+madalang dito sa Roma kasi mababang lugar ito ng Italya  .	1	
+#Hanoi,	Biyetnam 
+#Beijing,	Tsina
+#Bangkok,	Thailand
+#Oslo,	Noruwega 
+#Baghdad,	Iraq
+#Funafuti,	Tuvalu
+#Madrid,	Espanya
+#Paris,	Pransya
+#Nassau,	Bahamas
+#Maputo,	Mozambique
+#Tehran,	Iran
+#Vientiane,	Laos
+#Bamako,	Mali
+#Ankara,	Turkiya 
+#Vaduz,	Liechtenstein
+#Asmara,	Eritrea
+#Roseau,	Dominika
+#Dushanbe,	Tajikistan
+#Sofia,	Bulgarya
+#Bukarest,	Rumanya
+#Tunis,	Tunisia
+#Lusaka,	Zambia
+#Quito,	Ecuador
+#Hartum,	Sudan
+#Montevideo,	Uruguay
+#Antananarivo,	Madagascar
+#Kiev,	Ukranya
+#Roma,	Italya
+madalang dito sa Roma kasi mababang lugar ito ng Italya  .	1	
+#Hanoi,	Biyetnam 
+#Damasco,	Syria
+#Oslo,	Noruwega 
+#Vilnius,	Litwaniya
+#Alher,	Alherya
+#Taskent,	Uzbekistan
+#Tokyo,	Hapon
+#Helsinki,	Pinlandya
+#Dublin,	Irlanda
+#Kisinau,	Moldova
+#Managua,	Nicaragua
+#Paramaribo,	Surinam
+#Biskek,	Kyrgyzstan
+#Cairo,	Ehipto
+#Aman,	Hordan
+#Budapest,	Unggarya
+#Doha,	Qatar
+#Astana,	Kazakhstan
+#Kabul,	Afghanistan
+#Monrovia,	Liberya
+#Dhaka,	Bangladesh
+#Mogadiscio,	Somalya
+#Bujumbura,	Burundi
+#Valeta,	Malta
+#Nouakchott,	Mauritanya
+#Kingston,	Hamayka
+#Beirut,	Lebanon
+#Beijing,	Tsina
+#Bangkok,	Thailand
+#Harare,	Zimbabwe
+#Maskate,	Oman
+#Baghdad,	Iraq
+#Conakry,	Ginea
+#Tallin,	Estonya
+#Georgetown,	Guyana
+#Taipei,	Taiwan
+#Rabat,	Morocco
+#Yerevan,	Armenya
+#Havana,	Cuba
+#Timbu,	Bhutan
+#Nuuk,	Greenland
+#Baku,	Azerbaijan
+#Kigali,	Rwanda
+#Dakar,	Senegal
+#Suva,	Fiji
+#Belmopan,	Belize
+#Banjul,	Gambiya
+#Atenas,	Gresya
+#Riga,	Latbiya
+#Zagreb,	Kroasya
+#Skopje,	Masedonya
+#Ashgabat,	Turkmenistan
+#Stockholm,	Suwesya
+#Manila,	Pilipinas
+Sa nenang ko po sa Manila cya ang kinukuhanan ko basta't dto po sa Pilipinas ok po	1	
+#Brussels,	Belhika
+#Luanda,	Angola
+#Nicosia,	Tsipre
+#Santiago,	Chile
+#Caracas,	Venezuela
+#Minsk,	Belarusya
+#Tbilisi,	Georgia
+#Libreville,	Gabon
+#Tegucigalpa,	Honduras
+#London,	Inglatera
+#Viena,	Austriya
+#Varsovia,	Polonya
+#Berlin,	Alemanya
+#Islamabad,	Pakistan
+#Bern,	Suwisa
+#Lima,	Peru
+#Accra,	Ghana
+#Tripoli,	Libya
+#Gaborone,	Botswana
+#Manama,	Bahrain
+#Bratislava,	Eslobakya
+#Canberra,	Australya
+#Kampala,	Uganda
+#Katmandu,	Nepal
+#Lisbon,	Portugal
+#Apia,	Samoa
+#Belgrado,	Serbiya
+#Jakarta,	Indonesya
+#Lilongwe,	Malawi
+#Liubliana,	Islobenya
+#Moscow,	Rusya
+#Tirana,	Tirana
+#Ottawa,	Canada
+#Nairobi,	Kenya
+#Copenhague,	Dinamarka
+#Niamey,	Niger
+#Abuja,	Nigeria
+#Windhoek,	Namibia
+#Podgorica,	Montenegro
+#Polonya,	zloty
+#Brasil,	real
+#Biyetnam,	dong
+#Suwesya,	krona
+#Angola,	kwanza
+#Hapon,	yen
+#Mehiko,	peso
+#Latbiya,	lats
+#Litwaniya,	litas
+#Unggarya,	forint
+#Dinamarka,	krone
+#Armenya,	dram
+#Thailand,	baht
+#Nigeria,	naira
+#Rumanya,	leu
+#Arhentina,	peso
+#Rusya,	rublo
+#Algeria,	dinar
+#Ukranya,	hiribniya
+#Croatia,	kuna
+#Cambodia,	riel
+#Canada,	dolyar
+#Korea,	won
+#Europa,	euro
+#Malaysia,	ringgit
+#Iran,	riyal
+#India,	rupee
+#Masedonya,	denar
+#Bulgarya,	lev
+#Wichita,	Kansas
+#Akron,	Ohayo
+#Irvine,	California
+#Toledo,	Ohayo
+#Indiyanapolis,	Indiyana
+#Denber,	Kolorado
+#Milwaukee,	Wisconsin
+#Reno,	Nebada
+#Boston,	Massachusetts
+#Minyapolis,	Minesota
+#Bakersfield,	California
+#Henderson,	Nebada
+#Seattle,	Washington
+Ayon sa mga security agents ng Seattle Public Schools , isang paaralang sa Washington , USA , kadalasang biktima ng pang-aapi ayang mga estudyanteng karaniwang matatakutin , mahiyain , maingat at maramdamin , maaaring di mapalagay at hirap na makapag-isip , medaling sumuko sa nang-aapi , sobrahan ang kilos , maaari na wala o kakaunti ang kaibigan sa paaralan , may mababang pagpapahalaga sa sarili , may pinangangalagaang katayuan sa silid-aralan , iba ang lahi , kultura , relihiyon , kapansanan , kasarian , kakaibang pagkilos  .	1	
+#Atlanta,	Georgia
+#Chandler,	Arizona
+#Dallas,	Tehas
+#Madison,	Wisconsin
+#Tampa,	Plorida
+#Tallahassee,	Plorida
+#Irving,	Tehas
+#Fontana,	California
+#Anaheim,	California
+#Fresno,	California
+#Amarillo,	Tehas
+#Hialeah,	Plorida
+#Pittsburgh,	Pensilbanya
+#Austin,	Tehas
+#Sakramento,	California
+#Portland,	Oregon
+#Glendale,	California
+#Jacksonville,	Plorida
+#Shreveport,	Luwisiyana
+#Lexington,	Kentucky
+#Tulsa,	Oklahoma
+#Glendale,	Arizona
+#Tucson,	Arizona
+#Mesa,	Arizona
+#Spokane,	Washington
+#Memphis,	Tennessee
+#Oxnard,	California
+#Tacoma,	Washington
+#Lubbock,	Texas
+#Worcester,	Massachusetts
+#Miami,	Plorida
+#Cleveland,	Ohayo
+#Scottsdale,	Arizona
+#Louisville,	Kentaki
+#Stockton,	California
+#Detroit,	Misigan
+#Phoenix,	Arizona
+#Philadelphia,	Pensilbanya
+#Huntsville,	Alabama
+#Cincinnati,	Ohayo
+#Honolulu,	Haway
+#Nashville,	Tenesi
+#Oakland,	California
+#Houston,	Tehas
+#Fremont,	California
+#Orlando,	Plorida
+#Arlington,	Tehas
+#Omaha,	Nebraska
+#Laredo,	Tehas
+#Chicago,	Ilinoy
+#Baltimore,	Maryland
+#Anchorage,	Alaska
+#Plano,	Tehas
+#Modesto,	California
+#Garland,	Tehas
+#kanya,	kanya
+#lalaki,	babae
+hind na nkasagot c girl dahil deritso ng pinasok ng boy ang daliri nya sa pribadong parti ng babae ilang segundo un nangyari na ganun ang ginwa ng lalaki npakagat labi nalang sya habang ninanam nam nya ung sarap na nararamdaman nya sa gingwa ni boy  .	18	
+Swerte daw mga babae kapag may napagbago silang lalaki  ?	14	
+Araw araw po akng naglalaba mam kase gabi-gabi naihi sa kama ang panganay na anak na 16 years old na lalaki pati 12years old na babae lalo na po ang 5 years old na babae naihi lage sa pans niya kaya kahit araw at gabi pinapalitan ko po ng damit  .	10	
+nasa babae dn kung bkit nakaka gnyan din kayo lalaki alm ko un  .	7	
+Alam nyo kasi hindi lang naman babae ang di pinapahalagahan kadalasan din mga lalaki  .	6	
+Ang mga babae parang napkin , hindi dapat ginagamit ng lalaki  .	6	
+Ang pagseselos ng mga lalaki , Nakakakilig para sa mga babae  .	6	
+Basta ako masaya ako na Meron pang babae na sweet kagay mo hahahaha babaeng mapagintindi , yung iniintindi pa yung lalaki  .	5	
+Di naman talaga nakakasawa pero syempre kaming mga babae e kagaya nyo din namang mga lalaki na gusto e may oras para sa sarili at para sa ibang kaibigan , pero di naman alo nagsasawa mabal  .	5	
+I love you too dear q Wag kang magtampo qng bihira q lang sabihin sau yan maliban sa pamilya at kaibigan qng mga babae na pinagsasabihan ko niyan ikaw lang nman na lalaki ang pinagsasabihan ko ng ganyan ayiiee ngiti siya kung ikaw nga na bf q bihirang pagsabihan Ko ng ganyan sa iba pa kaya  ?	5	
+Kaloka may ngapof sako installer lalaki tas kan nagapod c babae d	5	
+Opo alam ko hindi po ako nakapagparamdam sayo sorry na po oh puro lalaki naman po kainoman ko e tsaka kahit may babae man di ako lalandi kasi ikaw lang gusto ko kalandian ikaw lang mahal ko ikaw lang gusto ko  .	5	
+Pag yung lalaki ang nananakit sa mga kababaihan ay Sexual Harrassment at sexual abuse na kagad at sobrang magaalala yung mga taong nakakita pero pag babae na ang nanakit well wala lang sa kanila kasi kaya naman ng mga lalaki yung mga suntok at sampal na ginawa ng mga jowa nila  .	5	
+babae naman ako di ako lalaki  .	5	
+imbes lalaki na himo na mn noon ug babae  .	5	
+Ang matinong lalaki po kahit sampung malandi pong babae ang lumandi hindi po yan magpapalandi  .	4	
+Kahit sino namang lalaki pag paulit ulit na niloloko hihiwalayan nya ang babae  .	4	
+Umuwi kana wag kana magpagabi jan babae ka di ka lalaki para umuwi ng gabing gabi  .	4	
+ayoko na maging tanga tanga ndi nmn ikaw lng lalaki sa mundo ung tipong igagalang ako at repotohin sumama ka sa babae muh dahil ndi ako martir na magpapakasaya sa iba babae tapos kapag gusto muh babalik ka may trbho ako ndi nmn cgiro kami magugutom n aiden bahala ka na sa buhay pakasaya aa bago muh buhay  .	4	
+maiisip ng maraming beses ang lalaki kung pang forecer ba yang hnyang klaseng babae na partygoers  .	4	
+Akala nila pambabae lang ang Luxxe White pero ang totoo kahit ang lalaki pwedeng pwede gumamit nito , mas marami pa nga ang lalaki gumagamit ng Luxxe White kaysa sa babae , kasi ang main target ng Luxxe White is cleansing ng internal organs which is lalaki ang mas may kailangan dahil sa mga bisyo like pag inom paninigarilyo  .	3	
+HAYAAN MO SILA VERSION yeah yeah yeah XBhayaan mo sila hayaan mo silang mag habol sau Hayaan mo sila hahayaan mo silang mag mag habol sayo Kalimutan mo nayan binibining mag libang wag kang mag pakaibang sa isang lalaki lng ang hirap sa inyong babae pinili pili pa itago kahit na kailangan mopa siya Sabi ko sayo di lahat ay totoo wag kang manghinayang dapat siya ang manghinayan woah Hayaan mong habulin ka Yeah yeah Hayaan mong habulin ka	3	
+I want you to fuck me , please put your cock in my pussy , hanggang sa maramdaman na nang babae ang maglapat ng katawan ng lalaki sa knya  .	3	
+Ikaw babae ka dimo din maintindihan ang side ng lalaki  .	3	
+Ikw nga na lalaki namimis mo gf mo ako pa kaya na babae cyempre mas namimis namin mga bf namin kulit ko	3	
+Malinis na nga po un pero wala pa egg cells need pa din po mag ovulation ang babae hindi po kagaya tau ng lalaki  .	3	
+Mga lalaki talaga yung mga totoong manloloko dinadamay lng ang mga babae	3	
+Oo ah daw dili ka lalaki wala may mo rape nimo unsa ka babae pero sge lang i understand ayaw nako hulata taga hapon ha pag dirtiso nalang	3	
+Pasensya kana ah , nakita mo pa yung nagawa ko ang totoo kase nyan may pag kakatampuhan kame tapos buong pasko hndi man lang nya ako maalala umuwi ng ano oras , pero magfriends lang kame nun ni mike sakto gusto nya lang ng makakausap , ang ganda ko kase e hehehe charr lang kase c jas pala chat yan ng mga babae ayaw tumigil akala nya atah wala lumalapit saken na lalaki e pero okay na , okay na kame dalawa alam ko naman na mahal nyo yan c jas kaht ganun yun dba  ?	3	
+Sabi ng ibang babae na dumadaan sa newsfeed koo , wala nang matinong lalaki dahil fuckboy na lahat  .	3	
+Sana lahat ng lalaki nakikita yung effort naming mga babae  .	3	
+di na ako magdadrama pero magdadrama narin dejoke seryoso na cute alam mo na kahit nasasaktan na ako ay patuloy parin kitang minamahal ayiie kasi nasayo yung gusto ko sa isang babae ehh ikaw yung babaeng handang mag pa katanga sa lalaki kahit na alam mong niloloko kalang yung tipong kahit na nasasaktan ako sa mga ginagawa mo patuloy parin kitang mamahalin  .	3	
+hndi nman uso yan ngaun mars , dati llaki mag ipon pra lang sa bbae , ngaun , babae na mag ipon pra sa lalaki mabilis pa 9 months lang mawedro na  .	3	
+qoutes sa pagmmatary ng babae kya ibiwan ng lalaki	3	
+27Ganoon din ang mga lalaki ; ayaw na nilang makipagtalik sa mga babae , at sa kanilang kapwa lalaki sila nahuhumaling  .	2	
+5 lalaki tas ako lang 1 babae  .	2	
+Ahahaa dalawa lang naging lalaki ko eh , Ang pikon nmn neto daig pang babae ahahaha Oo na mabait ka na ahahah Oh ayan ah support ako baka magalit ka pa	2	
+Alamo day sekat ngayon yan pate nga mga lalaki nainggit nrin sa mga babae ehhehehe	2	
+Ang tunay na lalaki , nagpapangiti ng babae , hindi nagpa-paiyak  .	2	
+Baliw babae at tomboy kasama ko next time lalaki isasama ko kaso puro kasi may mga jowa bestfriend ko na lalaki e	2	
+Bkt panay lalaki ba kami may babae dun che  .	2	
+Di naman talaga nakakasawa pero syempre kaming mga babae e kagaya nyo din namang mga lalaki na gusto e may oras para sa sarili at para sa ibang kaibigan , pero di naman alo nagsasawa mahal  .	2	
+Diko alam e siguro ung ginagawa mg aso nakapatong ung lalaki ts nakatuwad ung babae haha	2	
+Ginusto man ng bata o hindi , makakasuhan parin yung lalaki dahil minor de edad pa yung babae wala pa cya kakayahan	2	
+Haha baka yung lalaki mapatay ko tas ung babae iwan ko Sustento nalang kung sakin ng yare yan aa mahirap kc yung paulit ulit na niloloko napaka unfair sa Buhay hahaha dba  ?	2	
+Hindi kasi ako yung tipo ng babae na kapag may pinuntahan e maghahanap ng lalaki o ano  .	2	
+Iloveyouuuu ako yung lalaki na papasayahin ka tsaka sana lahat ng babae natututo rin na makaintindi keziah mag ingat ka palagi wag mo papabayaan sarili mo kumain palagi ah tas matulog ng maaga sorry kung may pagkukulang ako sayo pero sana naiintindihan mo ako thank youuu ah	2	
+Iloveyouuuu ako yung lalaki na papasayahin ka tsaka sana lahat ng babae natututo rin na makaintindi keziah mag ingat ka palagi wag mo papabayaan sarili mo kumain palagi ah tas matulog ng maaga sorry kung may pagkukulang ako sayo pero sana naiintindihan mo ako thank youuu ah hindi na ako mag paparamdam sayo	2	
+Im happy 2 single , taung mga babae hindi ng hahabol ng lalaki , lalaki ang ng hahabol ng babae , tandaan wag mong gawing tama ang mali , dahil na sa huli ang pagsisisi , sixteen	2	
+Its not about dahil ang bakla ay lalaki pa din hindi na pwed manakit ng babae  .	2	
+#asawa,	asawa
+#lolo,	lola
+1k lang din si Lolo nagbigay narinig ko sabi ni lola bgyan ako 2k umalma si lolo Ahahahaha kuripot tlga yun	1	
+Adobo po ikaw po pa kumain kana si mama po naiwan nya yung tablet sa bahay nila lola violita ta naliho sila don kay lolo fernando	1	
+Ako ng nainhnan c lola kay naa mn clay gidto sa tonggo niya ni hapit mn cla lolo dri	1	
+Alam ko ng mamamatay si lola kasi nung sinabi ko na gusto ko umuwi ganun din kasi dati yung lolo ko sa ilocos bago mamatay may mga sugat na sa katawan bago mamatay  .	1	
+At dumating lolo kong isa pinakita picture ng lola ko sa antipolo	1	
+Ate Daisy Paki sabi po sa lola na patay na po lolo juan	1	
+Bale dapat lahat ng anak nila lola cion ay apo na pla , at anak ni lolo erning at anak ni lola mila is may 1 aappoint na icharge thru agreement na yung taong yun yung magtatayong taga ayos ng lupa  .	1	
+Barbara kila tita ko raw babantayan ko raw ngayong 7am si Lolo kasi pupunta sila tita sa center papacheck up nila yong baby ng tita ko tas c lola naman asa malasiqui kaya bantayan ko muna daw c lolo mamaya	1	
+C tito at lolo hindi masydo mgkasundo c lola lucy at tia fe d mgksundo ngssiraan cla bahala cla hahaha	1	
+Cge kuha na naman ako ng pera sa western union kc c lola violy nagpadala na naman kay lolo  .	1	
+Dapat po sna c lolo mila pag ndi naayos ni lola mila is lola cion dapat mag asikaso  .	1	
+Dat yung lolo ko mag gagamyan peri yung lola ko Napigilan niya	1	
+Di bale lola at least naging masaya si lolo nung nabubuhay pa siya  .	1	
+Di ko makasulod ron kay namatay akong lolo atong nov 2 tas si lola nov 3	1	
+Dpat c lolot lola mo , kso may skit daw c lolo kya ndi ntulou	1	
+E d tama ang lola laki sakripisyo kay jrn malaan natin anu gawa pag kol ko sa lolo nya bukas	1	
+Good morning lolo , kaano kayo nagkasar ni lola  ?	1	
+Haha c lola mo di nakakaalis ng tindahan un gabi n nga pag dating ng lolo mo saka plang luto	1	
+Haha okay lng nga mag lola ko basta ikaw man ang lolo ko	1	
+Hindi ko nakita lolo malabo na paningin ng lola  .	1	
+Hindi pa daw po nung dumating daw po c lola sinisipon at nilalagnat c lolo	1	
+Hnd pa ta bale bukas pagdating ng mga nagpuerto galera ppunta kmi muna sa villa paz sa patay kong lolo ksi un pinsang buo un ng mga lola q , then baka sa huling lamay na kmi kay lola minnie hnd pa ksi ta napapagusapan , bawal nmn ksi ang tawid	1	
+Ipinakilala ko kila lola at kila tita at kuya , soon dyan naman sa inyo nila lolo at papa	1	
+Ka bobohan nga mga galawan nila magasawa dito at si lola pumapapel na , si lolo hindi nman ganya , nong nagtrabaho ako , hindi ako pinipilit na magbigay ako , naghihitay siya na magbigay ako , pag humingi naman si lolo pagwala ako wala talaga , pag meron ako meron , yung magasawa pag wala na nga ako pera pinipilit pa palabasin  .	1	
+Kakain pa nga kame sa labas eh kasama asawa ni lolo daddy at sila mamu pati lola apres	1	
+Kasama si lola , ate thess , si kaka , si lolo , mag anak nila tito jun jun , sila tito alex	1	
+Kase po papasabe ko po sana kila lolo na bukas po ako uuwi maaga kase samahan ko lang saglit lola dito  .	1	
+Kay lolo ng hiram tapos sinabi nya kay lola 1300 daw hiniram ko	1	
+Kay sabihin mo kay lola aweng wat na ingay yung susi kay tiws magtataxi nlanh lolo mu pauwe	1	
+Kila lola ko ako natulog kasi tumaas bp ng lolo ko  .	1	
+Kumusta lola neneth kumusta din c lolo alfred , alam ko sa ka pa hanggang ngayon dahil kay kate , hindi naman pwede pumunta jan sina Anne ako naman ang malulungkot kapag uuwi ako galing duty na wala sila , sana maunawaan mo  .	1	
+Lagyan mo daw pm lolo , kasi sabi lola panda kapag wala pm buwid daw	1	
+Lalakarin ni lolo ngayon yung mga philhealth ni lola eh	1	
+Lalo kong nakalagay sa titulo ay name ng lolo mo at married to pangalan ng lola mo  .	1	
+Laylo muna tayo baka mapagalitan sika @Harry Delos Reyes kse mamaya punta ulit c lola dun nagsumbong kse lolo berto	1	
+Lisod nag gunitan ra nla kwarta mahurot ra tanan kay ingun c lolo ninyu ulyanin ndaw lola ninyu kalimot asa pamutang kwarta gastador pajud cge patad digit masuko daw badlungon	1	
+Lorna Paki sabi sa lola essie patay na po lolo Juan kapatid nya	1	
+Magkasama pa kmi ni lola ngaun , pinasamahan ni lolo sya dhil may imi meet up na kaibigan dto sa shangri la hotel  .	1	
+Malakas , si , lolo pag nanjan si lola	1	
+Mama nandito po yung lolo ko at katabi na lola ko sa kwarto	1	
+Mao mayad pa na c lolo mo pati c lola mo pa sabaya na  .	1	
+May bahay ung lola nyo may bahay ung lolo may bahay ung tatay may bahay ung kapatid	1	
+Mayron pa nga daw nangyari nun na inaway nila si lola fe don kila tatay ang ginawa ni lola fe nilabasan nya ng baril si lolo mendiol at yong iba pang kumampi kay lola neneng tapos sabi daw ni lola fe kahit kapatid nmin kayo di ako magdadalawang isip na iputok ko sa inyo to dahil sa ginawa nyo sa amin sabi daw ni lola fe	1	
+Mga lola ko yun , lolo benses pero patay na sila matagal na	1	
+Money transfer ko nlng po ksi wala po si dadi sa bahay bukas ei dun po ulit ako kyna merryll magsleep po kasi wala po siya kasama dahil yung lola niya po nasa burol patay po kasi lolo niya , papadal ko na kang po tom  .	1	
+Mukhang mag kaka sundo lolo mo at papa ko Tas mama ko at lola ko tas tita mo at ate ko puta silang dalawa yung mangugulo saten WAHAHAHAHHA	1	
+Naka kundisyon lola sa inom si lolo	1	
+Namatay biya ako lolo babe taga cagayan Egsoon lola sario	1	
+Nanay ko at nanay nyA magpinsan 2nd cousin na ata kami ang lolo ni kama mo sa nanay at lola ko ay magkapatid	1	
+Naniningil si lola mo kay tito joey mo pambili ng gamot ni lolo	1	
+#nobyo,	nobya
+Akala nila mg syota tayoNgunit ito ay hindi totooPero ok lang naman , yan ang sabi moKasi wala kang nobya at wala rin akong nobyo	1	
+Ako gani ang isa ko nga nobya sang una grade 12 palang subong abaw miski sila na ka nobyo nya gusto nya mag patandog gyapon sa akon kay damo daw sya nabal-an kag satisfied daw sya paga sa akon hahahaha daw maka kadlaw man ko  .	1	
+Sa tuod na hambal ko naman sa imo naka 2 lng ko ka nobya mga studyante pa ina kaso pag naka nobyo na wala na  .	1	
+#lolo,	lola
+1k lang din si Lolo nagbigay narinig ko sabi ni lola bgyan ako 2k umalma si lolo Ahahahaha kuripot tlga yun	1	
+Adobo po ikaw po pa kumain kana si mama po naiwan nya yung tablet sa bahay nila lola violita ta naliho sila don kay lolo fernando	1	
+Ako ng nainhnan c lola kay naa mn clay gidto sa tonggo niya ni hapit mn cla lolo dri	1	
+Alam ko ng mamamatay si lola kasi nung sinabi ko na gusto ko umuwi ganun din kasi dati yung lolo ko sa ilocos bago mamatay may mga sugat na sa katawan bago mamatay  .	1	
+At dumating lolo kong isa pinakita picture ng lola ko sa antipolo	1	
+Ate Daisy Paki sabi po sa lola na patay na po lolo juan	1	
+Bale dapat lahat ng anak nila lola cion ay apo na pla , at anak ni lolo erning at anak ni lola mila is may 1 aappoint na icharge thru agreement na yung taong yun yung magtatayong taga ayos ng lupa  .	1	
+Barbara kila tita ko raw babantayan ko raw ngayong 7am si Lolo kasi pupunta sila tita sa center papacheck up nila yong baby ng tita ko tas c lola naman asa malasiqui kaya bantayan ko muna daw c lolo mamaya	1	
+C tito at lolo hindi masydo mgkasundo c lola lucy at tia fe d mgksundo ngssiraan cla bahala cla hahaha	1	
+Cge kuha na naman ako ng pera sa western union kc c lola violy nagpadala na naman kay lolo  .	1	
+Dapat po sna c lolo mila pag ndi naayos ni lola mila is lola cion dapat mag asikaso  .	1	
+Dat yung lolo ko mag gagamyan peri yung lola ko Napigilan niya	1	
+Di bale lola at least naging masaya si lolo nung nabubuhay pa siya  .	1	
+Di ko makasulod ron kay namatay akong lolo atong nov 2 tas si lola nov 3	1	
+Dpat c lolot lola mo , kso may skit daw c lolo kya ndi ntulou	1	
+E d tama ang lola laki sakripisyo kay jrn malaan natin anu gawa pag kol ko sa lolo nya bukas	1	
+Good morning lolo , kaano kayo nagkasar ni lola  ?	1	
+Haha c lola mo di nakakaalis ng tindahan un gabi n nga pag dating ng lolo mo saka plang luto	1	
+Haha okay lng nga mag lola ko basta ikaw man ang lolo ko	1	
+Hindi ko nakita lolo malabo na paningin ng lola  .	1	
+Hindi pa daw po nung dumating daw po c lola sinisipon at nilalagnat c lolo	1	
+Hnd pa ta bale bukas pagdating ng mga nagpuerto galera ppunta kmi muna sa villa paz sa patay kong lolo ksi un pinsang buo un ng mga lola q , then baka sa huling lamay na kmi kay lola minnie hnd pa ksi ta napapagusapan , bawal nmn ksi ang tawid	1	
+Ipinakilala ko kila lola at kila tita at kuya , soon dyan naman sa inyo nila lolo at papa	1	
+Ka bobohan nga mga galawan nila magasawa dito at si lola pumapapel na , si lolo hindi nman ganya , nong nagtrabaho ako , hindi ako pinipilit na magbigay ako , naghihitay siya na magbigay ako , pag humingi naman si lolo pagwala ako wala talaga , pag meron ako meron , yung magasawa pag wala na nga ako pera pinipilit pa palabasin  .	1	
+Kakain pa nga kame sa labas eh kasama asawa ni lolo daddy at sila mamu pati lola apres	1	
+Kasama si lola , ate thess , si kaka , si lolo , mag anak nila tito jun jun , sila tito alex	1	
+Kase po papasabe ko po sana kila lolo na bukas po ako uuwi maaga kase samahan ko lang saglit lola dito  .	1	
+Kay lolo ng hiram tapos sinabi nya kay lola 1300 daw hiniram ko	1	
+Kay sabihin mo kay lola aweng wat na ingay yung susi kay tiws magtataxi nlanh lolo mu pauwe	1	
+Kila lola ko ako natulog kasi tumaas bp ng lolo ko  .	1	
+Kumusta lola neneth kumusta din c lolo alfred , alam ko sa ka pa hanggang ngayon dahil kay kate , hindi naman pwede pumunta jan sina Anne ako naman ang malulungkot kapag uuwi ako galing duty na wala sila , sana maunawaan mo  .	1	
+Lagyan mo daw pm lolo , kasi sabi lola panda kapag wala pm buwid daw	1	
+Lalakarin ni lolo ngayon yung mga philhealth ni lola eh	1	
+Lalo kong nakalagay sa titulo ay name ng lolo mo at married to pangalan ng lola mo  .	1	
+Laylo muna tayo baka mapagalitan sika @Harry Delos Reyes kse mamaya punta ulit c lola dun nagsumbong kse lolo berto	1	
+Lisod nag gunitan ra nla kwarta mahurot ra tanan kay ingun c lolo ninyu ulyanin ndaw lola ninyu kalimot asa pamutang kwarta gastador pajud cge patad digit masuko daw badlungon	1	
+Lorna Paki sabi sa lola essie patay na po lolo Juan kapatid nya	1	
+Magkasama pa kmi ni lola ngaun , pinasamahan ni lolo sya dhil may imi meet up na kaibigan dto sa shangri la hotel  .	1	
+Malakas , si , lolo pag nanjan si lola	1	
+Mama nandito po yung lolo ko at katabi na lola ko sa kwarto	1	
+Mao mayad pa na c lolo mo pati c lola mo pa sabaya na  .	1	
+May bahay ung lola nyo may bahay ung lolo may bahay ung tatay may bahay ung kapatid	1	
+Mayron pa nga daw nangyari nun na inaway nila si lola fe don kila tatay ang ginawa ni lola fe nilabasan nya ng baril si lolo mendiol at yong iba pang kumampi kay lola neneng tapos sabi daw ni lola fe kahit kapatid nmin kayo di ako magdadalawang isip na iputok ko sa inyo to dahil sa ginawa nyo sa amin sabi daw ni lola fe	1	
+Mga lola ko yun , lolo benses pero patay na sila matagal na	1	
+Money transfer ko nlng po ksi wala po si dadi sa bahay bukas ei dun po ulit ako kyna merryll magsleep po kasi wala po siya kasama dahil yung lola niya po nasa burol patay po kasi lolo niya , papadal ko na kang po tom  .	1	
+Mukhang mag kaka sundo lolo mo at papa ko Tas mama ko at lola ko tas tita mo at ate ko puta silang dalawa yung mangugulo saten WAHAHAHAHHA	1	
+Naka kundisyon lola sa inom si lolo	1	
+Namatay biya ako lolo babe taga cagayan Egsoon lola sario	1	
+Nanay ko at nanay nyA magpinsan 2nd cousin na ata kami ang lolo ni kama mo sa nanay at lola ko ay magkapatid	1	
+Naniningil si lola mo kay tito joey mo pambili ng gamot ni lolo	1	
+#hari,	reyna
+Jungkook Mahal na Punong reyna yumuko Ako si Jeon Jungkook , Punong hari ng vampire kingdom  .	4	
+Siya ang iyong hari , Ikaw ba ang kanyang reyna  ?	4	
+Taehyung Magbigay pugay sa punong hari at sa nakatakdang Punong reyna  !	4	
+Ang reyna nang kalibugan ay malungkot kay langan pasayahin nang hari	2	
+Ang mahal na hari para lng kay mahal na reyna	1	
+Hindi magiging hari kung wala ang lakas ng kanyang reyna	1	
+Kung ikaw po ang reyna sino po ang pipiliin mo maging hari sa knilng 7	1	
+Later huh mga utos ng mhal na reyna at mahal na hari aking susundin baka ako mapatalsik hahaha	1	
+deserve ko maging nag iisang hari mg isang tunay na reyna ko at mukhang hindi ikaw yun  !	1	
+#ama,	ina
+ako perpektong ina o magulang man sa inyo at wala man kayong ama n kinagisnan pero akoy nan dito na mahal na mahal kayo  !	4	
+Maria Pero napilitan lang ako na talikuran ang ating pagmamahalan , alang-alang sa aking ina at sa aking dalawang ama  .	2	
+Adi payang ninpa 2nd opinion kmi sa PGH , hind kaya ng powers namin ung pinuntahan nmin , 91k kin ama 75k met kin ina , cya ay lipat ko PGH	1	
+Ako ang ama dapat ako ang nag aalaga s kanilang mag ina	1	
+Ako hindi man ako ganun maasikaso at maalagang ina pero yung obligasyon ng isang ama ang kahit kelan hindi ako nag kulang sa mga anak ko  .	1	
+Alam m bhe ang fb halos ang mga tao yan na gngwang libangan anjan na lhat ng ka demonyohan malala pa yan sa textmate kc ang fb nagkakita dhl pwd magvedeokol kaso nasau nayan Kelangan wagka magpadala sa tukso marami nga jan sa fb db mag ina may relasyn mag ama dba  .	1	
+Amo gani pag lalaki talaga Clint Neil Abit gaud talaga gwapo pati ina lalo gwapo an ama gina papirma na gani aq san duwa na station san network dd ABS- CBN KG GMA 7 para maging artista pagdako	1	
+Ang ina ay nag pabayan ang ama ay nadine	1	
+Ang pamilya sad kay si lucio quezon ang ama , Maria dolores molina ang ina , aurora ang quezon ang asawa at mga anak tapos kapanganakan niya kay ika 19 ng agusto 1878 Mao na na siya para ma answer na nimo bah	1	
+Ang sakit isipin na kayang gawin ng isng magulang to sa kanyang anak kwawa nmn ung bata parang hirap na hirap sya sa knyang nrrmdaman Sana panginoon kunin nyo na ung tatay nya na gumawa sa knya nyan wala po syang karapatan mbuhay sa mundong ito at sana makarating to sa nanay nya nkkadurog ng puso para sa isng ina na mkitang gnyan ang sinapit ng knyang anak sa kamay pa ng knyang ama nya	1	
+Ayaw akong palabasin ng aking ama na si zeus at kasama ko lamang ang aking ina na si rhea	1	
+Ayus lang po kaka diko na po nadalaw si ina mo wla naga bantay kay ama	1	
+Dae aram ni ate na kan time na badus siya na dinuman niya ang magurang kan lalaki na kaiba itong kaboredmate me tas inistorya sako na ang sabi kan nakaulay ni ate ang ina kan lalaki ang Tas sinabi na dae mo na daa ipaaram sa ama kan lalaki na nakabadus ang aki niya  .	1	
+Eh ano ngayon batang ama na iniwan ng mag ina niya	1	
+Ewan ko te may nag sasabeng kmukha ng ama may nag sasabeng kmukha ng ina	1	
+Ganda pa nmn kakulay ng ina yan din ang ama  .	1	
+Hahaha pero si ina lang nakausap ko kasi ayaw daw ako kausapin ni ama  .	1	
+Hahahah tska ung tatlong pinaka pangany kptid ko lang sa ama si ate juju kapatid ko sa ina tapos ako si ate kat kua jb and jm ang pinakamagkakapatid tkg	1	
+Hahahaha hirap maging dakilang ina trabaho na sideline pa yaya pa ng bata at ama hahaha	1	
+Hindi ako naagalitan ng ama mahal ko hahahha wala ang ina dini ee  .	1	
+Hindi mopapo kase ako kilala kung alam mulang po kung gaano ako kamahal mama ko nawalan na kame ng ama ayokong mawalan ng ina kaya todo trabaho ako para sa pang gamot nya ang mamahal pa ng gamot nya	1	
+Hirap po palang maging ina at the same time ama din lalo na kapag makukulut yung anak paano nalang kaya kapag nagkaanak na ako hehehe pero matagal pa yun	1	
+Hnd kopa nakwento ky ina wala signal nagpunta un sa kapatid n ama na namatay anak sa nasugbo batangas	1	
+Ika magsabi iday gusto mo maging ama kung ako ang ina haha	1	
+Ina ama i love You mahal ko kayo salamat sa suporta sa akin ina mahal n mahal ko kayo  .	1	
+Kakaawa nmn wala n nga ang ina pabaya pa ang ama  .	1	
+Kanina lang pinagtulungan ko ng mag ama tapos di ako pinansin ni ina	1	
+Kawawa ang pinsan ko una e ang ama nung isang taon ang lola nila tapos ngayon e ina naman	1	
+Kawawa na nga sila sa ama wag na sa ina  .	1	
+Khit hindi man kmi ng ina nila bsta sila dko kyang pbayaan gya ng ama ko n khit anong paraan ay wlang nbigay saken	1	
+Kita sakan sin anak mo , laung sin anak mo , ina ini dih marapat nagpalinhkat lingkat nasab , maraih awn nasab ako bago ama  .	1	
+Kung ang ama ang haligi ng tahanan , ang ina naman po ang ilaw  .	1	
+Magkano lang pa titolo ng lupa trh di aabot ng 1k un nga balak ko kay sabi ni ina baka pag mangyari kay ama wala tau makukuha	1	
+Mahirap pagsabayin ang maging ina lalo na ang maging ama na bumubuhay ng mga anak  .	1	
+Mamimili kayo ng gagayahin ana putang ina mo tska putang ama mo pede picture muna ang ilagay mo dyan sa dp mo kase naawa na ho ako sayo eh	1	
+Mamimili kayo ng gagayahin ana putang ina mo tska putang ama mo pede picture muna ang ilagay mo dyan sa dp mo kase naawa na ho ako sayo eh baka bukas  .	1	
+Nagalit c ama binagsakan acu ng pon alam daw un ni ina  .	1	
+Namatay ung anak yata ng bunsong kapatid n ama da nasugbo inaaya ako ni ina sayang nakapaghanap narin sana ng dh tsaka hnd ko pa nakikita ung kapatid nayon n ama	1	
+Ng istoryahay me ni ama gabii ako xa ge Ingnan chub kung mawala cya asa paingon cla king 2 walay mudawat sa iya side kang ina ug side kang ama dili pud c aslia  .	1	
+O ina ba tawag mo at ama	1	
+Ok nman kau jn kmsta nkapuntabkna ba doon kay ina pag pumunta ka doon kong may pera ka puntahan mo burol ni ama lgyan mo aq ng damit doon lagi ko lng kc nkkita ehhhh	1	
+Opo babe nandito pati ama ko umsi ate arlyn , si austine ung magkapatid kong pamangkon at ung ina nila	1	
+Opo kasi nga sbi nga nmin ni ate dibali ng walang ama basta nasamin yung ina namin hehehe	1	
+Pinagsbhan kalang ni ama bakit ginisi mu ang Pera bngay ng kapatid ko sa harapan pa nila ina  .	1	
+Pinili ko na ang maging ina ng anak ko at ama  .	1	
+Salam kmsta kau jn ethz my imo kba pwde mkausap c ama mo kong anu anu kc pinagssabi ni ina ittanong ko lng sknya ano ba yan mga sinasabi ni ina ttoo ba lahat yat yan kc hirap kay ina puro paghhinala lng nsa utak niya	1	
+Samahan ko muna si ina mamalengke at si ama e lasing  .	1	
+Sino bang magulang matutuwa anak nila dalagang ina at apo nila ulila sa ama kaliit liit pa broken family na which is di nya mararanasan o mamumulatan yung buong pamilya  .	1	
+Tah nano naga isturya ka naga type kalang kaya dili ina makapoy kaya sabata na an hunga ko sa imo sino an ama sina kay ninong lang ako	1	
+Tang ina alam nya ung ama ng anak nya si tropa ni von at engaged na sya sa kano pero nagawa nya parin pahintulutan makisama kay von	1	
+#prinsipe,	prinsesa
+Alam mo wag mo ituring prinsesa ang isang babae kung hnd ka naman handang maging prinsipe nila	1	
+Ang prinsesa para lang sa isang prinsipe	1	
+Darating ang prinsipe kay naglilinis ang prinsesa	1	
+Hahaha grabi gusto ko na nagpapahinga lang yong prinsesa ko Ayoko na napapagod ka kase prinsesa kita bhie bhie ko at ako yong prinsipe mo Walang ibang mananakit sayo habang nandito ako	1	
+Kaya baby julie lagi mong aalalanin at isipin mo lagi na nasa tabi mo lng ako ako ang prinsipe ng buhay mo at ikaw ang prinsesa ng buhay ko	1	
+Sabihin mo na gusto mong sabihin ayos lang lahat yan sasaluhin ko ikaw nga sinalo ko salita mo pa kaya lahat ng mag papasaya sayo kaya kong ibigay mahal ikaw kaya yung prinsesa ko di bali ng hindi mo prinsipe okay na yung alipin basta palagi kita pagsisilbihan aalagaan padin kita tska wala padin mag babago mahal ko sorry ulit mahal kung di mo padin ako mapapatawad tatae ako sa banyo nyo jk iloveyousomuch mahal ko pansinin mo man o hindi to basta nabasa mo yung gusto kong sabihin iloveyouu ms  .	1	
+always-baby mo , asawa mo , babe mo , prinsesa mo ikaw ang prinsipe ko , mahal mo	1	
+always-baby mo , asawa mo , babe mo , prinsesa mo ikaw ang prinsipe ko , mahal mo bye bye po	1	
+always-baby mo , asawa mo , babe mo , prinsesa mo ikaw ang prinsipe ko , mahal mo bye bye po Get well soon	1	
+always-baby mo , asawa mo , babe mo , prinsesa mo ikaw ang prinsipe ko , mahal mo bye bye po Get well soon miss you	1	
+kasama naman kita babyko eh hayaan muna sakin sila umaasa eh mag papahinga muna ang prinsipe at mag papakasaya kasama si prinsesa	1	
+prinsesa ko kadami dami kong prinsipe	1	
+tatlo kayong prinsesa sa buhay ko at apat kami na prinsipe sa buhay mo asawa coe  .	1	
+#siya,	siya
+#ama,	ina
+ako perpektong ina o magulang man sa inyo at wala man kayong ama n kinagisnan pero akoy nan dito na mahal na mahal kayo  !	4	
+Maria Pero napilitan lang ako na talikuran ang ating pagmamahalan , alang-alang sa aking ina at sa aking dalawang ama  .	2	
+Adi payang ninpa 2nd opinion kmi sa PGH , hind kaya ng powers namin ung pinuntahan nmin , 91k kin ama 75k met kin ina , cya ay lipat ko PGH	1	
+Ako ang ama dapat ako ang nag aalaga s kanilang mag ina	1	
+Ako hindi man ako ganun maasikaso at maalagang ina pero yung obligasyon ng isang ama ang kahit kelan hindi ako nag kulang sa mga anak ko  .	1	
+Alam m bhe ang fb halos ang mga tao yan na gngwang libangan anjan na lhat ng ka demonyohan malala pa yan sa textmate kc ang fb nagkakita dhl pwd magvedeokol kaso nasau nayan Kelangan wagka magpadala sa tukso marami nga jan sa fb db mag ina may relasyn mag ama dba  .	1	
+Amo gani pag lalaki talaga Clint Neil Abit gaud talaga gwapo pati ina lalo gwapo an ama gina papirma na gani aq san duwa na station san network dd ABS- CBN KG GMA 7 para maging artista pagdako	1	
+Ang ina ay nag pabayan ang ama ay nadine	1	
+Ang pamilya sad kay si lucio quezon ang ama , Maria dolores molina ang ina , aurora ang quezon ang asawa at mga anak tapos kapanganakan niya kay ika 19 ng agusto 1878 Mao na na siya para ma answer na nimo bah	1	
+Ang sakit isipin na kayang gawin ng isng magulang to sa kanyang anak kwawa nmn ung bata parang hirap na hirap sya sa knyang nrrmdaman Sana panginoon kunin nyo na ung tatay nya na gumawa sa knya nyan wala po syang karapatan mbuhay sa mundong ito at sana makarating to sa nanay nya nkkadurog ng puso para sa isng ina na mkitang gnyan ang sinapit ng knyang anak sa kamay pa ng knyang ama nya	1	
+Ayaw akong palabasin ng aking ama na si zeus at kasama ko lamang ang aking ina na si rhea	1	
+Ayus lang po kaka diko na po nadalaw si ina mo wla naga bantay kay ama	1	
+Dae aram ni ate na kan time na badus siya na dinuman niya ang magurang kan lalaki na kaiba itong kaboredmate me tas inistorya sako na ang sabi kan nakaulay ni ate ang ina kan lalaki ang Tas sinabi na dae mo na daa ipaaram sa ama kan lalaki na nakabadus ang aki niya  .	1	
+Eh ano ngayon batang ama na iniwan ng mag ina niya	1	
+Ewan ko te may nag sasabeng kmukha ng ama may nag sasabeng kmukha ng ina	1	
+Ganda pa nmn kakulay ng ina yan din ang ama  .	1	
+Hahaha pero si ina lang nakausap ko kasi ayaw daw ako kausapin ni ama  .	1	
+Hahahah tska ung tatlong pinaka pangany kptid ko lang sa ama si ate juju kapatid ko sa ina tapos ako si ate kat kua jb and jm ang pinakamagkakapatid tkg	1	
+Hahahaha hirap maging dakilang ina trabaho na sideline pa yaya pa ng bata at ama hahaha	1	
+Hindi ako naagalitan ng ama mahal ko hahahha wala ang ina dini ee  .	1	
+Hindi mopapo kase ako kilala kung alam mulang po kung gaano ako kamahal mama ko nawalan na kame ng ama ayokong mawalan ng ina kaya todo trabaho ako para sa pang gamot nya ang mamahal pa ng gamot nya	1	
+Hirap po palang maging ina at the same time ama din lalo na kapag makukulut yung anak paano nalang kaya kapag nagkaanak na ako hehehe pero matagal pa yun	1	
+Hnd kopa nakwento ky ina wala signal nagpunta un sa kapatid n ama na namatay anak sa nasugbo batangas	1	
+Ika magsabi iday gusto mo maging ama kung ako ang ina haha	1	
+Ina ama i love You mahal ko kayo salamat sa suporta sa akin ina mahal n mahal ko kayo  .	1	
+Kakaawa nmn wala n nga ang ina pabaya pa ang ama  .	1	
+Kanina lang pinagtulungan ko ng mag ama tapos di ako pinansin ni ina	1	
+Kawawa ang pinsan ko una e ang ama nung isang taon ang lola nila tapos ngayon e ina naman	1	
+Kawawa na nga sila sa ama wag na sa ina  .	1	
+Khit hindi man kmi ng ina nila bsta sila dko kyang pbayaan gya ng ama ko n khit anong paraan ay wlang nbigay saken	1	
+Kita sakan sin anak mo , laung sin anak mo , ina ini dih marapat nagpalinhkat lingkat nasab , maraih awn nasab ako bago ama  .	1	
+Kung ang ama ang haligi ng tahanan , ang ina naman po ang ilaw  .	1	
+Magkano lang pa titolo ng lupa trh di aabot ng 1k un nga balak ko kay sabi ni ina baka pag mangyari kay ama wala tau makukuha	1	
+Mahirap pagsabayin ang maging ina lalo na ang maging ama na bumubuhay ng mga anak  .	1	
+Mamimili kayo ng gagayahin ana putang ina mo tska putang ama mo pede picture muna ang ilagay mo dyan sa dp mo kase naawa na ho ako sayo eh	1	
+Mamimili kayo ng gagayahin ana putang ina mo tska putang ama mo pede picture muna ang ilagay mo dyan sa dp mo kase naawa na ho ako sayo eh baka bukas  .	1	
+Nagalit c ama binagsakan acu ng pon alam daw un ni ina  .	1	
+Namatay ung anak yata ng bunsong kapatid n ama da nasugbo inaaya ako ni ina sayang nakapaghanap narin sana ng dh tsaka hnd ko pa nakikita ung kapatid nayon n ama	1	
+Ng istoryahay me ni ama gabii ako xa ge Ingnan chub kung mawala cya asa paingon cla king 2 walay mudawat sa iya side kang ina ug side kang ama dili pud c aslia  .	1	
+O ina ba tawag mo at ama	1	
+Ok nman kau jn kmsta nkapuntabkna ba doon kay ina pag pumunta ka doon kong may pera ka puntahan mo burol ni ama lgyan mo aq ng damit doon lagi ko lng kc nkkita ehhhh	1	
+Opo babe nandito pati ama ko umsi ate arlyn , si austine ung magkapatid kong pamangkon at ung ina nila	1	
+Opo kasi nga sbi nga nmin ni ate dibali ng walang ama basta nasamin yung ina namin hehehe	1	
+Pinagsbhan kalang ni ama bakit ginisi mu ang Pera bngay ng kapatid ko sa harapan pa nila ina  .	1	
+Pinili ko na ang maging ina ng anak ko at ama  .	1	
+Salam kmsta kau jn ethz my imo kba pwde mkausap c ama mo kong anu anu kc pinagssabi ni ina ittanong ko lng sknya ano ba yan mga sinasabi ni ina ttoo ba lahat yat yan kc hirap kay ina puro paghhinala lng nsa utak niya	1	
+Samahan ko muna si ina mamalengke at si ama e lasing  .	1	
+Sino bang magulang matutuwa anak nila dalagang ina at apo nila ulila sa ama kaliit liit pa broken family na which is di nya mararanasan o mamumulatan yung buong pamilya  .	1	
+Tah nano naga isturya ka naga type kalang kaya dili ina makapoy kaya sabata na an hunga ko sa imo sino an ama sina kay ninong lang ako	1	
+Tang ina alam nya ung ama ng anak nya si tropa ni von at engaged na sya sa kano pero nagawa nya parin pahintulutan makisama kay von	1	
+#tiyo,	tiya
+musta ko ni papa tiya nu ug ni tiyo  .	3	
+Ahh tiyo totoo po ung sabi ni tiya nagkaroon ka daw ng babae dun	1	
+Ang tiyo dante n asawa ng tiya upeng	1	
+Bakit c tiyo edward nagpadala ng control tiya	1	
+Gud pm tiyo nag adon nako kapon saindo dabi nong beyenan mo turog daq c tiya	1	
+Happy new year tiya pki sv kay tiyo at nanay po	1	
+Hindi na nga ata uuwi si tiya at nagastos na sa pagpapalibing kay tiyo  .	1	
+Kahit nga ako tiya , sa sinabi niya yun , parang na niningil , parang si tiyo lang at si tiya	1	
+Kaso may bata na xa pero dugay na cla bulag tiyo nya napmna sang tiya ko taga batnggas kilala ka tiya ko	1	
+Lulutuin pa eh , ayaw nila tiya , kmi lang ni tiyo nagiinom dito kagabi ,	1	
+May narinig nga ako tiya pagdating ko , sabi ni tiyo , sunugid ko pa tong bahay sabi niya  .	1	
+Nagaway pa nga sila dahil ayaw ni tiya na wag si ariel , sabi ni tiya , bakit si ariel sabi ni tiya , tapos sabi ni tiyo siya nman jabonillo	1	
+Nagtawag ako kay tiya da kuno si tiyo nelson  .	1	
+Ngayon lasing na si tiyo , nakainom na , tiya wait lang , baka mag bago ang salita niya	1	
+Okay Napo tiya chat niyo ni tiyo  ?	1	
+Pa ngtxt c tiya lina punta aq ng 7am sa hospital bukas at ippalista dw aq ni tiyo abling ipapatingin ko ang aking mata bukas na doon kla tio abling	1	
+Pag umabot sa ganun talaga tiya , eh dimanda na talaga ah , baka manakit ba si tiyo	1	
+Pakisabi kay tiya zen happy new year pati na sainyo ni tiyo baka mahirap signal mamaya eh	1	
+Pang allowance kay kulit , nagsang ata si tiyo ng alahas ni tiya	1	
+Patay na si tiyo isyo yung asawa ni tiya ester yung taga linang	1	
+Sabi ng tiya , bakit siya pa magperma wala nman binabangit si tiya na pangalan , sagot nman ni tiyo siya lang nman ang jabonillo dito sabi niya	1	
+Salamat po tiya lita kayo n tiyo utoy anong gnagawa cno kasama niyo jan ngaun tiya lita	1	
+Si tiyo may trabaho c tiya clyn buntis	1	
+Si tiyo rodrigo motext man gihapon tiya	1	
+Tiya dyotay tiya welsing tiya holyana tiya maming toyo conrad tiyo nando yan lang cla	1	
+Wala , parang magaaply palng sila ngay tiya , yung gagawa lang si tiyo ng kasulatan na ganun , wala nman nagpunta dito sa bahay	1	
+Yun nga lang tiya , sabihin mo kaya sakanila yan lalo na kay tiyo , magsalita pa parang siya ang mayari dito	1	
+Yun nga sabi ni tiya delin eh kay tiyo , ano gusto mo ikaw ang makikinabang at maging masarap buhay mo pero siya makulong , dun na sila nagaway	1	
+morning belingnas tiya mangadto nmi kay naghuwat nas tiyo	1	
+nalipay pud ko tiya na nakilala dn kita tska magulat un C tiyo loklok kung magkita kau na mabisita nmu cya	1	
+pauwe na raw tiya nagsagot na si tiyo	1	
+#kumpleto,	ganap
+Kelangan me ganap ka rin pa ra kumpleto tayo  .	1	
+#mabilis,	mabilisang
+Hindi po ganun , kikita ka kaagad sa frontrow , mabilisang resulta agad if mabilis ka ding mag-trabaho  .	1	
+#bihira,	bihirang
+#kahanga-hanga,	kahanga-hangang
+#maaari,	marahil
+#masayahin,	masayang
+#karamihan,	karamihang
+#malaya,	malayang
+Wala ako namiss tol obet malaya na sya para ibon malayang lumipaf	1	
+#ligtas,	ligtas
+#mabilis,	mabilisang
+Hindi po ganun , kikita ka kaagad sa frontrow , mabilisang resulta agad if mabilis ka ding mag-trabaho  .	1	
+#malinaw,	tila
+#episyente,	episyenteng
+#matulin,	matuling
+#tumpak,	tiyak
+#nag-aatubili,	atubiling
+#seryoso,	seryosong
+Alam mu bakit ako ganito kasi ako napaka seryoso ako pagdating sa relasyon ai kasi ako napaka seryosong tao ako ai	1	
+Bukas ay sure na may parusa na ha ang wala ay sa linggo parin ang parusa , 2days nalang praktis natin wlaa paring pagbabago ang sayaw natin kaya dapat umattend lahat at ang late ay seryosong may parusa kahit 3rd year na paparusahan parin , seryoso na tayo ha kailangan maging maganda na bukas ang sayaw natin para sa linggo e master na natin yung sayaw , 9am po tayo ha salamat	1	
+Ibahin mo kasi , wag ung wala na talagang seryosong lalaki ngayun , dapat hindi na ba magiging seryoso lahat ng lalaki ngaun	1	
+Kapag seryosong usapan naman ay seryoso din aqng kausap	1	
+Sabi nga ng kaklase ko bakit sinasayang yung tulad kong seryoso minsan na nga lang daw makaroon ng seryosong lalaki sasayangin pa	1	
+Sabi nga ng kaklase ko bakit sinasayang yung tulad kong seryoso minsan na nga lang daw makaroon ng seryosong lalaki sasayangin pa Ikaw naman sagutin mo yung tanong ko  ?	1	
+kakwentuhan ko un sa mga seryosong bagay bout buhay buhay pag kausap ko un seryoso un  .	1	
+pero kahit isa niyan wala ako niyan mayrun lang saakin pag mamahal at seryosong pag mamahal walang birobiro saakin seryoso	1	
+#kalmado,	kalmadong
+#masaya,	masayang
+Ammm gusto sana kitang makasama sa new year sa mismong oras ng mag 2018 para mas masaya ung pagtatapos ng 2017 ko at masayang panimula nang 2018  .	4	
+Ayaw kong kaawaan sarili ko ngaun sa nangyari sakin , malaking lesson totoo sa buhay ko , mag tiwala ng sobra , inakala ko dati na nakatagpo ako ng taong makakaramay ko sa buhay , ung taong mag bibigay ng masayang alala sakin , pero hindi pala , sana maging masaya sa ginawa mo , hindi kuna pag iinteresan kong anong kaunting naipon ko na saya , bahala kana , mag uumpisa nalang guro ulit diko , pero hindi ko alam kong paano at kong saan ako mag sisimula  .	1	
+Dami nang masayang memory ang nangyari ngayon at nagyon pinaka masaya huling hirit ngayon	1	
+Gusto q pag nag asawa aq , magkaroon ng mapayapa at masayang pamilya , ung mamumuhay taung masaya  .	1	
+Kasi nga na feel ko na hindi na masaya tapos wala ng masayang nangyayari di na tayo nag sasama lagi di na tayo nakaka labas naiinis ako namimiss ko na yung katulad ng dati na okay kahit wala tayong pera nakaka alis parin tayo	1	
+Kng gz 2 motong tisoy n n 2 OK lng kng san k masaya Eh di ko msv ng harapan bka lng mawala ako s sarili k mahal kta pero iba n mahal m kya kng san k masaya at liligaya cno b naman ako parasoyo isang tanga n nag hahangad ng masayang pamilya pag n basa m 2 hintayin k sagot m	1	
+Naman masaya sila na nageenjoy ka tyaka lagi ikaw magsimula ng masayang araw nila	1	
+Oh bat sad ka nanaman di kba masaya sa ginagawa mo at di kbang masayang ktxt ako	1	
+Oo dahil naniniwala ako na masaya ka ngauyun at sinamahan mo pa nag mas masayang tao para sayo and i thank you	1	
+Pinakita ko lang sayo na masaya ako para hindi masayang make up mo	1	
+Sige sige , bahala sila dyan , basta ako masaya ngayon , at masayang papasok bukas hahha may report pa pala ko di kona aaral hahah	1	
+Syempre masaya tayo na bubuo ng masayang pamilya	1	
+Thank You Papa God Sa masayang pgsasama ng Aming pamilyaSa maraming blessings na aming natatanggapAlam ko po masaya na si Nanay Hermie nmen sa feeling mo Papa God At alam ko din po na hindi nyo sila pababayaan ng aming Anak na si Jaxer Happy happy new year sa ating Lahat , Countdown 2018	1	
+Wag mong isipin ung bagay naun ang mahala masaya tau kung ano ang meron tau ngaun na isang masayang samahan  .	1	
+Yeah after 10year from now or 15 baby hahahaha magiging masayang family tayo yung tama lang ganto aa buhay namin kompleto at masaya	1	
+basta yun nayun bebegirl sakit na nang mata ko inaantok na ata ako nang ewan pero laban lang nang laban para sa mahabang mensahe ko sa future wife ko bebe ko gagawa tayo nang masayang pamilya yung hindi tayo mag aaway basta masaya tayo ayun nayun bebe ko	1	
+basta yun nayun bebegirl sakit na nang mata ko inaantok na ata ako nang ewan pero laban lang nang laban para sa mahabang mensahe ko sa future wife ko bebe ko gagawa tayo nang masayang pamilya yung hindi tayo mag aaway basta masaya tayo ayun nayun bebe ko wag mong isipin na pagod ako kase mapapagod ako mag papahinga tas laban ulit bebe ko kaya dapat ikaw din walang susuko agad para manalo tayong masaya	1	
+basta yun nayun bebegirl sakit na nang mata ko inaantok na ata ako nang ewan pero laban lang nang laban para sa mahabang mensahe ko sa future wife ko bebe ko gagawa tayo nang masayang pamilya yung hindi tayo mag aaway basta masaya tayo ayun nayun bebe ko wag mong isipin na pagod ako kase mapapagod ako mag papahinga tas laban ulit bebe ko kaya dapat ikaw din walang susuko agad para manalo tayong masaya bebe ko kumain ka sa tamang oras wag papagutom baka mag mcdo pa tayo nyan pag nagutom ka	1	
+basta yun nayun bebegirl sakit na nang mata ko inaantok na ata ako nang ewan pero laban lang nang laban para sa mahabang mensahe ko sa future wife ko bebe ko gagawa tayo nang masayang pamilya yung hindi tayo mag aaway basta masaya tayo ayun nayun bebe ko wag mong isipin na pagod ako kase mapapagod ako mag papahinga tas laban ulit bebe ko kaya dapat ikaw din walang susuko agad para manalo tayong masaya bebe ko kumain ka sa tamang oras wag papagutom baka mag mcdo pa tayo nyan pag nagutom ka charot	1	
+di mo naman kasi kailangang ipakita sa amin na masaya ka kasi alam namin na sa masayang taong niyan may nakakubling kalungkutan	1	
+#karaniwan,	kadalasang
+Sobrang buhok sa mukha o katawan karaniwan sa mga parte na kadalasang walang buhok ang babae , tulad ng sa ibabaw ng labi parang bigote o sa dibdib 6  .	1	
+#paminsan-minsan,	paminsan-minsang
+#kaagad,	kaagad
+#propesyonal,	propesyonal
+#halata,	halatang
+Wehhhj pansin ko mangot na mangot ka at halatang di nakakatulog ng maayus laki ng ksi eyebag mo halata na oras sign of aging hehehe joke lng	2	
+Di halata na nag pa ganun sya kung di nya ako sinabihan hahaha halatang pango ako enu	1	
+Di talaga halatang gusto mo ko hindi tlga halata	1	
+Sis ung pucture ni heart halatang ni liquify pinaliit di sya marunong mag edit masyadong halata pumayat sya , pero di naman siguro ganun kaliit agad tingnan mo ung pic n sinend , ko sau kase ayaw mag send hehe	1	
+Wehhhj pansin ko mangot na mangot ka at halatang di nakakatulog ng maayus laki ng ksi eyebag mo halata na or sign of aging hehehe joke lng po	1	
+tignan mko di halatang may problema hakhak halata lng na mataba hihi	1	
+#bigla,	biglang
+Tapos hindi ka kumain , pano kung biglang sumakit tyan mo tas bigla kang mahimatay tas pano kung di kana magising , pano na ako  ?	3	
+2 Job well done Dcarts Hahahahaha yung tipong bigla tayong tatahimik after humalakhak tas biglang	2	
+Diba di na kami nag chachat kasi nga minsan lng sya mag online tapos pag mag oonline sya di nya nmn ako china chat tapos kanina bigla syang nag chat biglang bumilis yibok ng puso ko	2	
+Kanina may naka sabay ako mga babae sa saint john na pasok ehh nag lalakad ako nang tanghale tapos edi nag tanong yung isang babae sake sabi nya kuya ano po name nyo sabe ko ehh wendel castillo tapos bigla nyang sinearch ehh inde ako biglang nagalet tapos nag tanong ulet sabi nya yung totoo ano nga po name nyo edi sinabe kona yung totoo tapos ehh	2	
+Saya pa namin umalis kanina biglang pag dating namin sa mabiga may bigla tumawid nabata kaya pag iwas nawalan ng balance C papa kaya inihga nlng motor nagulat ako nag ka pobya mga anak ko salamat sa panginoon wala nangyari smin lahat pati sa batang biglang tumawid  .	2	
+Yung feeling na bigla kang matutulala tas biglang luluha  ?	2	
+2 Job well done Dcarts Hahahahaha yung tipong bigla tayong tatahimik after humalakhak tas biglang may tatawa lamna san galing dba so syempre tatawa naren ako para di awkward	1	
+2 Job well done Dcarts Hahahahaha yung tipong bigla tayong tatahimik after humalakhak tas biglang may tatawa lamna san galing dba so syempre tatawa naren ako para di awkward kunwari extended yung tawa ko And  .	1	
+2 Job well done Dcarts Hahahahaha yung tipong bigla tayong tatahimik after humalakhak tas biglang may tatawa lamna san galing dba so syempre tatawa naren ako para di awkward kunwari extended yung tawa ko Pero atleast masaya and acting normal parin tayo diba Di naman sila nangangain and so tayo rin	1	
+4 kami nung Ahahahah bigla bigla kasing may pumapasok sa clinic ahahah kanina nga sobrang dami namin ehh biglang may dumating na teacher pinaalis sila eh ayaw umalis nagsumbong amp	1	
+Ahahah oh sige hndi na titingin ahah na bigla din kc ako biglang may nag flash	1	
+Alam mo bang sobrang napaiyak nalang ako bigla knina nung Tinanung ni romnick kung okay Lang ako Hndi ko alam biglang pumutak yung Luha ko Bigla nya kasiii akong niyakap Tskkk Ikaw yung namiss ko nung araw nayun	1	
+Alam mo ngay nung nakaupo kayo sa stage kanina tinitignan namin kayo tapos biglang pinatugtog yung hayaan mo sila tapos ket bigla ka naman ng sumayaw HAHAHAHAHAHA favourite mo siguro yun noh  ?	1	
+Alam moba kanina habang nasa bus ako biglang tumugtog yung isang lambing bigla akong naluha pinipilit kung hindi umiyak kasi suot ko yung contact lens baka makusot ko yung mata ko at mapunit pa yung lens pinilit kung hindi umiyak habang pinapakinggan ko yung kantang yun hindi kona mapigilan tumulo ng tumulo luha ko tapos tiningnan ako ng katabi ko sabi bakit sabi ko wala po na puwing lang ako okay lang po ako	1	
+Ang hirap sa kanya kase te bakit ganun sya diko maintindihan biglang nagbago huhu excited pa naman kmi sa anniverssry namin pero bigla syang nagka ganun	1	
+Ayun kanina nanggit ako kasi biglang niyakap ni roland si wenzy na miss kita sobra lalo na nung lumamig bigla tapos tumingin nlng ako sa ulap	1	
+Ayun kanina nanggit ako kasi biglang niyakap ni roland si wenzy na miss kita sobra lalo na nung lumamig bigla tapos tumingin nlng ako sa ulap gusto kitang yakapin sobra	1	
+Bago daw te sila sumugod dyan kagabi pagtungtong daw nila sa court kagabi bigla daw nagbato si bunso ng bato tas biglang takbo daw sa loob bahay	1	
+Baka biglang sumulpot sungay ko at makapagmaldita ako bigla  .	1	
+Baka ngayon magkachat tayo bigla nanamang bumagal to at biglang di nanaman mag load e	1	
+Basta pumunta kase kame dun ni nicka nag pasama si nicka tapos bigla syang dumating tas biglang lumapit sakin tas nag tanong sya nasan si darince tas sabi ko nandun sa kanila tas sabi nya e bat pinagpapawisan ka  .	1	
+Bhe paadvice ano gagawin mo kung ang may biglang dumating sayo tapos bigla ka ring iniwan  ?	1	
+Bigla bigla papano ko mabasa ang laman ng utak mo biglang tupak sabi ko tel now walang sinabi pero chat ko nasagot naman	1	
+Bumili aq knina ng inihaw eh biglang nalaglag ung takip ng sauce eh bigla qng nabanggit na kabayo  .	1	
+Bwisit irad baritao , pateyen day pasyente , dalawang , beses namin pinacheck up dun ni ate tin , di man lng nakita na dengue , kung di pa lumabas rushes niya wala Talaga kami alam , kasi wala na siya lagnat , tas bigla nalanv sumsakit sakit ulo niya , tas biglang napansin ni , ate tin na lumabs , mga rjshdsw	1	
+Daming biglang pumasok sa isip ko parang baliw lang bigla akong nalungkot parang tanga lang noh hirap ikonsdisyon parang makina lang noh ang gulo	1	
+Di ba nya ko bigla tusukin haha nagugulat ako pag biglang nag bibilog sya	1	
+Diba di na kami nag chachat kasi nga minsan lng sya mag online tapos pag mag oonline sya di nya nmn ako china chat tapos kanina bigla syang nag chat biglang bumilis tibok ng puso ko MISS KO NA SIYA	1	
+Diba kase sinuot ko yung Jersey na damet na nasa drawer ng ate ko tas may maki sa likod kase pangalan ng barkada nya yun na may ari ng Jersey tas nakatalikod ako tas biglang nagsalita tita ko sino daw maki nagulat ako tas bigla akong tumawa tas tanong ako ng tanong kung baket akala ko chinat ako ni maki kase nakaopen yung laptop tapos di naman pala umasa ako tas sinabe nya yung damet daw akala nya saken nakalimutan ko yung nakasulat kaya gulat na gulat ako tas niloloko ako boyfriend ko daw How I wish charrr	1	
+Diba nauna kayo ni derpo na naglalakad , tapos biglang pagkaliko dun sa may shell bigla naming nakita si joao tapos biglang tumakbo palayo si lyra	1	
+Gnun tlga minsan ang puti my Mantia na di na kikita ng ordinaryong mata or biglang tingin magugulat kna lng bigla hahaha	1	
+Haha oo tapos bigla magsalita yung lolo mo ano yan tapos biglang sinabi share mo nga sakin mukang maganda eh	1	
+Hahaha biglaan kasi tangna pumunta ako kila atasha kasi mag papasama ako na mag pagupit tas biglang nag chat sila sa gc kaya ayun napapunta kami bigla	1	
+Hahaha biglang naglabasan mga kupal sa trade e taas bigla profit	1	
+Hahaha kaya nga nung nakaraan yung bigla kanalng nang hawak biglang lumakas kabog nang puso ko	1	
+Hi mahal ko pauwi na po ako dumami po bigla guest namin mahal ko 8 pm po biglang dumami yung guest  .	1	
+Hindi ko nga alam bigla nlng ganun eh sumakit ng sobrang saket yung ulo ko pos biglang dumugo ng tuloy tuloy ilong ko hanggang gabe di tumitigil tapos ngayon meron paden pa konti konti nlng	1	
+Kaninang umaga eh sa tricycle bigla kasing pumereno gawa biglang tumawid yung bata tapos kanina natumba ako habang nagliligalig	1	
+Ksi biglang dumating yung may ari eh nakahawak ako dun sa thorn tapos bigla ako hinila nung pinsan ko	1	
+Ksi nasa may spotify ako tas biglang tumunog cp ko sa messenger tapos d ko po pinapansin maya maya bigla ko tiningnan ganan po nagchat sya kaba ko ahh haha ang lakas ng tibok ng puso ko hahahahha	1	
+Lalo na ung bigla ko xang pinush sa wall tapos biglang baba ng ulo nia LOL	1	
+Luhh ok ka lng ba kasi kaganina malungkot ka tas nung may sinabi ako nag haha tas biglang nalungkot tas pagbalik malungkot tas nagagalit tas ngayun tumawa bigla	1	
+Na bigla kc ako nung biglang buhat ng mabigat	1	
+Na kaya bigla akong nawalan ng kwenta sau , na kaya biglang nagbago pakikitungo mo skn , kasi may iba ka na tlg  .	1	
+Naglakad lng ako biglang tumahol tpos hinahabol ako kaya binugaw ko tpos bigla tumakbo papalapit  .	1	
+Nagpunts kasi kaming UT edi palakad yon then sa primark nag ikot lang naman kami don tapos umuwi na kami nandun na kami sa sabungan tapos sabi ko ksy sheam bilisan mag lakad kase baka abutan kami ni mudra edi binilisan namin ni kiray yung lakad tapos bigla kaming tumigil edi nag usap kami tapos biglang harurot bi sheam ng takbo lt abah	1	
+Nakain ako nun sa canteen bigla akong dinuraan una hindi ko muna pinatulan pagkadura sakin biglang dinakot yung kinakain ko puta manggigil ako nasapak ko	1	
+Natutulog ksi ako ng bigla akong gisingin tpos hampasin tpos biglang kinuha ung cp ayun ung dahilan kya ito ngyare	1	
+Nung nandto nga sila rea e pinagluto ko sya dito sya kumain biglang dumating sila ate bigla syang nagtago tas aalis na dapt sya kahit di pa sya tapos kumain kaso pinigilan ko sya tapos cs nilaMama pinakain mo na ba mga cm moRachel hind may mas nauna yan pinakainAte mai si tin akala ko una pagpasok ko kamuka lang si tin pala talaga natuwa nga ako e nakita koAko nagagalit sya nandto si tin kaninaMama e bakit ko pa kasi pinapapuntaAko	1	
+O ako rin kaya'y na sayong puso't-isipanIto ang nakakapagpabagabag sakinNa kahit ang puso't-isipa'y nalilito na rinNa sa tuwing naiisipNa ika'y hindi pa sakinAy may pag-asa pang mawala ka saking pilingMahal , Habang ako'y nag-iisaMay bigla na lang sumagi saking isipanNa biglang nagpalinaw saking sariliAt biglang nagpabago saking pagtinginNa pwede palang maghintay ng di umaasaSapagkat mas masakit ang maghintay ng umaasaSa maghintay na wala naman talagang pag-asa	1	
+#tipikal,	kadalasang
+#Madalang,	madalang
+Madalang nga po magbasketball haha madalang pero napilayan haha	1	
+Madalang nmn ako mkpanood madalang din mka pag cp puro work	1	
+#mabagal,	dahan-dahang 
+#tapat,	sinungaling
+Bhe good evez wag kang mag alala hndi ka niloko nang Bf tapat sya hndi sya nag sinungaling sayo nag chat kmi kasi na share lang nya nag yari sayo nag advace lang sa knya	1	
+Naging tapat k nmn kaya sinabi ko din n my gf ako masama kung mag sinungaling p ako s panahon ngaun kalat ang mga manloloko kaya ayaw ko maging biktima	1	
+Ok pag kasama ung lalaki call mo agad ako plz plzz mahal wag ka mg sinungaling sakin mas gusto ko ung tapat ka sakin	1	
+Sorry Kung Hindi ako Ideal Boy mo hane maks Wala sakin Yung mga Gusto mo sa Lalaki wala sakin Yung Gusto mong ugali sa lalaki wala sakin Yung tapat na lalaki na gusto mo Sorry Kung napaka sinungaling ko at hindi nag sasabi sorry Kung hindi ako Yung ideal boy mo sorry	1	
+Syempre nmn basta tapat ka po sakin hnd sinungaling	1	
+Totoo yan ayaw na ayaw ko sa taong sinungaling at totoo yan tapat talaga ako	1	
+Ung hindi sinungaling ang gisto ko ubg tapat at hindi sinsabi n mahal aq pinaparamdam	1	
+basta tapat ka lang sakin ayaw ko ng sinungaling	1	
+#marahil,	imposible
+#nagpasya,	nag-aalinlangan
+#maaari,	imposible
+maaari aayaw ka pero imposible lage ayaw mo  .	1	
+#maginhawa,	nakasasagabal
+#responsable,	iresponsable
+#masarap,	nakapipinsala
+#masuwerte,	kapus-palad
+#madali,	pinakamadali
+#kakaiba,	pinakakakaiba
+#malamig,	pinakamalamig
+#matalim,	pinakamatalim
+#mainit,	pinakamainit
+At kapag mainit naman dyos me qatar din ang pinakamainit sa buong mundo huhuhuh	1	
+#malakas,	pinakamalakas
+Sobrang lakas daw nun , mas malakas pa daw yun sa pinakamalakas	1	
+#kakaiba,	pinakakakaiba
+#mababa,	pinakamababa
+#malawak,	pinakamalawak
+#maliit,	pinakamaliit
+Basta maliit lng , ung pinakamaliit	1	
+Sis mgkno maliit n macaroni spag ung pinakamaliit	1	
+Wala pong nabibiling maliit na labis gown dito pinakamaliit na yung binili ko po noo	1	
+at special ginamos bka meron dyan bili mo ako konte lng yong pinakamaliit lng na lagayan hanapan mo ako maliit na isda na bagoong isda	1	
+#malamig,	pinakamalamig
+#magaling,	pinakamagaling
+Kami dalawa ni Ace kung sino pinakamagaling salin dalawa ako o siya pipili si mam ng magaling tapos sino magaling sa english siya yung makakasali	1	
+#mainit,	pinakamainit
+At kapag mainit naman dyos me qatar din ang pinakamainit sa buong mundo huhuhuh	1	
+#mahaba,	pinakamahaba
+#mahina,	pinakamahina
+#simple,	pinakasimple
+#matalino,	pinakamatalino
+#mataas,	pinakamataas
+Nung 2nd grading dapat pinakamataas na grade sa english c faye 95 tapos binabaan nila kac masyado daw mataas	1	
+#matangkad,	pinakamatangkad
+#masarap,	pinakamasarap
+pigilan masarap kaya yun sa pkiramdam yun yung pinakamasarap yun lng kpg nasaktan kulang na l g magpakamatay sa saket	1	
+sabi kc nila baby ko masarap daw ang sex un daw ang pinakamasarap sa lahat kaya ung iba ng rape nalang	1	
+#bata,	pinakabata
+#masama,	pinakamasama
+Oo ako na ang masama ako na ang pinakamasama na kapatid pinakapangit pinaka bobo	1	
+sinabi ko lang na masama ugali mo pero di ikaw pinakamasama tanga	1	
+#mabilis,	pinakamabilis
+#matanda,	pinakamatanda
+#mabilis,	pinakamabilis
+#maliwanag,	pinakamaliwanag
+#malaki,	pinakamalaki
+Madam mace ung sunod lng s malaki ung supot wla ng pinakamalaki	6	
+Di pa kc sure kung may malaki kami kasi 4r lang ung pinakamalaki dito	2	
+Bilhin mo yung pinakamalaki neh besssss mas masarap kapag malaki alam mo yan	1	
+Dalawang malaki Mommy US in pinakamalaki	1	
+tanchico kagabi naku pinapapalitan ng malaki yung upright freezer sabi check ko kung anong size ang pinakamalaki kasi yung luma nya daw 10cu  .	1	
+#malaki,	pinakamalaki
+Madam mace ung sunod lng s malaki ung supot wla ng pinakamalaki	6	
+Di pa kc sure kung may malaki kami kasi 4r lang ung pinakamalaki dito	2	
+Bilhin mo yung pinakamalaki neh besssss mas masarap kapag malaki alam mo yan	1	
+Dalawang malaki Mommy US in pinakamalaki	1	
+tanchico kagabi naku pinapapalitan ng malaki yung upright freezer sabi check ko kung anong size ang pinakamalaki kasi yung luma nya daw 10cu  .	1	
+#mabagal,	pinakamabagal
+#maikli,	pinakamaikli
+#mabuti,	pinakamabuti
+#madilim,	pinakamadilim
+#masuwerte,	pinakamasuwerte
+#matamis,	pinakamatamis
+#Thailand,	Thai
+Thai Airways eroplano ko sasakyan , mag stop over sa Bangkok Thailand  .	1	
+#India,	Indiyano
+#Portugal,	Portuges
+#Belarusya,	Belaruso
+#Suwesya,	Suweso
+#Espanya,	Espanyol
+#Mehiko,	Mehikano
+#Brasil,	Brasileno
+#Tsina,	Tsino
+#Peru,	Peruano
+#Arhentina,	Arhentino
+#Korea,	Koreano
+Kasi kapag sa Korea , kapag 30 na ang Koreano , nagmi-military LAHAT NG LALAKE  !	1	
+Pag nag move ka sa Korea wag na wag ka mag-aasawa ng Koreano kasi mahihirapan ka	1	
+#Ehipto,	Ehipto
+#Ukranya,	Ukranyano
+#Australya,	Australyano
+#Rusya,	Ruso
+#Hapon,	Hapones
+#Cambodia,	Cambodiano
+#Gresya,	Gresyano
+#Olanda,	Olandes
+#Inglatera,	Ingles
+#Polonya,	Polako
+#Irlanda,	Irlandes
+#Eslobakya,	Eslobako
+#Albanya,	Albanes
+#Chile,	Chileno
+#Alemanya,	Aleman
+#Austriya,	Austriyano
+#Italya,	Italyano
+#Noruwega,	Norwego
+#Suwisa,	Suwesya
+#Malta,	Maltes
+#Israel,	Israelita
+#Moldova,	Moldovano
+#Colombia,	Kolombyano
+#Bulgarya,	Bulgaryano
+#Masedonya,	Masedonyano
+#Kroasiya,	Kroasyano
+#Dinamarka,	Danes
+#Islanda,	Islandiko
+#Pransya,	Pranses

@@ -14,7 +14,8 @@ vk_langs=("ru")
 #dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "de" "it" "tl")
 #dbg_langs=("it" "tl")
 #dbg_langs=("de")
-dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "it" "tl")
+#dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "it" "tl" "en" "de")
+dbg_langs=("id" "es" "esUS" "esLAT" "ru" "ptBR" "pt" "frCA" "frFR" "it" "tl" "en" "de" "tr" "th" "ar" "vi")
 
 langs=()
 input="/user/ime/fengchaobing/dl_corpus/${datatype}/split_freq/part-*"

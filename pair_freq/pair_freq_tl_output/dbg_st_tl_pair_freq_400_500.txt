@@ -1,0 +1,45 @@
+#matamis,	pinakamatamis
+#Thailand,	Thai
+Thai Airways eroplano ko sasakyan , mag stop over sa Bangkok Thailand  .	1	
+#India,	Indiyano
+#Portugal,	Portuges
+#Belarusya,	Belaruso
+#Suwesya,	Suweso
+#Espanya,	Espanyol
+#Mehiko,	Mehikano
+#Brasil,	Brasileno
+#Tsina,	Tsino
+#Peru,	Peruano
+#Arhentina,	Arhentino
+#Korea,	Koreano
+Kasi kapag sa Korea , kapag 30 na ang Koreano , nagmi-military LAHAT NG LALAKE  !	1	
+Pag nag move ka sa Korea wag na wag ka mag-aasawa ng Koreano kasi mahihirapan ka	1	
+#Ehipto,	Ehipto
+#Ukranya,	Ukranyano
+#Australya,	Australyano
+#Rusya,	Ruso
+#Hapon,	Hapones
+#Cambodia,	Cambodiano
+#Gresya,	Gresyano
+#Olanda,	Olandes
+#Inglatera,	Ingles
+#Polonya,	Polako
+#Irlanda,	Irlandes
+#Eslobakya,	Eslobako
+#Albanya,	Albanes
+#Chile,	Chileno
+#Alemanya,	Aleman
+#Austriya,	Austriyano
+#Italya,	Italyano
+#Noruwega,	Norwego
+#Suwisa,	Suwesya
+#Malta,	Maltes
+#Israel,	Israelita
+#Moldova,	Moldovano
+#Colombia,	Kolombyano
+#Bulgarya,	Bulgaryano
+#Masedonya,	Masedonyano
+#Kroasiya,	Kroasyano
+#Dinamarka,	Danes
+#Islanda,	Islandiko
+#Pransya,	Pranses

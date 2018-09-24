@@ -21,7 +21,7 @@ $hadoopcmd --config "$hadoopconf" jar "$hstream" \
     -D mapred.text.key.partitioner.options="-k1,1" \
     -D mapred.output.key.comparator.class=org.apache.hadoop.mapred.lib.KeyFieldBasedComparator \
     -D mapred.text.key.comparator.options="-k1,1 -k2,2" \
-    -D mapred.map.tasks=500 \
+    -D mapred.map.tasks=10000 \
     -D mapred.reduce.tasks=30 \
     -cacheArchive hdfs://master01.zeus.hadoop.ctc.sogou-op.org:6230/user/ime/wangzehui/tools/python27.tar.gz#py \
     -cacheArchive hdfs://master01.zeus.hadoop.ctc.sogou-op.org:6230/user/ime/wangzehui/language_detect/demo_forcorpus.tar.gz#demo_forcorpus \

@@ -40,8 +40,10 @@ if true
 then
 #processing pt :
 #processing fr :
+#processing de :
 
-lang="fr"
+#lang="fr"
+lang="de"
 echo "processing ${lang} !"
 datatype="facebook"
 echo "processing ${lang} - ${datatype} !"
@@ -58,6 +60,8 @@ echo "processing ${lang} - ${datatype} !"
 cd ../freq_vob && sh run.sh ${datatype} ${lang}
 cd ../trans_vob && sh run.sh ${datatype} ${lang}
 fi
+
+
 
 cd ..
 sh tar_update.sh 

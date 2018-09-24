@@ -20,4 +20,4 @@ fi
 
 #python markov_2gram_vob.py ../origin_corpus/es_fb_no_ugc.txt es_fb_no_ugc_trans_vob.pkl
 
-python markov_2gram_vob.py ../origin_corpus/${lang}_${short_d}_no_ugc.txt ${lang}_${short_d}_no_ugc_trans_vob.pkl
+python markov_2gram_vob.py ../origin_corpus/${lang}/${lang}_${short_d}_no_ugc.txt ${lang}_${short_d}_no_ugc_trans_vob.pkl

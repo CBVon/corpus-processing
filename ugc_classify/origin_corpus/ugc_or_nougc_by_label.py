@@ -1,6 +1,9 @@
 #python ugc_or_nougc_by_label.py facebook ru
 import sys
+import codecs
 
+reload(sys) 
+sys.setdefaultencoding('utf-8') 
 
 datatype = sys.argv[1]
 lang = sys.argv[2]
@@ -17,13 +20,18 @@ elif datatype == "vk":
 
 #full_f = open(datatype + "_" + lang + "_top_freq_1000.txt", "r")
 #full_f = open(lang + "_" + short_d + "_2000.txt")
-full_f = open(lang + "_" + short_d + "_2000_marked.txt")
+#full_f = open(lang + "_" + short_d + "_2000_marked.txt")
 
-ugc_f = open(lang + "_" + short_d + "_ugc.txt", "w")
-no_ugc_f = open(lang + "_" + short_d + "_no_ugc.txt", "w")
+top_l = open(lang + "/" + lang + "_" + short_d + "_tmp/" + datatype + "_" + lang + "_top_freq_1000.txt", "r").readlines()
+random_l = open(lang + "/" + lang + "_" + short_d + "_tmp/" + lang + "_" + short_d  + "_1000lines.txt", "r").readlines()
+all_l = top_l + random_l
 
-for line in full_f:
-    
+ugc_f = open(lang + "/" + lang + "_" + short_d + "_ugc.txt", "w")
+no_ugc_f = open(lang + "/" + lang + "_" + short_d + "_no_ugc.txt", "w")
+
+#for line in full_f:
+for line in all_l:
+
     line_l = line.strip().split('\t')
 
 #    if len(line_l) == 2:

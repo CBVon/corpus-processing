@@ -1,4 +1,5 @@
 #!/bin/bash
+# sh pair_freq_hadoop.sh dbg_st ru 0 100
 source /etc/profile
 source ~/.bash_profile
 
@@ -30,7 +31,10 @@ then
 elif [[ ${lang} == "it" ]]
 then
     pairtxt="It_word_pairs.txt"
-fi
+elif [[ ${lang} == "tl" ]]
+then
+    pairtxt="Tl_word_pairs.txt"
+fi    
 
 pairfreqfile="./pair_freq_${lang}_output/${datatype}_${lang}_pair_freq_${3}_${4}.txt"
 

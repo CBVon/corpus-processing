@@ -187,8 +187,8 @@ def get_train_xy(file, y):
     return train_xy
 
 
-train_posi_xy = get_train_xy(path_pre + "/origin_corpus/" + lang + "_" + datatype + "_ugc.txt", 1)
-train_nega_xy = get_train_xy(path_pre + "/origin_corpus/" + lang + "_" + datatype + "_no_ugc.txt", 0)
+train_posi_xy = get_train_xy(path_pre + "/origin_corpus/" + lang + "/" + lang + "_" + datatype + "_ugc.txt", 1)
+train_nega_xy = get_train_xy(path_pre + "/origin_corpus/" + lang + "/" + lang + "_" + datatype + "_no_ugc.txt", 0)
 train_xy = train_posi_xy + train_nega_xy
 #恒定——随机打乱
 random.seed(0) 

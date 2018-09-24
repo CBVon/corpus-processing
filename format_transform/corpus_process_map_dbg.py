@@ -189,7 +189,8 @@ for line in sys.stdin:
     #langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de"]
     #langs = ["it", "tl"]
     #langs = ["de"] #20180530 de-debug
-    langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de", "it", "tl"]
+    #langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de", "it", "tl", "en"]
+    langs = ["id", "es", "ru", "esUS", "esLAT", "ptBR", "pt", "frCA", "frFR", "de", "it", "tl", "en", "tr", "th", "ar", "vi"]
     try:
         oriline = line.strip()
         infos = oriline.split("\t")

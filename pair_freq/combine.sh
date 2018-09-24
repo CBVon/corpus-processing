@@ -1,3 +1,4 @@
+#sh combine.sh dbg_st ru 0 500
 datatype=$1
 lang=$2
 begin=$3

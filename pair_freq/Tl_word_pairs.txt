@@ -1,0 +1,480 @@
+1. capital-common-countries			
+Tokyo	Japan	Tokyo	Hapon
+Helsinki	Finland	Helsinki	Finland
+Madrid	Spain	Madrid	Espanya
+Paris	France	Paris	Pransya
+Havana	Cuba	Havana	Cuba
+Tehran	Iran	Tehran	Iran
+Cairo	Egypt	Cairo	Ehipto
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Bern	Suwisa
+Canberra	Australia	Canberra	Australya
+London	England	London	Inglatera
+Berlin	Germany	Berlin	Alemanya
+Kabul	Afghanistan	Kabul	Afghanistan
+Athens	Greece	Atenas	Gresya
+Moscow	Russia	Mosku 	Rusya
+Stockholm	Sweden	Estokolmo 	Suwesya
+Ottawa	Canada	Ottawa	Canada
+Rome	Italy	Roma	Italya
+Hanoi	Vietnam	Hanoi	Biyetnam 
+Beijing	China	Beijing	Tsina
+Bangkok	Thailand	Bangkok	Thailand
+Oslo	Norway	Oslo	Noruwega 
+Baghdad	Iraq	Baghdad	Iraq
+2. capital-world			
+Funafuti	Tuvalu	Funafuti	Tuvalu
+Madrid	Spain	Madrid	Espanya
+Paris	France	Paris	Pransya
+Nassau	Bahamas	Nassau	Bahamas
+Maputo	Mozambique	Maputo	Mozambique
+Tehran	Iran	Tehran	Iran
+Vientiane	Laos	Vientiane	Laos
+Bamako	Mali	Bamako	Mali
+Ankara	Turkey	Ankara	Turkiya 
+Vaduz	Liechtenstein	Vaduz	Liechtenstein
+Asmara	Eritrea	Asmara	Eritrea
+Roseau	Dominica	Roseau	Dominika
+Dushanbe	Tajikistan	Dushanbe	Tajikistan
+Sofia	Bulgaria	Sofia	Bulgarya
+Bucharest	Romania	Bukarest	Rumanya
+Tunis	Tunisia	Tunis	Tunisia
+Lusaka	Zambia	Lusaka	Zambia
+Quito	Ecuador	Quito	Ecuador
+Khartoum	Sudan	Hartum	Sudan
+Montevideo	Uruguay	Montevideo	Uruguay
+Antananarivo	Madagascar	Antananarivo	Madagascar
+Kiev	Ukraine	Kiev	Ukranya
+Rome	Italy	Roma	Italya
+Hanoi	Vietnam	Hanoi	Biyetnam 
+Damascus	Syria	Damasco	Syria
+Oslo	Norway	Oslo	Noruwega 
+Vilnius	Lithuania	Vilnius	Litwaniya
+Algiers	Algeria	Alher	Alherya
+Tashkent	Uzbekistan	Taskent	Uzbekistan
+Tokyo	Japan	Tokyo	Hapon
+Helsinki	Finland	Helsinki	Pinlandya
+Dublin	Ireland	Dublin	Irlanda
+Chisinau	Moldova	Kisinau	Moldova
+Managua	Nicaragua	Managua	Nicaragua
+Paramaribo	Suriname	Paramaribo	Surinam
+Bishkek	Kyrgyzstan	Biskek	Kyrgyzstan
+Cairo	Egypt	Cairo	Ehipto
+Amman	Jordan	Aman	Hordan
+Budapest	Hungary	Budapest	Unggarya
+Doha	Qatar	Doha	Qatar
+Astana	Kazakhstan	Astana	Kazakhstan
+Kabul	Afghanistan	Kabul	Afghanistan
+Monrovia	Liberia	Monrovia	Liberya
+Dhaka	Bangladesh	Dhaka	Bangladesh
+Mogadishu	Somalia	Mogadiscio	Somalya
+Bujumbura	Burundi	Bujumbura	Burundi
+Valletta	Malta	Valeta	Malta
+Nouakchott	Mauritania	Nouakchott	Mauritanya
+Kingston	Jamaica	Kingston	Hamayka
+Beirut	Lebanon	Beirut	Lebanon
+Beijing	China	Beijing	Tsina
+Bangkok	Thailand	Bangkok	Thailand
+Harare	Zimbabwe	Harare	Zimbabwe
+Muscat	Oman	Maskate	Oman
+Baghdad	Iraq	Baghdad	Iraq
+Conakry	Guinea	Conakry	Ginea
+Tallinn	Estonia	Tallin	Estonya
+Georgetown	Guyana	Georgetown	Guyana
+Taipei	Taiwan	Taipei	Taiwan
+Rabat	Morocco	Rabat	Morocco
+Yerevan	Armenia	Yerevan	Armenya
+Havana	Cuba	Havana	Cuba
+Thimphu	Bhutan	Timbu	Bhutan
+Nuuk	Greenland	Nuuk	Greenland
+Baku	Azerbaijan	Baku	Azerbaijan
+Kigali	Rwanda	Kigali	Rwanda
+Dakar	Senegal	Dakar	Senegal
+Suva	Fiji	Suva	Fiji
+Belmopan	Belize	Belmopan	Belize
+Banjul	Gambia	Banjul	Gambiya
+Athens	Greece	Atenas	Gresya
+Riga	Latvia	Riga	Latbiya
+Zagreb	Croatia	Zagreb	Kroasya
+Skopje	Macedonia	Skopje	Masedonya
+Ashgabat	Turkmenistan	Ashgabat	Turkmenistan
+Stockholm	Sweden	Stockholm	Suwesya
+Manila	Philippines	Manila	Pilipinas
+Brussels	Belgium	Brussels	Belhika
+Luanda	Angola	Luanda	Angola
+Nicosia	Cyprus	Nicosia	Tsipre
+Santiago	Chile	Santiago	Chile
+Caracas	Venezuela	Caracas	Venezuela
+Minsk	Belarus	Minsk	Belarusya
+Tbilisi	Georgia	Tbilisi	Georgia
+Libreville	Gabon	Libreville	Gabon
+Tegucigalpa	Honduras	Tegucigalpa	Honduras
+London	England	London	Inglatera
+Vienna	Austria	Viena	Austriya
+Warsaw	Poland	Varsovia	Polonya
+Berlin	Germany	Berlin	Alemanya
+Islamabad	Pakistan	Islamabad	Pakistan
+Bern	Switzerland	Bern	Suwisa
+Lima	Peru	Lima	Peru
+Accra	Ghana	Accra	Ghana
+Tripoli	Libya	Tripoli	Libya
+Gaborone	Botswana	Gaborone	Botswana
+Manama	Bahrain	Manama	Bahrain
+Bratislava	Slovakia	Bratislava	Eslobakya
+Canberra	Australia	Canberra	Australya
+Kampala	Uganda	Kampala	Uganda
+Kathmandu	Nepal	Katmandu	Nepal
+Lisbon	Portugal	Lisbon	Portugal
+Apia	Samoa	Apia	Samoa
+Belgrade	Serbia	Belgrado	Serbiya
+Jakarta	Indonesia	Jakarta	Indonesya
+Lilongwe	Malawi	Lilongwe	Malawi
+Ljubljana	Slovenia	Liubliana	Islobenya
+Moscow	Russia	Moscow	Rusya
+Tirana	Tirana	Tirana	Tirana
+Ottawa	Canada	Ottawa	Canada
+Nairobi	Kenya	Nairobi	Kenya
+Copenhagen	Denmark	Copenhague	Dinamarka
+Niamey	Niger	Niamey	Niger
+Abuja	Nigeria	Abuja	Nigeria
+Windhoek	Namibia	Windhoek	Namibia
+Podgorica	Montenegro	Podgorica	Montenegro
+3. currency			
+Poland	zloty	Polonya	zloty
+Brazil	real	Brasil	real
+Vietnam	dong	Biyetnam	dong
+Sweden	krona	Suwesya	krona
+Angola	kwanza	Angola	kwanza
+Japan	yen	Hapon	yen
+Mexico	peso	Mehiko	peso
+Latvia	lats	Latbiya	lats
+Lithuania	litas	Litwaniya	litas
+Hungary	forint	Unggarya	forint
+USA	dollar	Estados Unidos	dolyar
+Denmark	krone	Dinamarka	krone
+Armenia	dram	Armenya	dram
+Thailand	baht	Thailand	baht
+Nigeria	naira	Nigeria	naira
+Romania	leu	Rumanya	leu
+Argentina	peso	Arhentina	peso
+Russia	ruble	Rusya	rublo
+Algeria	dinar	Algeria	dinar
+Ukraine	hryvnia	Ukranya	hiribniya
+Croatia	kuna	Croatia	kuna
+Cambodia	riel	Cambodia	riel
+Canada	dollar	Canada	dolyar
+Korea	won	Korea	won
+Europe	euro	Europa	euro
+Malaysia	ringgit	Malaysia	ringgit
+Iran	rial	Iran	riyal
+India	rupee	India	rupee
+Macedonia	denar	Masedonya	denar
+Bulgaria	lev	Bulgarya	lev
+4. city-in-state			
+Wichita	Kansas	Wichita	Kansas
+Akron	Ohio	Akron	Ohayo
+Irvine	California	Irvine	California
+Toledo	Ohio	Toledo	Ohayo
+Indianapolis	Indiana	Indiyanapolis	Indiyana
+Denver	Colorado	Denber	Kolorado
+Milwaukee	Wisconsin	Milwaukee	Wisconsin
+Reno	Nevada	Reno	Nebada
+Boston	Massachusetts	Boston	Massachusetts
+Minneapolis	Minnesota	Minyapolis	Minesota
+Bakersfield	California	Bakersfield	California
+Henderson	Nevada	Henderson	Nebada
+Seattle	Washington	Seattle	Washington
+Atlanta	Georgia	Atlanta	Georgia
+Chandler	Arizona	Chandler	Arizona
+Dallas	Texas	Dallas	Tehas
+Madison	Wisconsin	Madison	Wisconsin
+Tampa	Florida	Tampa	Plorida
+Tallahassee	Florida	Tallahassee	Plorida
+Irving	Texas	Irving	Tehas
+Fontana	California	Fontana	California
+Anaheim	California	Anaheim	California
+Fresno	California	Fresno	California
+Amarillo	Texas	Amarillo	Tehas
+Hialeah	Florida	Hialeah	Plorida
+Pittsburgh	Pennsylvania	Pittsburgh	Pensilbanya
+Austin	Texas	Austin	Tehas
+Sacramento	California	Sakramento	California
+Portland	Oregon	Portland	Oregon
+Glendale	California	Glendale	California
+Jacksonville	Florida	Jacksonville	Plorida
+Shreveport	Louisiana	Shreveport	Luwisiyana
+Lexington	Kentucky	Lexington	Kentucky
+Tulsa	Oklahoma	Tulsa	Oklahoma
+Glendale	Arizona	Glendale	Arizona
+Tucson	Arizona	Tucson	Arizona
+Mesa	Arizona	Mesa	Arizona
+Spokane	Washington	Spokane	Washington
+Memphis	Tennessee	Memphis	Tennessee
+Oxnard	California	Oxnard	California
+Tacoma	Washington	Tacoma	Washington
+Lubbock	Texas	Lubbock	Texas
+Worcester	Massachusetts	Worcester	Massachusetts
+Miami	Florida	Miami	Plorida
+Cleveland	Ohio	Cleveland	Ohayo
+Scottsdale	Arizona	Scottsdale	Arizona
+Louisville	Kentucky	Louisville	Kentaki
+Stockton	California	Stockton	California
+Detroit	Michigan	Detroit	Misigan
+Phoenix	Arizona	Phoenix	Arizona
+Philadelphia	Pennsylvania	Philadelphia	Pensilbanya
+Huntsville	Alabama	Huntsville	Alabama
+Cincinnati	Ohio	Cincinnati	Ohayo
+Honolulu	Hawaii	Honolulu	Haway
+Nashville	Tennessee	Nashville	Tenesi
+Oakland	California	Oakland	California
+Houston	Texas	Houston	Tehas
+Fremont	California	Fremont	California
+Orlando	Florida	Orlando	Plorida
+Arlington	Texas	Arlington	Tehas
+Omaha	Nebraska	Omaha	Nebraska
+Laredo	Texas	Laredo	Tehas
+Chicago	Illinois	Chicago	Ilinoy
+Baltimore	Maryland	Baltimore	Maryland
+Anchorage	Alaska	Anchorage	Alaska
+Plano	Texas	Plano	Tehas
+Modesto	California	Modesto	California
+Garland	Texas	Garland	Tehas
+5. family			
+brothers	sisters	mga kapatid na lalaki	mga kapatid na babae
+stepfather	stepmother	amang panguman	inang panguman
+his	her	kanya	kanya
+grandson	granddaughter	apong lalaki	apong babae
+man	woman	lalaki	babae
+stepson	stepdaughter	lalaking anak na panguman	babaeng anak na panguman
+husband	wife	asawa	asawa
+grandfather	grandmother	lolo	lola
+groom	bride	nobyo	nobya
+grandpa	grandma	lolo	lola
+brother	sister	kapatid na lalaki	kapatid na babae
+king	queen	hari	reyna
+son	daughter	anak na lalaki	anak na babae
+father	mother	ama	ina
+prince	princess	prinsipe	prinsesa
+boy	girl	batang lalaki	batang babae
+nephew	niece	pamangkin na lalaki	pamangkin na babae
+stepbrother	stepsister	lalaking kapatid na panguman	babaeng kapatid na panguman
+he	she	siya	siya
+dad	mom	ama	ina
+uncle	aunt	tiyo	tiya
+sons	daughters	mga anak na lalaki	mga anak na babae
+policeman	policewoman	lalaking pulis	babaeng pulis
+6. gram1-adjective-to-adverb			
+complete	completely	kumpleto	ganap
+lucky	luckily	masuwerte	sa kabutihang palad
+quick	quickly	mabilis	mabilisang
+rare	rarely	bihira	bihirang
+amazing	amazingly	kahanga-hanga	kahanga-hangang
+possible	possibly	maaari	marahil
+unfortunate	unfortunately	kapus-palad	sa kasamaang palad
+cheerful	cheerfully	masayahin	masayang
+most	mostly	karamihan	karamihang
+fortunate	fortunately	masuwerte	sa kabutihang palad
+free	freely	malaya	malayang
+safe	safely	ligtas	ligtas
+swift	swiftly	mabilis	mabilisang
+apparent	apparently	malinaw	tila
+efficient	efficiently	episyente	episyenteng
+rapid	rapidly	matulin	matuling
+precise	precisely	tumpak	tiyak
+reluctant	reluctantly	nag-aatubili	atubiling
+serious	seriously	seryoso	seryosong
+calm	calmly	kalmado	kalmadong
+happy	happily	masaya	masayang
+usual	usually	karaniwan	kadalasang
+furious	furiously	galit na galit	nagngangalit
+occasional	occasionally	paminsan-minsan	paminsan-minsang
+immediate	immediately	kaagad	kaagad
+professional	professionally	propesyonal	propesyonal
+obvious	obviously	halata	halatang
+sudden	suddenly	bigla	biglang
+typical	typically	tipikal	kadalasang
+quiet	quietly	tahimik	nang tahimik
+infrequent	infrequently	Madalang	madalang
+slow	slowly	mabagal	dahan-dahang 
+7. gram2-opposite			
+clear	unclear	malinaw	hindi malinaw
+honest	dishonest	tapat	sinungaling
+convincing	unconvincing	nakakakumbinsi	hindi nakakakumbinsi
+competitive	uncompetitive	mapagkumpitensya	hindi mapagkumpitensya
+known	unknown	kilala	hindi kilala
+impressive	unimpressive	kahanga-hanga	hindi kanais-nais
+possibly	impossibly	marahil	imposible
+decided	undecided	nagpasya	nag-aalinlangan
+consistent	inconsistent	pare-pareho	hindi pantay-pantay
+ethical	unethical	etikal	walang modo
+informed	uninformed	alam	hindi alam
+comfortable	uncomfortable	komportable	hindi komportable
+possible	impossible	maaari	imposible
+logical	illogical	lohikal	hindi makatwiran
+efficient	inefficient	episyente	hindi mabisa
+productive	unproductive	produktibo	walang bunga
+convenient	inconvenient	maginhawa	nakasasagabal
+responsible	irresponsible	responsable	iresponsable
+pleasant	unpleasant	maaya	hindi kanais-nais
+tasteful	distasteful	masarap	nakapipinsala
+fortunate	unfortunate	masuwerte	kapus-palad
+informative	uninformative	nagbibigay-kabatiran	hindi mapagtanto
+rational	irrational	makatuwiran	hindi makatuwiran
+acceptable	unacceptable	katanggap-tanggap	hindi katanggap-tanggap
+aware	unaware	kamalayan	walang kamalayan
+reasonable	unreasonable	makatuwiran	hindi makatuwiran
+sure	unsure	sigurado	hindi sigurado
+certain	uncertain	tiyak	hindi tiyak
+likely	unlikely	malamang	walang kasiguruhan
+8. gram3-comparative			
+low	lower	mababa	mas mababa
+old	older	matanda	mas matanda
+fast	faster	mabilis	mas mabilis
+heavy	heavier	mabigat	mas mabigat
+tight	tighter	masikip	mas masikip
+simple	simpler	simple	mas simple
+large	larger	malaki	mas malaki
+hot	hotter	mainit	mas mainit
+big	bigger	malaki	mas malaki
+tough	tougher	matigas	mas matigas
+high	higher	mataas	mas mataas
+strong	stronger	malakas	mas malakas
+bright	brighter	maliwanag	mas maliwanag
+cheap	cheaper	mura	mas mura
+warm	warmer	mainit-init	mas mainit
+young	younger	bata	mas bata
+quick	quicker	mabilis	mas mabilis
+deep	deeper	malalim	mas malalim
+loud	louder	malakas	mas malakas
+new	newer	bago	mas bago
+wide	wider	malawak	mas malawak
+bad	worse	masama	mas masama
+long	longer	mahaba	mas mahaba
+slow	slower	mabagal	mas mabagal
+easy	easier	madali	mas madali
+short	shorter	maikli	mas maikli
+small	smaller	maliit	mas maliit
+sharp	sharper	matalim	mas matalim
+safe	safer	ligtas	mas ligtas
+cold	colder	malamig	mas malamig
+good	better	mabuti	mas mabuti
+tall	taller	matangkad	mas matangkad
+weak	weaker	mahina	mas mahina
+smart	smarter	matalino	mas matalino
+cool	cooler	malamig	mas malamig
+great	greater	malaki	mas malaki
+hard	harder	mahirap	mas mahirap
+9. gram4-superlative			
+easy	easiest	madali	pinakamadali
+weird	weirdest	kakaiba	pinakakakaiba
+cold	coldest	malamig	pinakamalamig
+sharp	sharpest	matalim	pinakamatalim
+warm	warmest	mainit	pinakamainit
+strong	strongest	malakas	pinakamalakas
+strange	strangest	kakaiba	pinakakakaiba
+low	lowest	mababa	pinakamababa
+wide	widest	malawak	pinakamalawak
+small	smallest	maliit	pinakamaliit
+cool	coolest	malamig	pinakamalamig
+great	greatest	magaling	pinakamagaling
+hot	hottest	mainit	pinakamainit
+long	longest	mahaba	pinakamahaba
+weak	weakest	mahina	pinakamahina
+simple	simplest	simple	pinakasimple
+smart	smartest	matalino	pinakamatalino
+high	highest	mataas	pinakamataas
+tall	tallest	matangkad	pinakamatangkad
+tasty	tastiest	masarap	pinakamasarap
+young	youngest	bata	pinakabata
+bad	worst	masama	pinakamasama
+quick	quickest	mabilis	pinakamabilis
+old	oldest	matanda	pinakamatanda
+fast	fastest	mabilis	pinakamabilis
+bright	brightest	maliwanag	pinakamaliwanag
+big	biggest	malaki	pinakamalaki
+large	largest	malaki	pinakamalaki
+slow	slowest	mabagal	pinakamabagal
+short	shortest	maikli	pinakamaikli
+good	best	mabuti	pinakamabuti
+dark	darkest	madilim	pinakamadilim
+lucky	luckiest	masuwerte	pinakamasuwerte
+sweet	sweetest	matamis	pinakamatamis
+10. gram6-nationality-adjective			
+Thailand	Thai	Thailand	Thai
+India	Indian	India	Indiyano
+Portugal	Portuguese	Portugal	Portuges
+Belarus	Belorussian	Belarusya	Belaruso
+Sweden	Swedish	Suwesya	Suweso
+Spain	Spanish	Espanya	Espanyol
+Mexico	Mexican	Mehiko	Mehikano
+Brazil	Brazilian	Brasil	Brasileno
+China	Chinese	Tsina	Tsino
+Peru	Peruvian	Peru	Peruano
+Argentina	Argentinean	Arhentina	Arhentino
+Korea	Korean	Korea	Koreano
+Egypt	Egyptian	Ehipto	Ehipto
+Ukraine	Ukrainian	Ukranya	Ukranyano
+Australia	Australian	Australya	Australyano
+Russia	Russian	Rusya	Ruso
+Japan	Japanese	Hapon	Hapones
+Cambodia	Cambodian	Cambodia	Cambodiano
+Greece	Greek	Gresya	Gresyano
+Netherlands	Dutch	Olanda	Olandes
+England	English	Inglatera	Ingles
+Poland	Polish	Polonya	Polako
+Ireland	Irish	Irlanda	Irlandes
+Slovakia	Slovakian	Eslobakya	Eslobako
+Albania	Albanian	Albanya	Albanes
+Chile	Chilean	Chile	Chileno
+Germany	German	Alemanya	Aleman
+Austria	Austrian	Austriya	Austriyano
+Italy	Italian	Italya	Italyano
+Norway	Norwegian	Noruwega	Norwego
+Switzerland	Swiss	Suwisa	Suwesya
+Malta	Maltese	Malta	Maltes
+Israel	Israeli	Israel	Israelita
+Moldova	Moldovan	Moldova	Moldovano
+Colombia	Colombian	Colombia	Kolombyano
+Bulgaria	Bulgarian	Bulgarya	Bulgaryano
+Macedonia	Macedonian	Masedonya	Masedonyano
+Croatia	Croatian	Kroasiya	Kroasyano
+Denmark	Danish	Dinamarka	Danes
+Iceland	Icelandic	Islanda	Islandiko
+France	French	Pransya	Pranses
+11. gram8-plural			
+color	colors	kulay	mga kulay
+dream	dreams	panaginip	mga panaginip
+mango	mangoes	mangga	mga mangga
+elephant	elephants	elepante	mga elepante
+monkey	monkeys	unggoy	mga unggoy
+eagle	eagles	agila	mga agila
+hand	hands	kamay	mga kamay
+bottle	bottles	bote	mga bote
+woman	women	babae	mga babae
+melon	melons	melon	mga melon
+cloud	clouds	ulap	mga ulap
+lion	lions	leon	mga leon
+mouse	mice	bubuwit	mga bubuwit
+pig	pigs	baboy	mga baboy
+donkey	donkeys	asno	mga asno
+machine	machines	makina	mga makina
+road	roads	kalsada	mga kalsada
+rat	rats	daga	mga daga
+onion	onions	sibuyas	mga sibuyas
+snake	snakes	ahas	mga ahas
+car	cars	kotse	mga kotse
+building	buildings	gusali	mga gusali
+man	men	lalaki	mga lalaki
+pineapple	pineapples	pinya	mga pinya
+cat	cats	pusa	mga pusa
+bird	birds	ibon	mga ibon
+cow	cows	baka	mga baka
+goat	goats	kambing	mga kambing
+horse	horses	kabayo	mga kabayo
+child	children	anak	mga anak
+computer	computers	computer	mga computer
+dollar	dollars	dolyar	mga dolyar
+banana	bananas	saging	mga saging
+finger	fingers	daliri	mga daliri
+dog	dogs	aso	mga aso
+pear	pears	peras	mga peras

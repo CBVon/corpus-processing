@@ -199,18 +199,20 @@ def process():
     for line in sys.stdin:
         try:
             line = line.strip()
-	    infos = line.split('\t')
-	    if len(infos) != 3:
-	        continue
+            infos = line.split('\t')
+            #print len(infos)
+            if len(infos) != 2:
+                continue
 
-	    lang = infos[0].strip()
-	    if lang != langtag:
-	        continue
-            sentence = infos[1].strip()
-	    ori_sentence = sentence
-	    sf = infos[2].strip()
-            
-	    sentence = re.sub('[^a-zA-Z]',' ',sentence).strip()
+            Q= infos[0].strip()
+            #if lang != langtag:
+            #    continue
+            A = infos[1].strip()
+            #ori_sentence = sentence
+            #sf = infos[2].strip()
+            #print Q + "\t" + A
+            sentence = Q
+            sentence = re.sub('[^a-zA-Z]',' ',sentence).strip()
             if len(sentence)<2:
                 continue
             line_list = sentence.split(' ')
@@ -226,9 +228,9 @@ def process():
             str_feature_rule = getBasicRuleFeature(temp_str.strip())
             str_feature = str_feature_rule
             result = get_predict_result(str_feature, rfc)
-
+            #print result
             if result == 1:
-                print lang + "\t" + sentence + "\t" + sf
+                print Q + '\t' + A
         except Exception, ex:
             continue
 
